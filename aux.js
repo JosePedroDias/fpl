@@ -1,5 +1,26 @@
 const fs = require('fs');
 const csv = require('csv-parser');
+const http = require('http');
+const https = require('https');
+
+function get(url) {
+  const prot = url.indexOf('https:') === 0 ? https : http;
+  return new Promise((resolve, reject) => {
+    prot.get(url, (resp) => {
+      let data = '';
+
+      resp.on('data', (chunk) => {
+        data += chunk;
+      });
+
+      resp.on('end', () => {
+        resolve(data);
+      });
+
+      resp.on('error', reject);
+    });
+  });
+}
 
 // given a CSV file, returns an array of row objects
 function readCsv(fn) {
@@ -14,6 +35,14 @@ function readCsv(fn) {
         resolve(results);
       });
   });
+}
+
+function writeJson(fn, o) {
+  fs.writeFileSync(fn, JSON.stringify(o, null, 2));
+}
+
+function readJson(fn) {
+  return JSON.parse(fs.readFileSync(fn).toString());
 }
 
 // times(3) returns [0, 1, 2]
@@ -99,7 +128,10 @@ function sortAlpha(arr, criteria) {
 }
 
 module.exports = {
+  get,
   readCsv,
+  writeJson,
+  readJson,
   times,
   sleep,
   randomInArr,

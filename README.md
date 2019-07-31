@@ -2,14 +2,11 @@
 
 ## setup
 
-    mkdir ext
-    cd ext
-    git clone https://github.com/vaastav/Fantasy-Premier-League/
-    cd ..
     npm install
 
 ## roster
 
+    node getData
     node roster
 
 ## employed algorithm for the roster selection

@@ -1,4 +1,4 @@
-const { times, sortNum } = require('./aux');
+const { times, sortNum, readJson, writeJson } = require('./aux');
 
 const {
   GKP,
@@ -11,7 +11,10 @@ const {
   teamCost,
   mostCostlyPlayer,
   maxTeamsCounts,
-  printPlayers
+  printPlayers,
+  getTeamJerseyImageUrl,
+  getTeamLogoImageUrl,
+  getPlayerImageUrl
 } = require('./fpl');
 
 ///
@@ -39,13 +42,7 @@ const isDef = (p) => p.element_type === DEF;
 const isMid = (p) => p.element_type === MID;
 const isFwd = (p) => p.element_type === FWD;
 
-(async function() {
-  const teams = await loadTeams();
-
-  const players = await loadPlayers();
-  sortNum(players, 'total_points');
-  players.reverse();
-
+function generateTeam(players) {
   const pools = {
     [GKP]: players.filter(isGkp),
     [DEF]: players.filter(isDef),
@@ -119,4 +116,32 @@ const isFwd = (p) => p.element_type === FWD;
   //printPlayers(team);
 
   console.log('== DONE ==');
+
+  return team;
+}
+
+(async function() {
+  const teams = await loadTeams();
+
+  const players = await loadPlayers();
+  sortNum(players, 'total_points');
+  players.reverse();
+
+  const team = generateTeam(players);
+  writeJson('team.json', team);
+
+  /*
+  const team = readJson('team.json');
+  
+  for (const p of team) {
+    console.log(`${p.web_name} ![](${getPlayerImageUrl(p.code)})`);
+  }
+
+  for (const t of teams) {
+    console.log(
+      `${t.code} ${t.name} ${t.short_name} ![logo](${getTeamLogoImageUrl(
+        t.code
+      )}) ![jersey](${getTeamJerseyImageUrl(t.code)})`
+    );
+  }*/
 })();

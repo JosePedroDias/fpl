@@ -1,13 +1,6 @@
 const assert = require('assert');
 
-const {
-  readCsv,
-  max,
-  histogram,
-  valuesToFloats,
-  toValues,
-  toPad
-} = require('./aux');
+const { readJson, max, histogram, toValues, toPad } = require('./aux');
 
 const GKP = 1;
 const DEF = 2;
@@ -21,44 +14,42 @@ const elementTypeToPosition = {
   [FWD]: 'FWD'
 };
 
-const TEAMS_CSV = 'ext/Fantasy-Premier-League/data/2019-20/teams.csv';
-const PLAYERS_CSV = 'ext/Fantasy-Premier-League/data/2019-20/players_raw.csv';
-
 // used by keepKeys
 const ALIASES = {
   web_name: 'name',
   total_points: 'points',
   now_cost: 'cost',
-  element_type: 'pos',
-  team_code: 'team'
+  element_type: 'pos'
 };
 
 const teamFromId = {};
+const teamFromCode = {};
+const teamShortFromId = {};
+const teamShortFromCode = {};
 
 const TRANSFORMS = {
   element_type: (v) => elementTypeToPosition[v],
-  team_code: (v) => teamFromId[v]
+  team: (v) => teamFromId[v]
 };
 
-const KEYS = [
-  'web_name',
-  'now_cost',
-  'total_points',
-  'element_type',
-  'team_code'
-];
+const KEYS = ['web_name', 'now_cost', 'total_points', 'element_type', 'team'];
 
 ///
 
 async function loadPlayers() {
-  const players = (await readCsv(PLAYERS_CSV)).map(valuesToFloats);
+  const players = readJson('data/players.json');
   players.forEach((p) => (p.now_cost /= 10));
   return players;
 }
 
 async function loadTeams() {
-  const teams = await readCsv(TEAMS_CSV);
-  teams.forEach((t) => (teamFromId[t.code] = t.name));
+  const teams = readJson('data/teams.json');
+  teams.forEach((t) => {
+    teamFromCode[t.code] = t.name;
+    teamShortFromCode[t.code] = t.short_name;
+    teamFromId[t.id] = t.name;
+    teamShortFromId[t.id] = t.short_name;
+  });
   return teams;
 }
 
@@ -74,7 +65,7 @@ function mostCostlyPlayer(players) {
 }
 
 function maxTeamsCounts(players) {
-  const teams = players.map((p) => p.team_code);
+  const teams = players.map((p) => p.team);
   const h = histogram(teams);
   const maxFreq = max(Object.values(h));
   let maxTeam;
@@ -85,7 +76,7 @@ function maxTeamsCounts(players) {
     }
   }
   return {
-    team: teamFromId[maxTeam],
+    team: teamFromCode[maxTeam],
     number: maxFreq,
     players: teams
       .map((tId, i) => (tId === maxTeam ? players[i] : undefined))
@@ -122,6 +113,18 @@ function printPlayers(players) {
   console.log('TEAM COST: ' + teamCost(players) + '\n');
 }
 
+function getTeamJerseyImageUrl(teamCode) {
+  return `https://fantasy.premierleague.com/dist/img/shirts/shirt_${teamCode}-110.png`;
+}
+
+function getTeamLogoImageUrl(teamCode) {
+  return `https://fantasy.premierleague.com/dist/img/badges/badge_${teamCode}_80.png`;
+}
+
+function getPlayerImageUrl(playerId) {
+  return `https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/110x140/p${playerId}.png`;
+}
+
 function validateTeam(players) {
   const numGkps = players.filter(isGkp).length;
   assert(numGkps === NUM_GKPS, `wrong # gkps (${numGkps})`);
@@ -153,6 +156,9 @@ module.exports = {
   teamCost,
   mostCostlyPlayer,
   maxTeamsCounts,
+  getTeamJerseyImageUrl,
+  getTeamLogoImageUrl,
+  getPlayerImageUrl,
   printPlayers,
   validateTeam
 };

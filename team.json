@@ -1,0 +1,137 @@
+[
+  {
+    "id": 189,
+    "code": 116535,
+    "team": 10,
+    "web_name": "Alisson",
+    "element_type": 1,
+    "now_cost": 6,
+    "total_points": 176
+  },
+  {
+    "id": 212,
+    "code": 121160,
+    "team": 11,
+    "web_name": "Ederson",
+    "element_type": 1,
+    "now_cost": 6,
+    "total_points": 169
+  },
+  {
+    "id": 103,
+    "code": 82263,
+    "team": 6,
+    "web_name": "Alonso",
+    "element_type": 2,
+    "now_cost": 6.5,
+    "total_points": 161
+  },
+  {
+    "id": 183,
+    "code": 97032,
+    "team": 10,
+    "web_name": "van Dijk",
+    "element_type": 2,
+    "now_cost": 6.5,
+    "total_points": 208
+  },
+  {
+    "id": 182,
+    "code": 169187,
+    "team": 10,
+    "web_name": "Alexander-Arnold",
+    "element_type": 2,
+    "now_cost": 7,
+    "total_points": 185
+  },
+  {
+    "id": 202,
+    "code": 146941,
+    "team": 11,
+    "web_name": "Laporte",
+    "element_type": 2,
+    "now_cost": 6.5,
+    "total_points": 177
+  },
+  {
+    "id": 106,
+    "code": 41270,
+    "team": 6,
+    "web_name": "David Luiz",
+    "element_type": 2,
+    "now_cost": 6,
+    "total_points": 164
+  },
+  {
+    "id": 265,
+    "code": 168580,
+    "team": 9,
+    "web_name": "Pérez",
+    "element_type": 3,
+    "now_cost": 6.5,
+    "total_points": 141
+  },
+  {
+    "id": 134,
+    "code": 66975,
+    "team": 7,
+    "web_name": "Milivojevic",
+    "element_type": 3,
+    "now_cost": 7,
+    "total_points": 166
+  },
+  {
+    "id": 390,
+    "code": 101537,
+    "team": 19,
+    "web_name": "Felipe Anderson",
+    "element_type": 3,
+    "now_cost": 7,
+    "total_points": 155
+  },
+  {
+    "id": 133,
+    "code": 82403,
+    "team": 7,
+    "web_name": "Zaha",
+    "element_type": 3,
+    "now_cost": 7,
+    "total_points": 143
+  },
+  {
+    "id": 320,
+    "code": 83283,
+    "team": 16,
+    "web_name": "Redmond",
+    "element_type": 3,
+    "now_cost": 6.5,
+    "total_points": 137
+  },
+  {
+    "id": 410,
+    "code": 194634,
+    "team": 20,
+    "web_name": "Jota",
+    "element_type": 4,
+    "now_cost": 6.5,
+    "total_points": 139
+  },
+  {
+    "id": 68,
+    "code": 78007,
+    "team": 3,
+    "web_name": "King",
+    "element_type": 4,
+    "now_cost": 6.5,
+    "total_points": 141
+  },
+  {
+    "id": 409,
+    "code": 102057,
+    "team": 20,
+    "web_name": "Jiménez",
+    "element_type": 4,
+    "now_cost": 7.5,
+    "total_points": 181
+  }
+]

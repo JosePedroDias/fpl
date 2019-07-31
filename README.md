@@ -2,7 +2,7 @@
 
 ## setup
 
-    npm install
+have a recent nodejs impl
 
 ## roster
 

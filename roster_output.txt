@@ -1,0 +1,438 @@
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Salah        12.5         259          MID          Liverpool   
+Sterling     12           234          MID          Man City    
+Mané         11.5         231          MID          Liverpool   
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Aubameyang   11           205          FWD          Arsenal     
+Agüero       12           201          FWD          Man City    
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 127
+
+too expensive!
+<- removing MID player Salah costing 12.5...
+-> replacing him with MID player Pogba costing 8.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Sterling     12           234          MID          Man City    
+Mané         11.5         231          MID          Liverpool   
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Aubameyang   11           205          FWD          Arsenal     
+Agüero       12           201          FWD          Man City    
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 123
+
+too expensive!
+<- removing MID player Sterling costing 12...
+-> replacing him with MID player Milivojevic costing 7...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Mané         11.5         231          MID          Liverpool   
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Aubameyang   11           205          FWD          Arsenal     
+Agüero       12           201          FWD          Man City    
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 118
+
+too expensive!
+<- removing FWD player Agüero costing 12...
+-> replacing him with FWD player Vardy costing 9...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Mané         11.5         231          MID          Liverpool   
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Aubameyang   11           205          FWD          Arsenal     
+Vardy        9            174          FWD          Leicester   
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 115
+
+too expensive!
+<- removing MID player Mané costing 11.5...
+-> replacing him with MID player Eriksen costing 9...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Eriksen      9            161          MID          Spurs       
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Aubameyang   11           205          FWD          Arsenal     
+Vardy        9            174          FWD          Leicester   
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 112.5
+
+too expensive!
+<- removing FWD player Aubameyang costing 11...
+-> replacing him with FWD player Wilson costing 8...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Eriksen      9            161          MID          Spurs       
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+Vardy        9            174          FWD          Leicester   
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 109.5
+
+too expensive!
+<- removing MID player Eriksen costing 9...
+-> replacing him with MID player Son costing 9.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Son          9.5          159          MID          Spurs       
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+Vardy        9            174          FWD          Leicester   
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 110
+
+too expensive!
+<- removing MID player Son costing 9.5...
+-> replacing him with MID player Sané costing 9.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Sané         9.5          156          MID          Man City    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+Vardy        9            174          FWD          Leicester   
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 110
+
+too expensive!
+<- removing MID player Sané costing 9.5...
+-> replacing him with MID player Felipe Anderson costing 7...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+Vardy        9            174          FWD          Leicester   
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 107.5
+
+too expensive!
+<- removing FWD player Vardy costing 9...
+-> replacing him with FWD player Lacazette costing 9.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+Lacazette    9.5          166          FWD          Arsenal     
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 108
+
+too expensive!
+<- removing FWD player Lacazette costing 9.5...
+-> replacing him with FWD player Kane costing 11...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+Kane         11           160          FWD          Spurs       
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 109.5
+
+too expensive!
+<- removing FWD player Kane costing 11...
+-> replacing him with FWD player Firmino costing 9.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+Firmino      9.5          160          FWD          Liverpool   
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 108
+
+too expensive!
+<- removing FWD player Firmino costing 9.5...
+-> replacing him with FWD player King costing 6.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pogba        8.5          179          MID          Man Utd     
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 105
+
+too expensive!
+<- removing MID player Pogba costing 8.5...
+-> replacing him with MID player Bernardo Silva costing 8...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Bernardo Sil 8            154          MID          Man City    
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 104.5
+
+too expensive!
+<- removing MID player Bernardo Silva costing 8...
+-> replacing him with MID player Richarlison costing 8...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Richarlison  8            153          MID          Everton     
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 104.5
+
+too expensive!
+<- removing MID player Richarlison costing 8...
+-> replacing him with MID player David Silva costing 7.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+David Silva  7.5          143          MID          Man City    
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Sigurdsson   8            182          MID          Everton     
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 104
+
+too expensive!
+<- removing MID player Sigurdsson costing 8...
+-> replacing him with MID player Zaha costing 7...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+David Silva  7.5          143          MID          Man City    
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Zaha         7            143          MID          Crystal Pala
+Fraser       7.5          181          MID          Bournemouth 
+Wilson       8            168          FWD          Bournemouth 
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 103
+
+too expensive!
+<- removing FWD player Wilson costing 8...
+-> replacing him with FWD player Jota costing 6.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+David Silva  7.5          143          MID          Man City    
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Zaha         7            143          MID          Crystal Pala
+Fraser       7.5          181          MID          Bournemouth 
+Jota         6.5          139          FWD          Wolves      
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 101.5
+
+too expensive!
+<- removing MID player David Silva costing 7.5...
+-> replacing him with MID player Pérez costing 6.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pérez        6.5          141          MID          Leicester   
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Zaha         7            143          MID          Crystal Pala
+Fraser       7.5          181          MID          Bournemouth 
+Jota         6.5          139          FWD          Wolves      
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 100.5
+
+too expensive!
+<- removing MID player Fraser costing 7.5...
+-> replacing him with MID player Redmond costing 6.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Robertson    7            213          DEF          Liverpool   
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pérez        6.5          141          MID          Leicester   
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Zaha         7            143          MID          Crystal Pala
+Redmond      6.5          137          MID          Southampton 
+Jota         6.5          139          FWD          Wolves      
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 99.5
+
+too many players from Liverpool (4)!
+<- removing DEF player Robertson costing 7...
+-> replacing him with DEF player Alonso costing 6.5...
+
+Alisson      6            176          GKP          Liverpool   
+Ederson      6            169          GKP          Man City    
+Alonso       6.5          161          DEF          Chelsea     
+van Dijk     6.5          208          DEF          Liverpool   
+Alexander-Ar 7            185          DEF          Liverpool   
+Laporte      6.5          177          DEF          Man City    
+David Luiz   6            164          DEF          Chelsea     
+Pérez        6.5          141          MID          Leicester   
+Milivojevic  7            166          MID          Crystal Pala
+Felipe Ander 7            155          MID          West Ham    
+Zaha         7            143          MID          Crystal Pala
+Redmond      6.5          137          MID          Southampton 
+Jota         6.5          139          FWD          Wolves      
+King         6.5          141          FWD          Bournemouth 
+Jiménez      7.5          181          FWD          Wolves      
+TEAM COST: 99
+
+== DONE ==

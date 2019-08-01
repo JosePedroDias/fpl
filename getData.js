@@ -1,14 +1,14 @@
 const { get, readJson, writeJson } = require('./aux');
 
 (async function() {
-  /*const bootstrap = await get(
+  const bootstrap = await get(
     'https://fantasy.premierleague.com/api/bootstrap-static/'
   );
   const o = JSON.parse(bootstrap);
-  console.log(o);
-  writeJson('bootstrap.json', o);*/
+  //console.log(o);
+  writeJson('data/bootstrap.json', o);
 
-  const o = readJson('bootstrap.json');
+  //const o = readJson('bootstrap.json');
 
   const teams = o.teams.map((t) => ({
     id: t.id,

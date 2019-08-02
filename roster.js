@@ -43,6 +43,13 @@ const isMid = (p) => p.element_type === MID;
 const isFwd = (p) => p.element_type === FWD;
 
 function generateTeam(players) {
+  // sorting by different criteria gets us different outcomes
+  sortNum(players, 'total_points');
+  // sortNum(players, 'ict_index');
+  // sortNum(players, 'bps');
+  // sortNum(players, 'selected_by_percent');
+  players.reverse();
+
   const pools = {
     [GKP]: players.filter(isGkp),
     [DEF]: players.filter(isDef),
@@ -124,8 +131,6 @@ function generateTeam(players) {
   const teams = await loadTeams();
 
   const players = await loadPlayers();
-  sortNum(players, 'total_points');
-  players.reverse();
 
   const team = generateTeam(players);
   writeJson('team.json', team);

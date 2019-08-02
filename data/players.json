@@ -6,7 +6,14 @@
     "web_name": "Mustafi",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 80
+    "total_points": 80,
+    "bps": 475,
+    "form": 0,
+    "influence": 718.6,
+    "creativity": 106,
+    "threat": 252,
+    "ict_index": 107.8,
+    "selected_by_percent": 0.5
   },
   {
     "id": 2,
@@ -15,7 +22,14 @@
     "web_name": "Bellerín",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 60
+    "total_points": 60,
+    "bps": 304,
+    "form": 0,
+    "influence": 261.6,
+    "creativity": 197.8,
+    "threat": 280,
+    "ict_index": 73.7,
+    "selected_by_percent": 0.2
   },
   {
     "id": 3,
@@ -24,7 +38,14 @@
     "web_name": "Kolasinac",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 81
+    "total_points": 81,
+    "bps": 382,
+    "form": 0,
+    "influence": 323.2,
+    "creativity": 445.9,
+    "threat": 242,
+    "ict_index": 101,
+    "selected_by_percent": 2.2
   },
   {
     "id": 4,
@@ -33,7 +54,14 @@
     "web_name": "Maitland-Niles",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 34
+    "total_points": 34,
+    "bps": 152,
+    "form": 0,
+    "influence": 224.2,
+    "creativity": 98.9,
+    "threat": 126,
+    "ict_index": 44.8,
+    "selected_by_percent": 1
   },
   {
     "id": 5,
@@ -42,7 +70,14 @@
     "web_name": "Sokratis",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 64
+    "total_points": 64,
+    "bps": 402,
+    "form": 0,
+    "influence": 513.8,
+    "creativity": 67.9,
+    "threat": 120,
+    "ict_index": 70.4,
+    "selected_by_percent": 1.3
   },
   {
     "id": 6,
@@ -51,7 +86,14 @@
     "web_name": "Monreal",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 77
+    "total_points": 77,
+    "bps": 392,
+    "form": 0,
+    "influence": 413.2,
+    "creativity": 196.6,
+    "threat": 224,
+    "ict_index": 83.4,
+    "selected_by_percent": 1.1
   },
   {
     "id": 7,
@@ -60,7 +102,14 @@
     "web_name": "Koscielny",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 62
+    "total_points": 62,
+    "bps": 319,
+    "form": 0,
+    "influence": 456.4,
+    "creativity": 29.5,
+    "threat": 105,
+    "ict_index": 59.1,
+    "selected_by_percent": 0.8
   },
   {
     "id": 8,
@@ -69,7 +118,14 @@
     "web_name": "Mavropanos",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 3
+    "total_points": 3,
+    "bps": 28,
+    "form": 0,
+    "influence": 27,
+    "creativity": 14.1,
+    "threat": 10,
+    "ict_index": 5.2,
+    "selected_by_percent": 0.2
   },
   {
     "id": 9,
@@ -78,7 +134,14 @@
     "web_name": "Jenkinson",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 4
+    "total_points": 4,
+    "bps": 16,
+    "form": 0,
+    "influence": 26.8,
+    "creativity": 16.9,
+    "threat": 8,
+    "ict_index": 5.2,
+    "selected_by_percent": 0.2
   },
   {
     "id": 10,
@@ -87,7 +150,14 @@
     "web_name": "Holding",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 24
+    "total_points": 24,
+    "bps": 148,
+    "form": 0,
+    "influence": 187.8,
+    "creativity": 28.7,
+    "threat": 14,
+    "ict_index": 23.2,
+    "selected_by_percent": 0.2
   },
   {
     "id": 11,
@@ -96,7 +166,14 @@
     "web_name": "Aubameyang",
     "element_type": 4,
     "now_cost": 110,
-    "total_points": 205
+    "total_points": 205,
+    "bps": 756,
+    "form": 0,
+    "influence": 984.4,
+    "creativity": 484.6,
+    "threat": 1429,
+    "ict_index": 289.6,
+    "selected_by_percent": 19.7
   },
   {
     "id": 12,
@@ -105,7 +182,14 @@
     "web_name": "Lacazette",
     "element_type": 4,
     "now_cost": 95,
-    "total_points": 166
+    "total_points": 166,
+    "bps": 560,
+    "form": 0,
+    "influence": 808,
+    "creativity": 482.4,
+    "threat": 1319,
+    "ict_index": 260.6,
+    "selected_by_percent": 8.5
   },
   {
     "id": 13,
@@ -114,7 +198,14 @@
     "web_name": "Nketiah",
     "element_type": 4,
     "now_cost": 45,
-    "total_points": 10
+    "total_points": 10,
+    "bps": 36,
+    "form": 0,
+    "influence": 40.8,
+    "creativity": 14.7,
+    "threat": 59,
+    "ict_index": 11.4,
+    "selected_by_percent": 4.9
   },
   {
     "id": 14,
@@ -123,7 +214,14 @@
     "web_name": "Leno",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 106
+    "total_points": 106,
+    "bps": 568,
+    "form": 0,
+    "influence": 807.2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 80.5,
+    "selected_by_percent": 4.7
   },
   {
     "id": 15,
@@ -132,7 +230,14 @@
     "web_name": "Özil",
     "element_type": 3,
     "now_cost": 75,
-    "total_points": 89
+    "total_points": 89,
+    "bps": 363,
+    "form": 0,
+    "influence": 429.6,
+    "creativity": 714.2,
+    "threat": 254,
+    "ict_index": 140,
+    "selected_by_percent": 1.6
   },
   {
     "id": 16,
@@ -141,7 +246,14 @@
     "web_name": "Mkhitaryan",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 98
+    "total_points": 98,
+    "bps": 354,
+    "form": 0,
+    "influence": 446.4,
+    "creativity": 454.9,
+    "threat": 600,
+    "ict_index": 150.2,
+    "selected_by_percent": 3.5
   },
   {
     "id": 17,
@@ -150,7 +262,14 @@
     "web_name": "Iwobi",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 99
+    "total_points": 99,
+    "bps": 382,
+    "form": 0,
+    "influence": 469,
+    "creativity": 596.7,
+    "threat": 646,
+    "ict_index": 171.1,
+    "selected_by_percent": 1.3
   },
   {
     "id": 18,
@@ -159,7 +278,14 @@
     "web_name": "Xhaka",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 90
+    "total_points": 90,
+    "bps": 452,
+    "form": 0,
+    "influence": 634.6,
+    "creativity": 674,
+    "threat": 215,
+    "ict_index": 152.6,
+    "selected_by_percent": 1.3
   },
   {
     "id": 19,
@@ -168,7 +294,14 @@
     "web_name": "Torreira",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 78
+    "total_points": 78,
+    "bps": 409,
+    "form": 0,
+    "influence": 440.8,
+    "creativity": 301,
+    "threat": 203,
+    "ict_index": 94.5,
+    "selected_by_percent": 1.9
   },
   {
     "id": 20,
@@ -177,7 +310,14 @@
     "web_name": "Elneny",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 10
+    "total_points": 10,
+    "bps": 59,
+    "form": 0,
+    "influence": 86.6,
+    "creativity": 76.7,
+    "threat": 63,
+    "ict_index": 22.7,
+    "selected_by_percent": 0.5
   },
   {
     "id": 21,
@@ -186,7 +326,14 @@
     "web_name": "Guendouzi",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 47
+    "total_points": 47,
+    "bps": 321,
+    "form": 0,
+    "influence": 323.2,
+    "creativity": 312.4,
+    "threat": 130,
+    "ict_index": 76.6,
+    "selected_by_percent": 4.4
   },
   {
     "id": 427,
@@ -195,7 +342,14 @@
     "web_name": "Martínez",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 467,
@@ -204,7 +358,14 @@
     "web_name": "Chambers",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 60
+    "total_points": 60,
+    "bps": 431,
+    "form": 0,
+    "influence": 609,
+    "creativity": 231.9,
+    "threat": 401,
+    "ict_index": 124.5,
+    "selected_by_percent": 0.5
   },
   {
     "id": 469,
@@ -213,7 +374,14 @@
     "web_name": "Ceballos",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3.5
   },
   {
     "id": 22,
@@ -222,7 +390,14 @@
     "web_name": "El Mohamady",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3.4
   },
   {
     "id": 23,
@@ -231,7 +406,14 @@
     "web_name": "Chester",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.5
   },
   {
     "id": 24,
@@ -240,7 +422,14 @@
     "web_name": "Taylor",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 25,
@@ -249,7 +438,14 @@
     "web_name": "Hause",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 26,
@@ -258,7 +454,14 @@
     "web_name": "Kodjia",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.7
   },
   {
     "id": 27,
@@ -267,7 +470,14 @@
     "web_name": "Nyland",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.6
   },
   {
     "id": 28,
@@ -276,7 +486,14 @@
     "web_name": "Hourihane",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 29,
@@ -285,7 +502,14 @@
     "web_name": "Grealish",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 7.9
   },
   {
     "id": 30,
@@ -294,7 +518,14 @@
     "web_name": "El Ghazi",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.8
   },
   {
     "id": 31,
@@ -303,7 +534,14 @@
     "web_name": "McGinn",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 2.4
   },
   {
     "id": 32,
@@ -312,7 +550,14 @@
     "web_name": "Green",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 33,
@@ -321,7 +566,14 @@
     "web_name": "Bjarnason",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 34,
@@ -330,7 +582,14 @@
     "web_name": "Davis",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 35,
@@ -339,7 +598,14 @@
     "web_name": "Lansbury",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 36,
@@ -348,7 +614,14 @@
     "web_name": "Jota",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 94,
@@ -357,7 +630,14 @@
     "web_name": "Heaton",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 58
+    "total_points": 58,
+    "bps": 323,
+    "form": 0,
+    "influence": 442.8,
+    "creativity": 20.1,
+    "threat": 4,
+    "ict_index": 46.6,
+    "selected_by_percent": 4.9
   },
   {
     "id": 309,
@@ -366,7 +646,14 @@
     "web_name": "Targett",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 36
+    "total_points": 36,
+    "bps": 229,
+    "form": 0,
+    "influence": 314.2,
+    "creativity": 366.8,
+    "threat": 181,
+    "ict_index": 86.2,
+    "selected_by_percent": 1.6
   },
   {
     "id": 428,
@@ -375,7 +662,14 @@
     "web_name": "Wesley",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.5
   },
   {
     "id": 429,
@@ -384,7 +678,14 @@
     "web_name": "Steer",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 445,
@@ -393,7 +694,14 @@
     "web_name": "Mings",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 5
+    "total_points": 5,
+    "bps": 41,
+    "form": 0,
+    "influence": 49,
+    "creativity": 16.3,
+    "threat": 2,
+    "ict_index": 6.8,
+    "selected_by_percent": 1.9
   },
   {
     "id": 452,
@@ -402,7 +710,14 @@
     "web_name": "Konsa",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 455,
@@ -411,7 +726,14 @@
     "web_name": "Engels",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 458,
@@ -420,7 +742,14 @@
     "web_name": "Guilbert",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 465,
@@ -429,7 +758,14 @@
     "web_name": "Trézéguet",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3.3
   },
   {
     "id": 470,
@@ -438,7 +774,14 @@
     "web_name": "Douglas Luiz",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.5
   },
   {
     "id": 474,
@@ -447,7 +790,14 @@
     "web_name": "Kalinic",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0
   },
   {
     "id": 58,
@@ -456,7 +806,14 @@
     "web_name": "Steve Cook",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 85
+    "total_points": 85,
+    "bps": 549,
+    "form": 0,
+    "influence": 731,
+    "creativity": 143.3,
+    "threat": 292,
+    "ict_index": 116.5,
+    "selected_by_percent": 0.4
   },
   {
     "id": 59,
@@ -465,7 +822,14 @@
     "web_name": "Aké",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 120
+    "total_points": 120,
+    "bps": 716,
+    "form": 0,
+    "influence": 1002,
+    "creativity": 125.9,
+    "threat": 440,
+    "ict_index": 156.8,
+    "selected_by_percent": 17.5
   },
   {
     "id": 60,
@@ -474,7 +838,14 @@
     "web_name": "Daniels",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 44
+    "total_points": 44,
+    "bps": 278,
+    "form": 0,
+    "influence": 289.8,
+    "creativity": 215.4,
+    "threat": 156,
+    "ict_index": 66.2,
+    "selected_by_percent": 0
   },
   {
     "id": 61,
@@ -483,7 +854,14 @@
     "web_name": "Mepham",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 27
+    "total_points": 27,
+    "bps": 158,
+    "form": 0,
+    "influence": 177.2,
+    "creativity": 24.1,
+    "threat": 22,
+    "ict_index": 22.5,
+    "selected_by_percent": 0.2
   },
   {
     "id": 62,
@@ -492,7 +870,14 @@
     "web_name": "Francis",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 40
+    "total_points": 40,
+    "bps": 244,
+    "form": 0,
+    "influence": 332.4,
+    "creativity": 173.3,
+    "threat": 39,
+    "ict_index": 54.4,
+    "selected_by_percent": 0
   },
   {
     "id": 63,
@@ -501,7 +886,14 @@
     "web_name": "Adam Smith",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 70
+    "total_points": 70,
+    "bps": 383,
+    "form": 0,
+    "influence": 374,
+    "creativity": 199.8,
+    "threat": 110,
+    "ict_index": 68.5,
+    "selected_by_percent": 1.9
   },
   {
     "id": 64,
@@ -510,7 +902,14 @@
     "web_name": "Kelly",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 65,
@@ -519,7 +918,14 @@
     "web_name": "Rico",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 8
+    "total_points": 8,
+    "bps": 89,
+    "form": 0,
+    "influence": 107.4,
+    "creativity": 171.6,
+    "threat": 36,
+    "ict_index": 31.4,
+    "selected_by_percent": 3.6
   },
   {
     "id": 66,
@@ -528,7 +934,14 @@
     "web_name": "Simpson",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 10
+    "total_points": 10,
+    "bps": 73,
+    "form": 0,
+    "influence": 85.4,
+    "creativity": 2,
+    "threat": 21,
+    "ict_index": 11,
+    "selected_by_percent": 8
   },
   {
     "id": 67,
@@ -537,7 +950,14 @@
     "web_name": "Wilson",
     "element_type": 4,
     "now_cost": 80,
-    "total_points": 168
+    "total_points": 168,
+    "bps": 525,
+    "form": 0,
+    "influence": 737.8,
+    "creativity": 388.4,
+    "threat": 1137,
+    "ict_index": 225,
+    "selected_by_percent": 20.6
   },
   {
     "id": 68,
@@ -546,7 +966,14 @@
     "web_name": "King",
     "element_type": 4,
     "now_cost": 65,
-    "total_points": 141
+    "total_points": 141,
+    "bps": 457,
+    "form": 0,
+    "influence": 655.4,
+    "creativity": 535.7,
+    "threat": 1058,
+    "ict_index": 223.8,
+    "selected_by_percent": 19.3
   },
   {
     "id": 69,
@@ -555,7 +982,14 @@
     "web_name": "Solanke",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 15
+    "total_points": 15,
+    "bps": 45,
+    "form": 0,
+    "influence": 79,
+    "creativity": 96,
+    "threat": 154,
+    "ict_index": 33,
+    "selected_by_percent": 0.5
   },
   {
     "id": 71,
@@ -564,7 +998,14 @@
     "web_name": "Surridge",
     "element_type": 4,
     "now_cost": 45,
-    "total_points": 2
+    "total_points": 2,
+    "bps": 3,
+    "form": 0,
+    "influence": 5,
+    "creativity": 11.8,
+    "threat": 23,
+    "ict_index": 4,
+    "selected_by_percent": 1.9
   },
   {
     "id": 72,
@@ -573,7 +1014,14 @@
     "web_name": "Begovic",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 63
+    "total_points": 63,
+    "bps": 363,
+    "form": 0,
+    "influence": 440.6,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 44.2,
+    "selected_by_percent": 3.4
   },
   {
     "id": 73,
@@ -582,7 +1030,14 @@
     "web_name": "Boruc",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 46
+    "total_points": 46,
+    "bps": 218,
+    "form": 0,
+    "influence": 302,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 30.3,
+    "selected_by_percent": 0.6
   },
   {
     "id": 74,
@@ -591,7 +1046,14 @@
     "web_name": "Travers",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 9
+    "total_points": 9,
+    "bps": 46,
+    "form": 0,
+    "influence": 68.2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 6.8,
+    "selected_by_percent": 0.4
   },
   {
     "id": 75,
@@ -600,7 +1062,14 @@
     "web_name": "Fraser",
     "element_type": 3,
     "now_cost": 75,
-    "total_points": 181
+    "total_points": 181,
+    "bps": 751,
+    "form": 0,
+    "influence": 930.6,
+    "creativity": 1382.4,
+    "threat": 696,
+    "ict_index": 301.2,
+    "selected_by_percent": 20.8
   },
   {
     "id": 76,
@@ -609,7 +1078,14 @@
     "web_name": "Brooks",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 123
+    "total_points": 123,
+    "bps": 414,
+    "form": 0,
+    "influence": 598,
+    "creativity": 466.7,
+    "threat": 609,
+    "ict_index": 167.5,
+    "selected_by_percent": 3.4
   },
   {
     "id": 77,
@@ -618,7 +1094,14 @@
     "web_name": "Stanislas",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 56
+    "total_points": 56,
+    "bps": 205,
+    "form": 0,
+    "influence": 225.2,
+    "creativity": 254.5,
+    "threat": 340,
+    "ict_index": 82,
+    "selected_by_percent": 0
   },
   {
     "id": 78,
@@ -627,7 +1110,14 @@
     "web_name": "Ibe",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 33
+    "total_points": 33,
+    "bps": 105,
+    "form": 0,
+    "influence": 131.2,
+    "creativity": 174.8,
+    "threat": 155,
+    "ict_index": 46,
+    "selected_by_percent": 0.3
   },
   {
     "id": 79,
@@ -636,7 +1126,14 @@
     "web_name": "Lewis Cook",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 22
+    "total_points": 22,
+    "bps": 91,
+    "form": 0,
+    "influence": 76,
+    "creativity": 50.4,
+    "threat": 36,
+    "ict_index": 16.5,
+    "selected_by_percent": 0
   },
   {
     "id": 80,
@@ -645,7 +1142,14 @@
     "web_name": "Surman",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 36
+    "total_points": 36,
+    "bps": 206,
+    "form": 0,
+    "influence": 190.8,
+    "creativity": 163,
+    "threat": 38,
+    "ict_index": 39.2,
+    "selected_by_percent": 0.1
   },
   {
     "id": 81,
@@ -654,7 +1158,14 @@
     "web_name": "Gosling",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 54
+    "total_points": 54,
+    "bps": 237,
+    "form": 0,
+    "influence": 400.6,
+    "creativity": 164.7,
+    "threat": 217,
+    "ict_index": 78.1,
+    "selected_by_percent": 0.1
   },
   {
     "id": 82,
@@ -663,7 +1174,14 @@
     "web_name": "Lerma",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 75
+    "total_points": 75,
+    "bps": 410,
+    "form": 0,
+    "influence": 539.6,
+    "creativity": 245.8,
+    "threat": 174,
+    "ict_index": 96.2,
+    "selected_by_percent": 0.2
   },
   {
     "id": 446,
@@ -672,7 +1190,14 @@
     "web_name": "Stacey",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 476,
@@ -681,7 +1206,14 @@
     "web_name": "Billing",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 63
+    "total_points": 63,
+    "bps": 317,
+    "form": 0,
+    "influence": 494.6,
+    "creativity": 341,
+    "threat": 375,
+    "ict_index": 121.3,
+    "selected_by_percent": 0.1
   },
   {
     "id": 37,
@@ -690,7 +1222,14 @@
     "web_name": "Duffy",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 115
+    "total_points": 115,
+    "bps": 582,
+    "form": 0,
+    "influence": 1024.4,
+    "creativity": 84.1,
+    "threat": 499,
+    "ict_index": 160.9,
+    "selected_by_percent": 3.4
   },
   {
     "id": 38,
@@ -699,7 +1238,14 @@
     "web_name": "Montoya",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 45
+    "total_points": 45,
+    "bps": 351,
+    "form": 0,
+    "influence": 437.6,
+    "creativity": 289.2,
+    "threat": 58,
+    "ict_index": 78.6,
+    "selected_by_percent": 0.3
   },
   {
     "id": 39,
@@ -708,7 +1254,14 @@
     "web_name": "Bernardo",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 39
+    "total_points": 39,
+    "bps": 290,
+    "form": 0,
+    "influence": 444.2,
+    "creativity": 172.6,
+    "threat": 83,
+    "ict_index": 70,
+    "selected_by_percent": 0.2
   },
   {
     "id": 40,
@@ -717,7 +1270,14 @@
     "web_name": "Balogun",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 15
+    "total_points": 15,
+    "bps": 86,
+    "form": 0,
+    "influence": 134,
+    "creativity": 1.1,
+    "threat": 27,
+    "ict_index": 16.2,
+    "selected_by_percent": 0.1
   },
   {
     "id": 41,
@@ -726,7 +1286,14 @@
     "web_name": "Bong",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 48
+    "total_points": 48,
+    "bps": 254,
+    "form": 0,
+    "influence": 220,
+    "creativity": 153.3,
+    "threat": 8,
+    "ict_index": 38,
+    "selected_by_percent": 0.2
   },
   {
     "id": 42,
@@ -735,7 +1302,14 @@
     "web_name": "Dunk",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 91
+    "total_points": 91,
+    "bps": 573,
+    "form": 0,
+    "influence": 805.8,
+    "creativity": 132.9,
+    "threat": 245,
+    "ict_index": 118.7,
+    "selected_by_percent": 7.6
   },
   {
     "id": 43,
@@ -744,7 +1318,14 @@
     "web_name": "Clarke",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 44,
@@ -753,7 +1334,14 @@
     "web_name": "Murray",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 129
+    "total_points": 129,
+    "bps": 337,
+    "form": 0,
+    "influence": 478,
+    "creativity": 190,
+    "threat": 835,
+    "ict_index": 148.1,
+    "selected_by_percent": 3.8
   },
   {
     "id": 45,
@@ -762,7 +1350,14 @@
     "web_name": "Locadia",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 52
+    "total_points": 52,
+    "bps": 155,
+    "form": 0,
+    "influence": 154.4,
+    "creativity": 190.8,
+    "threat": 356,
+    "ict_index": 69.7,
+    "selected_by_percent": 0.4
   },
   {
     "id": 46,
@@ -771,7 +1366,14 @@
     "web_name": "Andone",
     "element_type": 4,
     "now_cost": 50,
-    "total_points": 38
+    "total_points": 38,
+    "bps": 74,
+    "form": 0,
+    "influence": 147.2,
+    "creativity": 48.6,
+    "threat": 361,
+    "ict_index": 54.9,
+    "selected_by_percent": 0.5
   },
   {
     "id": 47,
@@ -780,7 +1382,14 @@
     "web_name": "Ryan",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 104
+    "total_points": 104,
+    "bps": 547,
+    "form": 0,
+    "influence": 707,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 70.9,
+    "selected_by_percent": 14.9
   },
   {
     "id": 48,
@@ -789,7 +1398,14 @@
     "web_name": "Button",
     "element_type": 1,
     "now_cost": 40,
-    "total_points": 15
+    "total_points": 15,
+    "bps": 76,
+    "form": 0,
+    "influence": 89.2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 8.9,
+    "selected_by_percent": 24.3
   },
   {
     "id": 49,
@@ -798,7 +1414,14 @@
     "web_name": "Groß",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 80
+    "total_points": 80,
+    "bps": 347,
+    "form": 0,
+    "influence": 456,
+    "creativity": 815.3,
+    "threat": 344,
+    "ict_index": 161.7,
+    "selected_by_percent": 0.8
   },
   {
     "id": 50,
@@ -807,7 +1430,14 @@
     "web_name": "Jahanbakhsh",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 33
+    "total_points": 33,
+    "bps": 61,
+    "form": 0,
+    "influence": 94.4,
+    "creativity": 104,
+    "threat": 162,
+    "ict_index": 35.5,
+    "selected_by_percent": 0.2
   },
   {
     "id": 51,
@@ -816,7 +1446,14 @@
     "web_name": "Izquierdo",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 31
+    "total_points": 31,
+    "bps": 95,
+    "form": 0,
+    "influence": 75.4,
+    "creativity": 77.3,
+    "threat": 147,
+    "ict_index": 30,
+    "selected_by_percent": 0
   },
   {
     "id": 52,
@@ -825,7 +1462,14 @@
     "web_name": "Knockaert",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 74
+    "total_points": 74,
+    "bps": 293,
+    "form": 0,
+    "influence": 389.6,
+    "creativity": 580.8,
+    "threat": 345,
+    "ict_index": 131.4,
+    "selected_by_percent": 0.1
   },
   {
     "id": 53,
@@ -834,7 +1478,14 @@
     "web_name": "Bissouma",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 43
+    "total_points": 43,
+    "bps": 170,
+    "form": 0,
+    "influence": 253.4,
+    "creativity": 213,
+    "threat": 201,
+    "ict_index": 66.8,
+    "selected_by_percent": 0
   },
   {
     "id": 54,
@@ -843,7 +1494,14 @@
     "web_name": "Pröpper",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 72
+    "total_points": 72,
+    "bps": 351,
+    "form": 0,
+    "influence": 389.2,
+    "creativity": 279.1,
+    "threat": 121,
+    "ict_index": 79.2,
+    "selected_by_percent": 0.1
   },
   {
     "id": 55,
@@ -852,7 +1510,14 @@
     "web_name": "March",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 94
+    "total_points": 94,
+    "bps": 342,
+    "form": 0,
+    "influence": 474.6,
+    "creativity": 684.5,
+    "threat": 405,
+    "ict_index": 156.6,
+    "selected_by_percent": 0.6
   },
   {
     "id": 56,
@@ -861,7 +1526,14 @@
     "web_name": "Kayal",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 36
+    "total_points": 36,
+    "bps": 136,
+    "form": 0,
+    "influence": 224,
+    "creativity": 59.3,
+    "threat": 53,
+    "ict_index": 33.6,
+    "selected_by_percent": 0.2
   },
   {
     "id": 57,
@@ -870,7 +1542,14 @@
     "web_name": "Stephens",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 65
+    "total_points": 65,
+    "bps": 404,
+    "form": 0,
+    "influence": 498.2,
+    "creativity": 249.3,
+    "threat": 88,
+    "ict_index": 83.6,
+    "selected_by_percent": 3.2
   },
   {
     "id": 421,
@@ -879,7 +1558,14 @@
     "web_name": "Trossard",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.5
   },
   {
     "id": 475,
@@ -888,7 +1574,14 @@
     "web_name": "Burn",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0
   },
   {
     "id": 83,
@@ -897,7 +1590,14 @@
     "web_name": "Mee",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 81
+    "total_points": 81,
+    "bps": 572,
+    "form": 0,
+    "influence": 885.4,
+    "creativity": 113.8,
+    "threat": 238,
+    "ict_index": 123.9,
+    "selected_by_percent": 0.8
   },
   {
     "id": 84,
@@ -906,7 +1606,14 @@
     "web_name": "Tarkowski",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 97
+    "total_points": 97,
+    "bps": 524,
+    "form": 0,
+    "influence": 1023.2,
+    "creativity": 69.8,
+    "threat": 450,
+    "ict_index": 154.5,
+    "selected_by_percent": 2.6
   },
   {
     "id": 85,
@@ -915,7 +1622,14 @@
     "web_name": "Lowton",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 34
+    "total_points": 34,
+    "bps": 269,
+    "form": 0,
+    "influence": 338,
+    "creativity": 158.6,
+    "threat": 48,
+    "ict_index": 54.6,
+    "selected_by_percent": 0.3
   },
   {
     "id": 86,
@@ -924,7 +1638,14 @@
     "web_name": "Bardsley",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 33
+    "total_points": 33,
+    "bps": 224,
+    "form": 0,
+    "influence": 267.8,
+    "creativity": 139.6,
+    "threat": 66,
+    "ict_index": 47.4,
+    "selected_by_percent": 0.2
   },
   {
     "id": 87,
@@ -933,7 +1654,14 @@
     "web_name": "Taylor",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 82
+    "total_points": 82,
+    "bps": 505,
+    "form": 0,
+    "influence": 649.4,
+    "creativity": 268.5,
+    "threat": 30,
+    "ict_index": 94.9,
+    "selected_by_percent": 2
   },
   {
     "id": 88,
@@ -942,7 +1670,14 @@
     "web_name": "Long",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 16
+    "total_points": 16,
+    "bps": 101,
+    "form": 0,
+    "influence": 147.8,
+    "creativity": 11.6,
+    "threat": 8,
+    "ict_index": 16.8,
+    "selected_by_percent": 0.3
   },
   {
     "id": 89,
@@ -951,7 +1686,14 @@
     "web_name": "Gibson",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 6
+    "total_points": 6,
+    "bps": 17,
+    "form": 0,
+    "influence": 42.4,
+    "creativity": 0.4,
+    "threat": 33,
+    "ict_index": 7.6,
+    "selected_by_percent": 2.8
   },
   {
     "id": 90,
@@ -960,7 +1702,14 @@
     "web_name": "Barnes",
     "element_type": 4,
     "now_cost": 65,
-    "total_points": 122
+    "total_points": 122,
+    "bps": 394,
+    "form": 0,
+    "influence": 581.2,
+    "creativity": 309.9,
+    "threat": 1042,
+    "ict_index": 192.9,
+    "selected_by_percent": 0.8
   },
   {
     "id": 91,
@@ -969,7 +1718,14 @@
     "web_name": "Wood",
     "element_type": 4,
     "now_cost": 65,
-    "total_points": 131
+    "total_points": 131,
+    "bps": 379,
+    "form": 0,
+    "influence": 475.8,
+    "creativity": 310.3,
+    "threat": 911,
+    "ict_index": 167.9,
+    "selected_by_percent": 1.4
   },
   {
     "id": 92,
@@ -978,7 +1734,14 @@
     "web_name": "Vydra",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 21
+    "total_points": 21,
+    "bps": 61,
+    "form": 0,
+    "influence": 70.4,
+    "creativity": 33.7,
+    "threat": 114,
+    "ict_index": 21.4,
+    "selected_by_percent": 0.1
   },
   {
     "id": 93,
@@ -987,7 +1750,14 @@
     "web_name": "Pope",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3
   },
   {
     "id": 95,
@@ -996,7 +1766,14 @@
     "web_name": "Hart",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 69
+    "total_points": 69,
+    "bps": 378,
+    "form": 0,
+    "influence": 594.6,
+    "creativity": 10.1,
+    "threat": 0,
+    "ict_index": 60.3,
+    "selected_by_percent": 2
   },
   {
     "id": 96,
@@ -1005,7 +1782,14 @@
     "web_name": "Gudmundsson",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 92
+    "total_points": 92,
+    "bps": 339,
+    "form": 0,
+    "influence": 456.2,
+    "creativity": 574.1,
+    "threat": 380,
+    "ict_index": 141.1,
+    "selected_by_percent": 0.3
   },
   {
     "id": 97,
@@ -1014,7 +1798,14 @@
     "web_name": "McNeil",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 75
+    "total_points": 75,
+    "bps": 305,
+    "form": 0,
+    "influence": 405.2,
+    "creativity": 442.8,
+    "threat": 279,
+    "ict_index": 112.5,
+    "selected_by_percent": 0.4
   },
   {
     "id": 98,
@@ -1023,7 +1814,14 @@
     "web_name": "Brady",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 20
+    "total_points": 20,
+    "bps": 77,
+    "form": 0,
+    "influence": 102,
+    "creativity": 194.1,
+    "threat": 85,
+    "ict_index": 38.2,
+    "selected_by_percent": 0.1
   },
   {
     "id": 99,
@@ -1032,7 +1830,14 @@
     "web_name": "Defour",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 10
+    "total_points": 10,
+    "bps": 70,
+    "form": 0,
+    "influence": 61.4,
+    "creativity": 36.6,
+    "threat": 0,
+    "ict_index": 9.9,
+    "selected_by_percent": 0
   },
   {
     "id": 100,
@@ -1041,7 +1846,14 @@
     "web_name": "Hendrick",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 73
+    "total_points": 73,
+    "bps": 243,
+    "form": 0,
+    "influence": 233.8,
+    "creativity": 205.3,
+    "threat": 269,
+    "ict_index": 70.6,
+    "selected_by_percent": 0.1
   },
   {
     "id": 101,
@@ -1050,7 +1862,14 @@
     "web_name": "Westwood",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 111
+    "total_points": 111,
+    "bps": 518,
+    "form": 0,
+    "influence": 623,
+    "creativity": 643.1,
+    "threat": 253,
+    "ict_index": 152.3,
+    "selected_by_percent": 1
   },
   {
     "id": 102,
@@ -1059,7 +1878,14 @@
     "web_name": "Cork",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 87
+    "total_points": 87,
+    "bps": 446,
+    "form": 0,
+    "influence": 491.4,
+    "creativity": 309.7,
+    "threat": 240,
+    "ict_index": 104.3,
+    "selected_by_percent": 0.3
   },
   {
     "id": 430,
@@ -1068,7 +1894,14 @@
     "web_name": "Lennon",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 41
+    "total_points": 41,
+    "bps": 133,
+    "form": 0,
+    "influence": 151.6,
+    "creativity": 121.2,
+    "threat": 108,
+    "ict_index": 38,
+    "selected_by_percent": 0.1
   },
   {
     "id": 447,
@@ -1077,7 +1910,14 @@
     "web_name": "Pieters",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 451,
@@ -1086,7 +1926,14 @@
     "web_name": "Rodriguez",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 103,
@@ -1095,7 +1942,14 @@
     "web_name": "Alonso",
     "element_type": 2,
     "now_cost": 65,
-    "total_points": 161
+    "total_points": 161,
+    "bps": 702,
+    "form": 0,
+    "influence": 619,
+    "creativity": 520.1,
+    "threat": 475,
+    "ict_index": 161.7,
+    "selected_by_percent": 4.7
   },
   {
     "id": 104,
@@ -1104,7 +1958,14 @@
     "web_name": "Rüdiger",
     "element_type": 2,
     "now_cost": 60,
-    "total_points": 116
+    "total_points": 116,
+    "bps": 609,
+    "form": 0,
+    "influence": 566.8,
+    "creativity": 143.6,
+    "threat": 273,
+    "ict_index": 98.5,
+    "selected_by_percent": 0.1
   },
   {
     "id": 105,
@@ -1113,7 +1974,14 @@
     "web_name": "Azpilicueta",
     "element_type": 2,
     "now_cost": 60,
-    "total_points": 158
+    "total_points": 158,
+    "bps": 822,
+    "form": 0,
+    "influence": 815,
+    "creativity": 525.1,
+    "threat": 286,
+    "ict_index": 163.2,
+    "selected_by_percent": 10.1
   },
   {
     "id": 106,
@@ -1122,7 +1990,14 @@
     "web_name": "David Luiz",
     "element_type": 2,
     "now_cost": 60,
-    "total_points": 164
+    "total_points": 164,
+    "bps": 794,
+    "form": 0,
+    "influence": 859,
+    "creativity": 358.7,
+    "threat": 363,
+    "ict_index": 158,
+    "selected_by_percent": 9.6
   },
   {
     "id": 107,
@@ -1131,7 +2006,14 @@
     "web_name": "Emerson",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 22
+    "total_points": 22,
+    "bps": 130,
+    "form": 0,
+    "influence": 104.6,
+    "creativity": 113.8,
+    "threat": 81,
+    "ict_index": 30,
+    "selected_by_percent": 0.8
   },
   {
     "id": 108,
@@ -1140,7 +2022,14 @@
     "web_name": "Christensen",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 22
+    "total_points": 22,
+    "bps": 133,
+    "form": 0,
+    "influence": 120.6,
+    "creativity": 8.4,
+    "threat": 6,
+    "ict_index": 13.6,
+    "selected_by_percent": 0.7
   },
   {
     "id": 109,
@@ -1149,7 +2038,14 @@
     "web_name": "Zappacosta",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 9
+    "total_points": 9,
+    "bps": 30,
+    "form": 0,
+    "influence": 17.4,
+    "creativity": 14.7,
+    "threat": 29,
+    "ict_index": 6.1,
+    "selected_by_percent": 0.5
   },
   {
     "id": 110,
@@ -1158,7 +2054,14 @@
     "web_name": "Giroud",
     "element_type": 4,
     "now_cost": 70,
-    "total_points": 55
+    "total_points": 55,
+    "bps": 169,
+    "form": 0,
+    "influence": 183.2,
+    "creativity": 253.6,
+    "threat": 519,
+    "ict_index": 94.5,
+    "selected_by_percent": 2.8
   },
   {
     "id": 111,
@@ -1167,7 +2070,14 @@
     "web_name": "Kepa",
     "element_type": 1,
     "now_cost": 55,
-    "total_points": 142
+    "total_points": 142,
+    "bps": 685,
+    "form": 0,
+    "influence": 681,
+    "creativity": 0.1,
+    "threat": 0,
+    "ict_index": 68,
+    "selected_by_percent": 6.7
   },
   {
     "id": 112,
@@ -1176,7 +2086,14 @@
     "web_name": "Caballero",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 13
+    "total_points": 13,
+    "bps": 45,
+    "form": 0,
+    "influence": 24.6,
+    "creativity": 1,
+    "threat": 0,
+    "ict_index": 2.6,
+    "selected_by_percent": 0.3
   },
   {
     "id": 113,
@@ -1185,7 +2102,14 @@
     "web_name": "Willian",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 108
+    "total_points": 108,
+    "bps": 475,
+    "form": 0,
+    "influence": 557.6,
+    "creativity": 1165.5,
+    "threat": 742,
+    "ict_index": 246.7,
+    "selected_by_percent": 2.9
   },
   {
     "id": 114,
@@ -1194,7 +2118,14 @@
     "web_name": "Pedro",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 112
+    "total_points": 112,
+    "bps": 440,
+    "form": 0,
+    "influence": 530.2,
+    "creativity": 503.5,
+    "threat": 733,
+    "ict_index": 176.5,
+    "selected_by_percent": 2.8
   },
   {
     "id": 115,
@@ -1203,7 +2134,14 @@
     "web_name": "Loftus-Cheek",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 79
+    "total_points": 79,
+    "bps": 292,
+    "form": 0,
+    "influence": 391.6,
+    "creativity": 254.9,
+    "threat": 346,
+    "ict_index": 99.4,
+    "selected_by_percent": 0.2
   },
   {
     "id": 116,
@@ -1212,7 +2150,14 @@
     "web_name": "Hudson-Odoi",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 18
+    "total_points": 18,
+    "bps": 83,
+    "form": 0,
+    "influence": 89.2,
+    "creativity": 143.2,
+    "threat": 133,
+    "ict_index": 36.2,
+    "selected_by_percent": 0.5
   },
   {
     "id": 117,
@@ -1221,7 +2166,14 @@
     "web_name": "Barkley",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 79
+    "total_points": 79,
+    "bps": 300,
+    "form": 0,
+    "influence": 324,
+    "creativity": 349,
+    "threat": 429,
+    "ict_index": 110,
+    "selected_by_percent": 4.5
   },
   {
     "id": 118,
@@ -1230,7 +2182,14 @@
     "web_name": "Jorginho",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 96
+    "total_points": 96,
+    "bps": 577,
+    "form": 0,
+    "influence": 691.4,
+    "creativity": 628.4,
+    "threat": 122,
+    "ict_index": 144.2,
+    "selected_by_percent": 3.4
   },
   {
     "id": 119,
@@ -1239,7 +2198,14 @@
     "web_name": "Kanté",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 116
+    "total_points": 116,
+    "bps": 563,
+    "form": 0,
+    "influence": 683.6,
+    "creativity": 766.3,
+    "threat": 412,
+    "ict_index": 186.4,
+    "selected_by_percent": 9.9
   },
   {
     "id": 120,
@@ -1248,7 +2214,14 @@
     "web_name": "Drinkwater",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.7
   },
   {
     "id": 121,
@@ -1257,7 +2230,14 @@
     "web_name": "Ampadu",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 431,
@@ -1266,7 +2246,14 @@
     "web_name": "Pulisic",
     "element_type": 3,
     "now_cost": 75,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 8.9
   },
   {
     "id": 432,
@@ -1275,7 +2262,14 @@
     "web_name": "Kovacic",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 64
+    "total_points": 64,
+    "bps": 343,
+    "form": 0,
+    "influence": 315.4,
+    "creativity": 468.8,
+    "threat": 311,
+    "ict_index": 109.9,
+    "selected_by_percent": 0.8
   },
   {
     "id": 459,
@@ -1284,7 +2278,14 @@
     "web_name": "Zouma",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 112
+    "total_points": 112,
+    "bps": 543,
+    "form": 0,
+    "influence": 565.2,
+    "creativity": 83.7,
+    "threat": 235,
+    "ict_index": 88.8,
+    "selected_by_percent": 1.2
   },
   {
     "id": 460,
@@ -1293,7 +2294,14 @@
     "web_name": "Abraham",
     "element_type": 4,
     "now_cost": 70,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.9
   },
   {
     "id": 461,
@@ -1302,7 +2310,14 @@
     "web_name": "Batshuayi",
     "element_type": 4,
     "now_cost": 70,
-    "total_points": 48
+    "total_points": 48,
+    "bps": 159,
+    "form": 0,
+    "influence": 198.6,
+    "creativity": 41.4,
+    "threat": 406,
+    "ict_index": 64.2,
+    "selected_by_percent": 0.7
   },
   {
     "id": 462,
@@ -1311,7 +2326,14 @@
     "web_name": "Kenedy",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 50
+    "total_points": 50,
+    "bps": 161,
+    "form": 0,
+    "influence": 212.8,
+    "creativity": 187.9,
+    "threat": 297,
+    "ict_index": 69.8,
+    "selected_by_percent": 0.1
   },
   {
     "id": 463,
@@ -1320,7 +2342,14 @@
     "web_name": "Mount",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.2
   },
   {
     "id": 123,
@@ -1329,7 +2358,14 @@
     "web_name": "van Aanholt",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 140
+    "total_points": 140,
+    "bps": 626,
+    "form": 0,
+    "influence": 616,
+    "creativity": 520.4,
+    "threat": 448,
+    "ict_index": 158.7,
+    "selected_by_percent": 7.3
   },
   {
     "id": 124,
@@ -1338,7 +2374,14 @@
     "web_name": "Tomkins",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 86
+    "total_points": 86,
+    "bps": 504,
+    "form": 0,
+    "influence": 560.8,
+    "creativity": 83,
+    "threat": 276,
+    "ict_index": 92.3,
+    "selected_by_percent": 0
   },
   {
     "id": 125,
@@ -1347,7 +2390,14 @@
     "web_name": "Sakho",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 88
+    "total_points": 88,
+    "bps": 533,
+    "form": 0,
+    "influence": 540.6,
+    "creativity": 78.2,
+    "threat": 47,
+    "ict_index": 66.6,
+    "selected_by_percent": 0.1
   },
   {
     "id": 126,
@@ -1356,7 +2406,14 @@
     "web_name": "Ward",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 13
+    "total_points": 13,
+    "bps": 68,
+    "form": 0,
+    "influence": 131.8,
+    "creativity": 28.9,
+    "threat": 43,
+    "ict_index": 20.5,
+    "selected_by_percent": 0.5
   },
   {
     "id": 127,
@@ -1365,7 +2422,14 @@
     "web_name": "Dann",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 23
+    "total_points": 23,
+    "bps": 129,
+    "form": 0,
+    "influence": 186.2,
+    "creativity": 22.5,
+    "threat": 71,
+    "ict_index": 28.1,
+    "selected_by_percent": 0.3
   },
   {
     "id": 128,
@@ -1374,7 +2438,14 @@
     "web_name": "Kelly",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 26
+    "total_points": 26,
+    "bps": 166,
+    "form": 0,
+    "influence": 269.8,
+    "creativity": 17.1,
+    "threat": 34,
+    "ict_index": 32.2,
+    "selected_by_percent": 24.8
   },
   {
     "id": 129,
@@ -1383,7 +2454,14 @@
     "web_name": "Benteke",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 33
+    "total_points": 33,
+    "bps": 65,
+    "form": 0,
+    "influence": 106,
+    "creativity": 118.4,
+    "threat": 348,
+    "ict_index": 56.1,
+    "selected_by_percent": 0.9
   },
   {
     "id": 130,
@@ -1392,7 +2470,14 @@
     "web_name": "Wickham",
     "element_type": 4,
     "now_cost": 45,
-    "total_points": 9
+    "total_points": 9,
+    "bps": 23,
+    "form": 0,
+    "influence": 23.2,
+    "creativity": 41.9,
+    "threat": 55,
+    "ict_index": 12,
+    "selected_by_percent": 3.2
   },
   {
     "id": 131,
@@ -1401,7 +2486,14 @@
     "web_name": "Guaita",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 81
+    "total_points": 81,
+    "bps": 378,
+    "form": 0,
+    "influence": 448,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 44.8,
+    "selected_by_percent": 0.6
   },
   {
     "id": 132,
@@ -1410,7 +2502,14 @@
     "web_name": "Hennessey",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 67
+    "total_points": 67,
+    "bps": 311,
+    "form": 0,
+    "influence": 358.8,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 35.9,
+    "selected_by_percent": 1.4
   },
   {
     "id": 133,
@@ -1419,7 +2518,14 @@
     "web_name": "Zaha",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 143
+    "total_points": 143,
+    "bps": 459,
+    "form": 0,
+    "influence": 752.8,
+    "creativity": 753.3,
+    "threat": 1200,
+    "ict_index": 270.6,
+    "selected_by_percent": 26.5
   },
   {
     "id": 134,
@@ -1428,7 +2534,14 @@
     "web_name": "Milivojevic",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 166
+    "total_points": 166,
+    "bps": 741,
+    "form": 0,
+    "influence": 1078.2,
+    "creativity": 910.1,
+    "threat": 473,
+    "ict_index": 246.3,
+    "selected_by_percent": 11.5
   },
   {
     "id": 135,
@@ -1437,7 +2550,14 @@
     "web_name": "Townsend",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 135
+    "total_points": 135,
+    "bps": 520,
+    "form": 0,
+    "influence": 743,
+    "creativity": 928.5,
+    "threat": 622,
+    "ict_index": 229.6,
+    "selected_by_percent": 3.9
   },
   {
     "id": 136,
@@ -1446,7 +2566,14 @@
     "web_name": "Meyer",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 60
+    "total_points": 60,
+    "bps": 223,
+    "form": 0,
+    "influence": 236,
+    "creativity": 309.9,
+    "threat": 433,
+    "ict_index": 98,
+    "selected_by_percent": 0.2
   },
   {
     "id": 137,
@@ -1455,7 +2582,14 @@
     "web_name": "Schlupp",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 91
+    "total_points": 91,
+    "bps": 301,
+    "form": 0,
+    "influence": 385.2,
+    "creativity": 240.5,
+    "threat": 430,
+    "ict_index": 105.7,
+    "selected_by_percent": 0.2
   },
   {
     "id": 138,
@@ -1464,7 +2598,14 @@
     "web_name": "McArthur",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 121
+    "total_points": 121,
+    "bps": 500,
+    "form": 0,
+    "influence": 666.8,
+    "creativity": 457.2,
+    "threat": 487,
+    "ict_index": 161.3,
+    "selected_by_percent": 2.1
   },
   {
     "id": 139,
@@ -1473,7 +2614,14 @@
     "web_name": "Kouyaté",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 67
+    "total_points": 67,
+    "bps": 251,
+    "form": 0,
+    "influence": 337.4,
+    "creativity": 198.5,
+    "threat": 222,
+    "ict_index": 75.6,
+    "selected_by_percent": 0.2
   },
   {
     "id": 140,
@@ -1482,7 +2630,14 @@
     "web_name": "Dreher",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 0.2,
+    "creativity": 0.6,
+    "threat": 0,
+    "ict_index": 0.1,
+    "selected_by_percent": 0.1
   },
   {
     "id": 468,
@@ -1491,7 +2646,14 @@
     "web_name": "Ayew",
     "element_type": 4,
     "now_cost": 50,
-    "total_points": 46
+    "total_points": 46,
+    "bps": 114,
+    "form": 0,
+    "influence": 140.2,
+    "creativity": 207.3,
+    "threat": 421,
+    "ict_index": 76.7,
+    "selected_by_percent": 1.5
   },
   {
     "id": 141,
@@ -1500,7 +2662,14 @@
     "web_name": "Digne",
     "element_type": 2,
     "now_cost": 60,
-    "total_points": 158
+    "total_points": 158,
+    "bps": 736,
+    "form": 0,
+    "influence": 883,
+    "creativity": 1142,
+    "threat": 300,
+    "ict_index": 232.7,
+    "selected_by_percent": 27.1
   },
   {
     "id": 142,
@@ -1509,7 +2678,14 @@
     "web_name": "Mina",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 36
+    "total_points": 36,
+    "bps": 176,
+    "form": 0,
+    "influence": 198.2,
+    "creativity": 37.5,
+    "threat": 61,
+    "ict_index": 29.6,
+    "selected_by_percent": 0.6
   },
   {
     "id": 143,
@@ -1518,7 +2694,14 @@
     "web_name": "Keane",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 129
+    "total_points": 129,
+    "bps": 642,
+    "form": 0,
+    "influence": 740.2,
+    "creativity": 101.2,
+    "threat": 326,
+    "ict_index": 117.2,
+    "selected_by_percent": 2.6
   },
   {
     "id": 144,
@@ -1527,7 +2710,14 @@
     "web_name": "Coleman",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 125
+    "total_points": 125,
+    "bps": 548,
+    "form": 0,
+    "influence": 515.2,
+    "creativity": 387.3,
+    "threat": 274,
+    "ict_index": 117.6,
+    "selected_by_percent": 3.9
   },
   {
     "id": 145,
@@ -1536,7 +2726,14 @@
     "web_name": "Baines",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 7
+    "total_points": 7,
+    "bps": 48,
+    "form": 0,
+    "influence": 48.4,
+    "creativity": 91.4,
+    "threat": 15,
+    "ict_index": 15.4,
+    "selected_by_percent": 0.4
   },
   {
     "id": 146,
@@ -1545,7 +2742,14 @@
     "web_name": "Tosun",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 56
+    "total_points": 56,
+    "bps": 166,
+    "form": 0,
+    "influence": 212.6,
+    "creativity": 172.2,
+    "threat": 546,
+    "ict_index": 92.8,
+    "selected_by_percent": 0.2
   },
   {
     "id": 147,
@@ -1554,7 +2758,14 @@
     "web_name": "Calvert-Lewin",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 92
+    "total_points": 92,
+    "bps": 267,
+    "form": 0,
+    "influence": 321.8,
+    "creativity": 185.7,
+    "threat": 618,
+    "ict_index": 111.5,
+    "selected_by_percent": 3.3
   },
   {
     "id": 148,
@@ -1563,7 +2774,14 @@
     "web_name": "Pickford",
     "element_type": 1,
     "now_cost": 55,
-    "total_points": 161
+    "total_points": 161,
+    "bps": 706,
+    "form": 0,
+    "influence": 776.4,
+    "creativity": 10,
+    "threat": 0,
+    "ict_index": 78.5,
+    "selected_by_percent": 10.2
   },
   {
     "id": 149,
@@ -1572,7 +2790,14 @@
     "web_name": "Stekelenburg",
     "element_type": 1,
     "now_cost": 40,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 6.5
   },
   {
     "id": 150,
@@ -1581,7 +2806,14 @@
     "web_name": "Richarlison",
     "element_type": 3,
     "now_cost": 80,
-    "total_points": 153
+    "total_points": 153,
+    "bps": 400,
+    "form": 0,
+    "influence": 698.4,
+    "creativity": 350.7,
+    "threat": 1209,
+    "ict_index": 224.5,
+    "selected_by_percent": 10
   },
   {
     "id": 151,
@@ -1590,7 +2822,14 @@
     "web_name": "Sigurdsson",
     "element_type": 3,
     "now_cost": 80,
-    "total_points": 182
+    "total_points": 182,
+    "bps": 662,
+    "form": 0,
+    "influence": 959.8,
+    "creativity": 1098.5,
+    "threat": 1084,
+    "ict_index": 314.2,
+    "selected_by_percent": 15.2
   },
   {
     "id": 152,
@@ -1599,7 +2838,14 @@
     "web_name": "Bernard",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 88
+    "total_points": 88,
+    "bps": 319,
+    "form": 0,
+    "influence": 366,
+    "creativity": 589.6,
+    "threat": 377,
+    "ict_index": 133.3,
+    "selected_by_percent": 0.5
   },
   {
     "id": 153,
@@ -1608,7 +2854,14 @@
     "web_name": "Walcott",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 101
+    "total_points": 101,
+    "bps": 292,
+    "form": 0,
+    "influence": 420,
+    "creativity": 342.9,
+    "threat": 699,
+    "ict_index": 145.7,
+    "selected_by_percent": 0.8
   },
   {
     "id": 154,
@@ -1617,7 +2870,14 @@
     "web_name": "Davies",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 26
+    "total_points": 26,
+    "bps": 127,
+    "form": 0,
+    "influence": 122.6,
+    "creativity": 96.2,
+    "threat": 103,
+    "ict_index": 32.1,
+    "selected_by_percent": 0.2
   },
   {
     "id": 155,
@@ -1626,7 +2886,14 @@
     "web_name": "Lookman",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 34
+    "total_points": 34,
+    "bps": 110,
+    "form": 0,
+    "influence": 131.4,
+    "creativity": 172.1,
+    "threat": 211,
+    "ict_index": 51.6,
+    "selected_by_percent": 0.1
   },
   {
     "id": 156,
@@ -1635,7 +2902,14 @@
     "web_name": "Gueye",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 78
+    "total_points": 78,
+    "bps": 472,
+    "form": 0,
+    "influence": 629.2,
+    "creativity": 311.3,
+    "threat": 168,
+    "ict_index": 111.1,
+    "selected_by_percent": 0.2
   },
   {
     "id": 157,
@@ -1644,7 +2918,14 @@
     "web_name": "McCarthy",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 5.2,
+    "creativity": 0.1,
+    "threat": 0,
+    "ict_index": 0.5,
+    "selected_by_percent": 0.4
   },
   {
     "id": 158,
@@ -1653,7 +2934,14 @@
     "web_name": "Schneiderlin",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 28
+    "total_points": 28,
+    "bps": 152,
+    "form": 0,
+    "influence": 151.6,
+    "creativity": 124.7,
+    "threat": 17,
+    "ict_index": 29.4,
+    "selected_by_percent": 1
   },
   {
     "id": 205,
@@ -1662,7 +2950,14 @@
     "web_name": "Delph",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 29
+    "total_points": 29,
+    "bps": 186,
+    "form": 0,
+    "influence": 153.8,
+    "creativity": 97.8,
+    "threat": 24,
+    "ict_index": 27.5,
+    "selected_by_percent": 1.7
   },
   {
     "id": 422,
@@ -1671,7 +2966,14 @@
     "web_name": "André Gomes",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 64
+    "total_points": 64,
+    "bps": 268,
+    "form": 0,
+    "influence": 268.4,
+    "creativity": 154.6,
+    "threat": 207,
+    "ict_index": 63.1,
+    "selected_by_percent": 1.3
   },
   {
     "id": 477,
@@ -1680,7 +2982,14 @@
     "web_name": "Gibson",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 478,
@@ -1689,7 +2998,14 @@
     "web_name": "Holgate",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 5
+    "total_points": 5,
+    "bps": 61,
+    "form": 0,
+    "influence": 92.2,
+    "creativity": 5,
+    "threat": 2,
+    "ict_index": 9.9,
+    "selected_by_percent": 0.1
   },
   {
     "id": 479,
@@ -1698,7 +3014,14 @@
     "web_name": "Lössl",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 99
+    "total_points": 99,
+    "bps": 541,
+    "form": 0,
+    "influence": 764.2,
+    "creativity": 40.3,
+    "threat": 4,
+    "ict_index": 80.7,
+    "selected_by_percent": 0.2
   },
   {
     "id": 159,
@@ -1707,7 +3030,14 @@
     "web_name": "Pereira",
     "element_type": 2,
     "now_cost": 60,
-    "total_points": 146
+    "total_points": 146,
+    "bps": 693,
+    "form": 0,
+    "influence": 889,
+    "creativity": 517.6,
+    "threat": 430,
+    "ict_index": 183.7,
+    "selected_by_percent": 7.6
   },
   {
     "id": 160,
@@ -1716,7 +3046,14 @@
     "web_name": "Maguire",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 92
+    "total_points": 92,
+    "bps": 533,
+    "form": 0,
+    "influence": 715.8,
+    "creativity": 165.3,
+    "threat": 462,
+    "ict_index": 134.3,
+    "selected_by_percent": 11.3
   },
   {
     "id": 161,
@@ -1725,7 +3062,14 @@
     "web_name": "Chilwell",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 118
+    "total_points": 118,
+    "bps": 578,
+    "form": 0,
+    "influence": 721,
+    "creativity": 674.6,
+    "threat": 298,
+    "ict_index": 170,
+    "selected_by_percent": 6
   },
   {
     "id": 162,
@@ -1734,7 +3078,14 @@
     "web_name": "Evans",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 77
+    "total_points": 77,
+    "bps": 418,
+    "form": 0,
+    "influence": 460,
+    "creativity": 66.1,
+    "threat": 158,
+    "ict_index": 68.5,
+    "selected_by_percent": 0.6
   },
   {
     "id": 163,
@@ -1743,7 +3094,14 @@
     "web_name": "Fuchs",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 3
+    "total_points": 3,
+    "bps": 38,
+    "form": 0,
+    "influence": 50.4,
+    "creativity": 85.6,
+    "threat": 14,
+    "ict_index": 14.9,
+    "selected_by_percent": 0.4
   },
   {
     "id": 164,
@@ -1752,7 +3110,14 @@
     "web_name": "Söyüncü",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 9
+    "total_points": 9,
+    "bps": 48,
+    "form": 0,
+    "influence": 76.6,
+    "creativity": 6.8,
+    "threat": 22,
+    "ict_index": 10.6,
+    "selected_by_percent": 0.1
   },
   {
     "id": 165,
@@ -1761,7 +3126,14 @@
     "web_name": "Morgan",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 76
+    "total_points": 76,
+    "bps": 365,
+    "form": 0,
+    "influence": 471,
+    "creativity": 40.1,
+    "threat": 293,
+    "ict_index": 80.5,
+    "selected_by_percent": 1.3
   },
   {
     "id": 166,
@@ -1770,7 +3142,14 @@
     "web_name": "Vardy",
     "element_type": 4,
     "now_cost": 90,
-    "total_points": 174
+    "total_points": 174,
+    "bps": 598,
+    "form": 0,
+    "influence": 822,
+    "creativity": 419.9,
+    "threat": 1206,
+    "ict_index": 244.6,
+    "selected_by_percent": 10.3
   },
   {
     "id": 167,
@@ -1779,7 +3158,14 @@
     "web_name": "Iheanacho",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 58
+    "total_points": 58,
+    "bps": 160,
+    "form": 0,
+    "influence": 135.8,
+    "creativity": 209.4,
+    "threat": 230,
+    "ict_index": 56.9,
+    "selected_by_percent": 0.4
   },
   {
     "id": 168,
@@ -1788,7 +3174,14 @@
     "web_name": "Schmeichel",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 120
+    "total_points": 120,
+    "bps": 618,
+    "form": 0,
+    "influence": 756.8,
+    "creativity": 10,
+    "threat": 4,
+    "ict_index": 76.9,
+    "selected_by_percent": 5.6
   },
   {
     "id": 169,
@@ -1797,7 +3190,14 @@
     "web_name": "Jakupovic",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 170,
@@ -1806,7 +3206,14 @@
     "web_name": "Ward",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 171,
@@ -1815,7 +3222,14 @@
     "web_name": "Maddison",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 137
+    "total_points": 137,
+    "bps": 619,
+    "form": 0,
+    "influence": 801.4,
+    "creativity": 1515,
+    "threat": 769,
+    "ict_index": 308.4,
+    "selected_by_percent": 13.3
   },
   {
     "id": 172,
@@ -1824,7 +3238,14 @@
     "web_name": "Barnes",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 43
+    "total_points": 43,
+    "bps": 139,
+    "form": 0,
+    "influence": 172.8,
+    "creativity": 242,
+    "threat": 534,
+    "ict_index": 94.8,
+    "selected_by_percent": 0.3
   },
   {
     "id": 173,
@@ -1833,7 +3254,14 @@
     "web_name": "Ghezzal",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 28
+    "total_points": 28,
+    "bps": 112,
+    "form": 0,
+    "influence": 147.8,
+    "creativity": 307,
+    "threat": 228,
+    "ict_index": 68.3,
+    "selected_by_percent": 0.1
   },
   {
     "id": 174,
@@ -1842,7 +3270,14 @@
     "web_name": "Albrighton",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 63
+    "total_points": 63,
+    "bps": 279,
+    "form": 0,
+    "influence": 371.2,
+    "creativity": 446.8,
+    "threat": 242,
+    "ict_index": 106.1,
+    "selected_by_percent": 0.3
   },
   {
     "id": 175,
@@ -1851,7 +3286,14 @@
     "web_name": "Gray",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 84
+    "total_points": 84,
+    "bps": 244,
+    "form": 0,
+    "influence": 320.2,
+    "creativity": 310.2,
+    "threat": 599,
+    "ict_index": 122.5,
+    "selected_by_percent": 0.7
   },
   {
     "id": 176,
@@ -1860,7 +3302,14 @@
     "web_name": "Ndidi",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 89
+    "total_points": 89,
+    "bps": 571,
+    "form": 0,
+    "influence": 726,
+    "creativity": 342.4,
+    "threat": 346,
+    "ict_index": 141.6,
+    "selected_by_percent": 1.1
   },
   {
     "id": 177,
@@ -1869,7 +3318,14 @@
     "web_name": "James",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 178,
@@ -1878,7 +3334,14 @@
     "web_name": "Amartey",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 15
+    "total_points": 15,
+    "bps": 103,
+    "form": 0,
+    "influence": 139,
+    "creativity": 46.7,
+    "threat": 21,
+    "ict_index": 20.8,
+    "selected_by_percent": 0.2
   },
   {
     "id": 179,
@@ -1887,7 +3350,14 @@
     "web_name": "Mendy",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 58
+    "total_points": 58,
+    "bps": 291,
+    "form": 0,
+    "influence": 235.8,
+    "creativity": 135.5,
+    "threat": 23,
+    "ict_index": 39.5,
+    "selected_by_percent": 2.2
   },
   {
     "id": 180,
@@ -1896,7 +3366,14 @@
     "web_name": "Choudhury",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 20
+    "total_points": 20,
+    "bps": 80,
+    "form": 0,
+    "influence": 119.6,
+    "creativity": 73.7,
+    "threat": 51,
+    "ict_index": 24.6,
+    "selected_by_percent": 0.6
   },
   {
     "id": 265,
@@ -1905,7 +3382,14 @@
     "web_name": "Pérez",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 141
+    "total_points": 141,
+    "bps": 541,
+    "form": 0,
+    "influence": 783.6,
+    "creativity": 585.6,
+    "threat": 954,
+    "ict_index": 232.1,
+    "selected_by_percent": 12
   },
   {
     "id": 433,
@@ -1914,7 +3398,14 @@
     "web_name": "Justin",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 448,
@@ -1923,7 +3414,14 @@
     "web_name": "Tielemans",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 63
+    "total_points": 63,
+    "bps": 267,
+    "form": 0,
+    "influence": 299,
+    "creativity": 269.7,
+    "threat": 249,
+    "ict_index": 81.8,
+    "selected_by_percent": 6.9
   },
   {
     "id": 480,
@@ -1932,7 +3430,14 @@
     "web_name": "King",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 181,
@@ -1941,7 +3446,14 @@
     "web_name": "Robertson",
     "element_type": 2,
     "now_cost": 70,
-    "total_points": 213
+    "total_points": 213,
+    "bps": 906,
+    "form": 0,
+    "influence": 748.8,
+    "creativity": 767.2,
+    "threat": 318,
+    "ict_index": 183.6,
+    "selected_by_percent": 35.6
   },
   {
     "id": 182,
@@ -1950,7 +3462,14 @@
     "web_name": "Alexander-Arnold",
     "element_type": 2,
     "now_cost": 70,
-    "total_points": 185
+    "total_points": 185,
+    "bps": 753,
+    "form": 0,
+    "influence": 734.4,
+    "creativity": 837.4,
+    "threat": 276,
+    "ict_index": 184.7,
+    "selected_by_percent": 28
   },
   {
     "id": 183,
@@ -1959,7 +3478,14 @@
     "web_name": "van Dijk",
     "element_type": 2,
     "now_cost": 65,
-    "total_points": 208
+    "total_points": 208,
+    "bps": 932,
+    "form": 0,
+    "influence": 993.6,
+    "creativity": 111.1,
+    "threat": 455,
+    "ict_index": 156.1,
+    "selected_by_percent": 44.9
   },
   {
     "id": 184,
@@ -1968,7 +3494,14 @@
     "web_name": "Gomez",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 55
+    "total_points": 55,
+    "bps": 268,
+    "form": 0,
+    "influence": 209.8,
+    "creativity": 92.1,
+    "threat": 44,
+    "ict_index": 34.7,
+    "selected_by_percent": 1.5
   },
   {
     "id": 185,
@@ -1977,7 +3510,14 @@
     "web_name": "Matip",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 83
+    "total_points": 83,
+    "bps": 402,
+    "form": 0,
+    "influence": 414.6,
+    "creativity": 57.9,
+    "threat": 85,
+    "ict_index": 55.9,
+    "selected_by_percent": 0.9
   },
   {
     "id": 186,
@@ -1986,7 +3526,14 @@
     "web_name": "Lovren",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 63
+    "total_points": 63,
+    "bps": 258,
+    "form": 0,
+    "influence": 255.8,
+    "creativity": 29.1,
+    "threat": 72,
+    "ict_index": 35.7,
+    "selected_by_percent": 0.3
   },
   {
     "id": 187,
@@ -1995,7 +3542,14 @@
     "web_name": "Firmino",
     "element_type": 4,
     "now_cost": 95,
-    "total_points": 160
+    "total_points": 160,
+    "bps": 647,
+    "form": 0,
+    "influence": 774.8,
+    "creativity": 670.1,
+    "threat": 1240,
+    "ict_index": 267.8,
+    "selected_by_percent": 9
   },
   {
     "id": 188,
@@ -2004,7 +3558,14 @@
     "web_name": "Origi",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 32
+    "total_points": 32,
+    "bps": 122,
+    "form": 0,
+    "influence": 143.4,
+    "creativity": 45,
+    "threat": 195,
+    "ict_index": 38.2,
+    "selected_by_percent": 2.6
   },
   {
     "id": 189,
@@ -2013,7 +3574,14 @@
     "web_name": "Alisson",
     "element_type": 1,
     "now_cost": 60,
-    "total_points": 176
+    "total_points": 176,
+    "bps": 771,
+    "form": 0,
+    "influence": 677,
+    "creativity": 0.1,
+    "threat": 0,
+    "ict_index": 67.6,
+    "selected_by_percent": 32.9
   },
   {
     "id": 190,
@@ -2022,7 +3590,14 @@
     "web_name": "Mignolet",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 191,
@@ -2031,7 +3606,14 @@
     "web_name": "Salah",
     "element_type": 3,
     "now_cost": 125,
-    "total_points": 259
+    "total_points": 259,
+    "bps": 687,
+    "form": 0,
+    "influence": 1186.8,
+    "creativity": 973.9,
+    "threat": 2168,
+    "ict_index": 432.7,
+    "selected_by_percent": 36.1
   },
   {
     "id": 192,
@@ -2040,7 +3622,14 @@
     "web_name": "Mané",
     "element_type": 3,
     "now_cost": 115,
-    "total_points": 231
+    "total_points": 231,
+    "bps": 703,
+    "form": 0,
+    "influence": 1015.8,
+    "creativity": 692.8,
+    "threat": 1332,
+    "ict_index": 304,
+    "selected_by_percent": 20.6
   },
   {
     "id": 193,
@@ -2049,7 +3638,14 @@
     "web_name": "Chamberlain",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 2
+    "total_points": 2,
+    "bps": 7,
+    "form": 0,
+    "influence": 10.2,
+    "creativity": 10.8,
+    "threat": 19,
+    "ict_index": 4,
+    "selected_by_percent": 0.7
   },
   {
     "id": 194,
@@ -2058,7 +3654,14 @@
     "web_name": "Shaqiri",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 88
+    "total_points": 88,
+    "bps": 302,
+    "form": 0,
+    "influence": 363.6,
+    "creativity": 344.7,
+    "threat": 282,
+    "ict_index": 99.1,
+    "selected_by_percent": 0.2
   },
   {
     "id": 195,
@@ -2067,7 +3670,14 @@
     "web_name": "Lallana",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 23
+    "total_points": 23,
+    "bps": 96,
+    "form": 0,
+    "influence": 85.4,
+    "creativity": 139,
+    "threat": 113,
+    "ict_index": 33.8,
+    "selected_by_percent": 0.1
   },
   {
     "id": 196,
@@ -2076,7 +3686,14 @@
     "web_name": "Keita",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 67
+    "total_points": 67,
+    "bps": 246,
+    "form": 0,
+    "influence": 293.6,
+    "creativity": 213.1,
+    "threat": 356,
+    "ict_index": 86.3,
+    "selected_by_percent": 0.5
   },
   {
     "id": 197,
@@ -2085,7 +3702,14 @@
     "web_name": "Fabinho",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 65
+    "total_points": 65,
+    "bps": 305,
+    "form": 0,
+    "influence": 406.2,
+    "creativity": 283.4,
+    "threat": 173,
+    "ict_index": 86.4,
+    "selected_by_percent": 0.8
   },
   {
     "id": 198,
@@ -2094,7 +3718,14 @@
     "web_name": "Henderson",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 76
+    "total_points": 76,
+    "bps": 397,
+    "form": 0,
+    "influence": 358.8,
+    "creativity": 311.7,
+    "threat": 182,
+    "ict_index": 85.4,
+    "selected_by_percent": 0.6
   },
   {
     "id": 199,
@@ -2103,7 +3734,14 @@
     "web_name": "Wijnaldum",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 108
+    "total_points": 108,
+    "bps": 470,
+    "form": 0,
+    "influence": 437.6,
+    "creativity": 405.2,
+    "threat": 338,
+    "ict_index": 118.4,
+    "selected_by_percent": 2.4
   },
   {
     "id": 200,
@@ -2112,7 +3750,14 @@
     "web_name": "Milner",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 101
+    "total_points": 101,
+    "bps": 448,
+    "form": 0,
+    "influence": 587.2,
+    "creativity": 725.2,
+    "threat": 374,
+    "ict_index": 169.2,
+    "selected_by_percent": 1.2
   },
   {
     "id": 201,
@@ -2121,7 +3766,14 @@
     "web_name": "Camacho",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0.2,
+    "selected_by_percent": 0
   },
   {
     "id": 464,
@@ -2130,7 +3782,14 @@
     "web_name": "Brewster",
     "element_type": 4,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.6
   },
   {
     "id": 202,
@@ -2139,7 +3798,14 @@
     "web_name": "Laporte",
     "element_type": 2,
     "now_cost": 65,
-    "total_points": 177
+    "total_points": 177,
+    "bps": 768,
+    "form": 0,
+    "influence": 790,
+    "creativity": 239.3,
+    "threat": 278,
+    "ict_index": 131.2,
+    "selected_by_percent": 20.1
   },
   {
     "id": 203,
@@ -2148,7 +3814,14 @@
     "web_name": "Walker",
     "element_type": 2,
     "now_cost": 60,
-    "total_points": 150
+    "total_points": 150,
+    "bps": 684,
+    "form": 0,
+    "influence": 498.8,
+    "creativity": 448.4,
+    "threat": 183,
+    "ict_index": 113.1,
+    "selected_by_percent": 15.9
   },
   {
     "id": 204,
@@ -2157,7 +3830,14 @@
     "web_name": "Mendy",
     "element_type": 2,
     "now_cost": 60,
-    "total_points": 59
+    "total_points": 59,
+    "bps": 262,
+    "form": 0,
+    "influence": 250.8,
+    "creativity": 222.7,
+    "threat": 70,
+    "ict_index": 54.2,
+    "selected_by_percent": 2.1
   },
   {
     "id": 206,
@@ -2166,7 +3846,14 @@
     "web_name": "Zinchenko",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 44
+    "total_points": 44,
+    "bps": 230,
+    "form": 0,
+    "influence": 279.2,
+    "creativity": 278.6,
+    "threat": 77,
+    "ict_index": 63.5,
+    "selected_by_percent": 6
   },
   {
     "id": 207,
@@ -2175,7 +3862,14 @@
     "web_name": "Stones",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 83
+    "total_points": 83,
+    "bps": 431,
+    "form": 0,
+    "influence": 376.6,
+    "creativity": 115.5,
+    "threat": 49,
+    "ict_index": 54.1,
+    "selected_by_percent": 2.5
   },
   {
     "id": 208,
@@ -2184,7 +3878,14 @@
     "web_name": "Otamendi",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 70
+    "total_points": 70,
+    "bps": 335,
+    "form": 0,
+    "influence": 281.2,
+    "creativity": 53.7,
+    "threat": 143,
+    "ict_index": 47.8,
+    "selected_by_percent": 1
   },
   {
     "id": 209,
@@ -2193,7 +3894,14 @@
     "web_name": "Danilo",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 46
+    "total_points": 46,
+    "bps": 202,
+    "form": 0,
+    "influence": 165.2,
+    "creativity": 118,
+    "threat": 99,
+    "ict_index": 38.2,
+    "selected_by_percent": 0.3
   },
   {
     "id": 210,
@@ -2202,7 +3910,14 @@
     "web_name": "Agüero",
     "element_type": 4,
     "now_cost": 120,
-    "total_points": 201
+    "total_points": 201,
+    "bps": 740,
+    "form": 0,
+    "influence": 946.6,
+    "creativity": 523.7,
+    "threat": 1685,
+    "ict_index": 315.4,
+    "selected_by_percent": 21.8
   },
   {
     "id": 211,
@@ -2211,7 +3926,14 @@
     "web_name": "Jesus",
     "element_type": 4,
     "now_cost": 95,
-    "total_points": 79
+    "total_points": 79,
+    "bps": 259,
+    "form": 0,
+    "influence": 395.2,
+    "creativity": 300.5,
+    "threat": 864,
+    "ict_index": 156.3,
+    "selected_by_percent": 2.1
   },
   {
     "id": 212,
@@ -2220,7 +3942,14 @@
     "web_name": "Ederson",
     "element_type": 1,
     "now_cost": 60,
-    "total_points": 169
+    "total_points": 169,
+    "bps": 700,
+    "form": 0,
+    "influence": 535.2,
+    "creativity": 33,
+    "threat": 0,
+    "ict_index": 56.8,
+    "selected_by_percent": 18
   },
   {
     "id": 213,
@@ -2229,7 +3958,14 @@
     "web_name": "Bravo",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 214,
@@ -2238,7 +3974,14 @@
     "web_name": "Sterling",
     "element_type": 3,
     "now_cost": 120,
-    "total_points": 234
+    "total_points": 234,
+    "bps": 743,
+    "form": 0,
+    "influence": 1060,
+    "creativity": 937.4,
+    "threat": 1572,
+    "ict_index": 357.1,
+    "selected_by_percent": 28.4
   },
   {
     "id": 215,
@@ -2247,7 +3990,14 @@
     "web_name": "De Bruyne",
     "element_type": 3,
     "now_cost": 95,
-    "total_points": 59
+    "total_points": 59,
+    "bps": 268,
+    "form": 0,
+    "influence": 301.4,
+    "creativity": 562.3,
+    "threat": 317,
+    "ict_index": 117.9,
+    "selected_by_percent": 15.3
   },
   {
     "id": 216,
@@ -2256,7 +4006,14 @@
     "web_name": "Sané",
     "element_type": 3,
     "now_cost": 95,
-    "total_points": 156
+    "total_points": 156,
+    "bps": 520,
+    "form": 0,
+    "influence": 716.8,
+    "creativity": 645,
+    "threat": 1039,
+    "ict_index": 240.3,
+    "selected_by_percent": 3.1
   },
   {
     "id": 217,
@@ -2265,7 +4022,14 @@
     "web_name": "Mahrez",
     "element_type": 3,
     "now_cost": 85,
-    "total_points": 102
+    "total_points": 102,
+    "bps": 349,
+    "form": 0,
+    "influence": 459.4,
+    "creativity": 450.8,
+    "threat": 731,
+    "ict_index": 164.1,
+    "selected_by_percent": 1.2
   },
   {
     "id": 218,
@@ -2274,7 +4038,14 @@
     "web_name": "Bernardo Silva",
     "element_type": 3,
     "now_cost": 80,
-    "total_points": 154
+    "total_points": 154,
+    "bps": 649,
+    "form": 0,
+    "influence": 796.4,
+    "creativity": 1026.3,
+    "threat": 1069,
+    "ict_index": 289.6,
+    "selected_by_percent": 26.4
   },
   {
     "id": 219,
@@ -2283,7 +4054,14 @@
     "web_name": "David Silva",
     "element_type": 3,
     "now_cost": 75,
-    "total_points": 143
+    "total_points": 143,
+    "bps": 614,
+    "form": 0,
+    "influence": 715.2,
+    "creativity": 1150.3,
+    "threat": 1092,
+    "ict_index": 295.8,
+    "selected_by_percent": 3.6
   },
   {
     "id": 220,
@@ -2292,7 +4070,14 @@
     "web_name": "Foden",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 25
+    "total_points": 25,
+    "bps": 93,
+    "form": 0,
+    "influence": 85,
+    "creativity": 133.8,
+    "threat": 208,
+    "ict_index": 42.6,
+    "selected_by_percent": 0.9
   },
   {
     "id": 221,
@@ -2301,7 +4086,14 @@
     "web_name": "Fernandinho",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 79
+    "total_points": 79,
+    "bps": 444,
+    "form": 0,
+    "influence": 534.6,
+    "creativity": 396.8,
+    "threat": 208,
+    "ict_index": 114.2,
+    "selected_by_percent": 1.2
   },
   {
     "id": 222,
@@ -2310,7 +4102,14 @@
     "web_name": "Gündogan",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 113
+    "total_points": 113,
+    "bps": 528,
+    "form": 0,
+    "influence": 548.8,
+    "creativity": 819.7,
+    "threat": 447,
+    "ict_index": 181.6,
+    "selected_by_percent": 3.1
   },
   {
     "id": 440,
@@ -2319,7 +4118,14 @@
     "web_name": "Angeliño",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 443,
@@ -2328,7 +4134,14 @@
     "web_name": "Rodrigo",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1
   },
   {
     "id": 122,
@@ -2337,7 +4150,14 @@
     "web_name": "Wan-Bissaka",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 120
+    "total_points": 120,
+    "bps": 672,
+    "form": 0,
+    "influence": 863.4,
+    "creativity": 266.8,
+    "threat": 139,
+    "ict_index": 127.1,
+    "selected_by_percent": 35.4
   },
   {
     "id": 223,
@@ -2346,7 +4166,14 @@
     "web_name": "Smalling",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 56
+    "total_points": 56,
+    "bps": 335,
+    "form": 0,
+    "influence": 453.4,
+    "creativity": 31,
+    "threat": 176,
+    "ict_index": 66,
+    "selected_by_percent": 0.3
   },
   {
     "id": 224,
@@ -2355,7 +4182,14 @@
     "web_name": "Young",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 73
+    "total_points": 73,
+    "bps": 450,
+    "form": 0,
+    "influence": 554.4,
+    "creativity": 650.5,
+    "threat": 124,
+    "ict_index": 133,
+    "selected_by_percent": 0.4
   },
   {
     "id": 225,
@@ -2364,7 +4198,14 @@
     "web_name": "Lindelöf",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 85
+    "total_points": 85,
+    "bps": 527,
+    "form": 0,
+    "influence": 533,
+    "creativity": 75.3,
+    "threat": 118,
+    "ict_index": 72.8,
+    "selected_by_percent": 1.5
   },
   {
     "id": 226,
@@ -2373,7 +4214,14 @@
     "web_name": "Shaw",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 91
+    "total_points": 91,
+    "bps": 489,
+    "form": 0,
+    "influence": 586.2,
+    "creativity": 505.6,
+    "threat": 287,
+    "ict_index": 138.1,
+    "selected_by_percent": 2.3
   },
   {
     "id": 227,
@@ -2382,7 +4230,14 @@
     "web_name": "Rojo",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 2
+    "total_points": 2,
+    "bps": 15,
+    "form": 0,
+    "influence": 42.2,
+    "creativity": 3.1,
+    "threat": 63,
+    "ict_index": 10.9,
+    "selected_by_percent": 0.2
   },
   {
     "id": 228,
@@ -2391,7 +4246,14 @@
     "web_name": "Bailly",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 16
+    "total_points": 16,
+    "bps": 109,
+    "form": 0,
+    "influence": 125,
+    "creativity": 3.4,
+    "threat": 35,
+    "ict_index": 16.5,
+    "selected_by_percent": 0.2
   },
   {
     "id": 229,
@@ -2400,7 +4262,14 @@
     "web_name": "Dalot",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 27
+    "total_points": 27,
+    "bps": 171,
+    "form": 0,
+    "influence": 184.4,
+    "creativity": 259,
+    "threat": 94,
+    "ict_index": 53.7,
+    "selected_by_percent": 0.3
   },
   {
     "id": 230,
@@ -2409,7 +4278,14 @@
     "web_name": "Darmian",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 14
+    "total_points": 14,
+    "bps": 83,
+    "form": 0,
+    "influence": 84.2,
+    "creativity": 34.9,
+    "threat": 7,
+    "ict_index": 12.6,
+    "selected_by_percent": 0.1
   },
   {
     "id": 231,
@@ -2418,7 +4294,14 @@
     "web_name": "Jones",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 43
+    "total_points": 43,
+    "bps": 273,
+    "form": 0,
+    "influence": 300.8,
+    "creativity": 44.8,
+    "threat": 42,
+    "ict_index": 39,
+    "selected_by_percent": 0.2
   },
   {
     "id": 232,
@@ -2427,7 +4310,14 @@
     "web_name": "Lukaku",
     "element_type": 4,
     "now_cost": 85,
-    "total_points": 115
+    "total_points": 115,
+    "bps": 361,
+    "form": 0,
+    "influence": 550.6,
+    "creativity": 330.2,
+    "threat": 1052,
+    "ict_index": 193.5,
+    "selected_by_percent": 2.8
   },
   {
     "id": 233,
@@ -2436,7 +4326,14 @@
     "web_name": "Rashford",
     "element_type": 4,
     "now_cost": 85,
-    "total_points": 128
+    "total_points": 128,
+    "bps": 425,
+    "form": 0,
+    "influence": 650,
+    "creativity": 542.3,
+    "threat": 1064,
+    "ict_index": 224.6,
+    "selected_by_percent": 16.4
   },
   {
     "id": 234,
@@ -2445,7 +4342,14 @@
     "web_name": "Greenwood",
     "element_type": 4,
     "now_cost": 45,
-    "total_points": 4
+    "total_points": 4,
+    "bps": 12,
+    "form": 0,
+    "influence": 24,
+    "creativity": 43.3,
+    "threat": 90,
+    "ict_index": 15.7,
+    "selected_by_percent": 13.9
   },
   {
     "id": 235,
@@ -2454,7 +4358,14 @@
     "web_name": "de Gea",
     "element_type": 1,
     "now_cost": 55,
-    "total_points": 120
+    "total_points": 120,
+    "bps": 636,
+    "form": 0,
+    "influence": 846,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 84.5,
+    "selected_by_percent": 10.1
   },
   {
     "id": 236,
@@ -2463,7 +4374,14 @@
     "web_name": "Romero",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 237,
@@ -2472,7 +4390,14 @@
     "web_name": "Grant",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 238,
@@ -2481,7 +4406,14 @@
     "web_name": "Pogba",
     "element_type": 3,
     "now_cost": 85,
-    "total_points": 179
+    "total_points": 179,
+    "bps": 648,
+    "form": 0,
+    "influence": 1096.8,
+    "creativity": 822.3,
+    "threat": 1246,
+    "ict_index": 316.9,
+    "selected_by_percent": 10.2
   },
   {
     "id": 239,
@@ -2490,7 +4422,14 @@
     "web_name": "Martial",
     "element_type": 3,
     "now_cost": 75,
-    "total_points": 122
+    "total_points": 122,
+    "bps": 389,
+    "form": 0,
+    "influence": 532.8,
+    "creativity": 503.3,
+    "threat": 755,
+    "ict_index": 178.9,
+    "selected_by_percent": 3.9
   },
   {
     "id": 240,
@@ -2499,7 +4438,14 @@
     "web_name": "Sánchez",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 47
+    "total_points": 47,
+    "bps": 168,
+    "form": 0,
+    "influence": 207.6,
+    "creativity": 297.2,
+    "threat": 307,
+    "ict_index": 81.1,
+    "selected_by_percent": 3.1
   },
   {
     "id": 241,
@@ -2508,7 +4454,14 @@
     "web_name": "Lingard",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 78
+    "total_points": 78,
+    "bps": 270,
+    "form": 0,
+    "influence": 310,
+    "creativity": 306.1,
+    "threat": 395,
+    "ict_index": 101.1,
+    "selected_by_percent": 1.2
   },
   {
     "id": 242,
@@ -2517,7 +4470,14 @@
     "web_name": "Mata",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 70
+    "total_points": 70,
+    "bps": 274,
+    "form": 0,
+    "influence": 258.4,
+    "creativity": 464,
+    "threat": 262,
+    "ict_index": 98.6,
+    "selected_by_percent": 0.4
   },
   {
     "id": 243,
@@ -2526,7 +4486,14 @@
     "web_name": "James",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3.5
   },
   {
     "id": 244,
@@ -2535,7 +4502,14 @@
     "web_name": "Fred",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 40
+    "total_points": 40,
+    "bps": 180,
+    "form": 0,
+    "influence": 177.6,
+    "creativity": 203.2,
+    "threat": 87,
+    "ict_index": 46.9,
+    "selected_by_percent": 0.2
   },
   {
     "id": 245,
@@ -2544,7 +4518,14 @@
     "web_name": "Gomes",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 2
+    "total_points": 2,
+    "bps": 4,
+    "form": 0,
+    "influence": 5.2,
+    "creativity": 2.3,
+    "threat": 18,
+    "ict_index": 2.6,
+    "selected_by_percent": 0.2
   },
   {
     "id": 246,
@@ -2553,7 +4534,14 @@
     "web_name": "Pereira",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 27
+    "total_points": 27,
+    "bps": 115,
+    "form": 0,
+    "influence": 132.8,
+    "creativity": 139.5,
+    "threat": 67,
+    "ict_index": 33.8,
+    "selected_by_percent": 0.2
   },
   {
     "id": 247,
@@ -2562,7 +4550,14 @@
     "web_name": "Matic",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 59
+    "total_points": 59,
+    "bps": 371,
+    "form": 0,
+    "influence": 477.6,
+    "creativity": 247.9,
+    "threat": 183,
+    "ict_index": 90.9,
+    "selected_by_percent": 0.5
   },
   {
     "id": 248,
@@ -2571,7 +4566,14 @@
     "web_name": "McTominay",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 38
+    "total_points": 38,
+    "bps": 152,
+    "form": 0,
+    "influence": 175.4,
+    "creativity": 33.1,
+    "threat": 180,
+    "ict_index": 38.8,
+    "selected_by_percent": 0.6
   },
   {
     "id": 249,
@@ -2580,7 +4582,14 @@
     "web_name": "Chong",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 2
+    "total_points": 2,
+    "bps": 3,
+    "form": 0,
+    "influence": 6.2,
+    "creativity": 2.1,
+    "threat": 39,
+    "ict_index": 4.7,
+    "selected_by_percent": 0.3
   },
   {
     "id": 250,
@@ -2589,7 +4598,14 @@
     "web_name": "Garner",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 481,
@@ -2598,7 +4614,14 @@
     "web_name": "Tuanzebe",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 251,
@@ -2607,7 +4630,14 @@
     "web_name": "Ritchie",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 110
+    "total_points": 110,
+    "bps": 504,
+    "form": 0,
+    "influence": 712.4,
+    "creativity": 973.8,
+    "threat": 448,
+    "ict_index": 213.6,
+    "selected_by_percent": 1.7
   },
   {
     "id": 252,
@@ -2616,7 +4646,14 @@
     "web_name": "Schär",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 93
+    "total_points": 93,
+    "bps": 403,
+    "form": 0,
+    "influence": 669.4,
+    "creativity": 148.6,
+    "threat": 220,
+    "ict_index": 103.8,
+    "selected_by_percent": 2.1
   },
   {
     "id": 253,
@@ -2625,7 +4662,14 @@
     "web_name": "Yedlin",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 63
+    "total_points": 63,
+    "bps": 325,
+    "form": 0,
+    "influence": 436.4,
+    "creativity": 406.3,
+    "threat": 113,
+    "ict_index": 95.8,
+    "selected_by_percent": 0.1
   },
   {
     "id": 254,
@@ -2634,7 +4678,14 @@
     "web_name": "Fernández",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 47
+    "total_points": 47,
+    "bps": 277,
+    "form": 0,
+    "influence": 350,
+    "creativity": 63.7,
+    "threat": 70,
+    "ict_index": 48.5,
+    "selected_by_percent": 0.2
   },
   {
     "id": 255,
@@ -2643,7 +4694,14 @@
     "web_name": "Dummett",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 67
+    "total_points": 67,
+    "bps": 365,
+    "form": 0,
+    "influence": 424.2,
+    "creativity": 94,
+    "threat": 58,
+    "ict_index": 57.6,
+    "selected_by_percent": 0.3
   },
   {
     "id": 256,
@@ -2652,7 +4710,14 @@
     "web_name": "Manquillo",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 53
+    "total_points": 53,
+    "bps": 231,
+    "form": 0,
+    "influence": 231,
+    "creativity": 127.3,
+    "threat": 28,
+    "ict_index": 38.8,
+    "selected_by_percent": 0.2
   },
   {
     "id": 257,
@@ -2661,7 +4726,14 @@
     "web_name": "Lejeune",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 35
+    "total_points": 35,
+    "bps": 209,
+    "form": 0,
+    "influence": 211.6,
+    "creativity": 82.5,
+    "threat": 59,
+    "ict_index": 35.3,
+    "selected_by_percent": 0
   },
   {
     "id": 258,
@@ -2670,7 +4742,14 @@
     "web_name": "Lascelles",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 95
+    "total_points": 95,
+    "bps": 539,
+    "form": 0,
+    "influence": 632.4,
+    "creativity": 46.8,
+    "threat": 113,
+    "ict_index": 79.6,
+    "selected_by_percent": 8.8
   },
   {
     "id": 259,
@@ -2679,7 +4758,14 @@
     "web_name": "Clark",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 42
+    "total_points": 42,
+    "bps": 194,
+    "form": 0,
+    "influence": 293.2,
+    "creativity": 25,
+    "threat": 105,
+    "ict_index": 42.6,
+    "selected_by_percent": 0.2
   },
   {
     "id": 260,
@@ -2688,7 +4774,14 @@
     "web_name": "Muto",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 24
+    "total_points": 24,
+    "bps": 65,
+    "form": 0,
+    "influence": 71.8,
+    "creativity": 66.8,
+    "threat": 140,
+    "ict_index": 27.4,
+    "selected_by_percent": 0.2
   },
   {
     "id": 261,
@@ -2697,7 +4790,14 @@
     "web_name": "Joselu",
     "element_type": 4,
     "now_cost": 50,
-    "total_points": 30
+    "total_points": 30,
+    "bps": 89,
+    "form": 0,
+    "influence": 121.4,
+    "creativity": 35.9,
+    "threat": 290,
+    "ict_index": 44.6,
+    "selected_by_percent": 0.3
   },
   {
     "id": 262,
@@ -2706,7 +4806,14 @@
     "web_name": "Dubravka",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 131
+    "total_points": 131,
+    "bps": 647,
+    "form": 0,
+    "influence": 783.6,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 78.4,
+    "selected_by_percent": 1.1
   },
   {
     "id": 263,
@@ -2715,7 +4822,14 @@
     "web_name": "Darlow",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 264,
@@ -2724,7 +4838,14 @@
     "web_name": "Woodman",
     "element_type": 1,
     "now_cost": 40,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3.4
   },
   {
     "id": 266,
@@ -2733,7 +4854,14 @@
     "web_name": "Almirón",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 28
+    "total_points": 28,
+    "bps": 107,
+    "form": 0,
+    "influence": 121.4,
+    "creativity": 189.8,
+    "threat": 235,
+    "ict_index": 54.6,
+    "selected_by_percent": 1.1
   },
   {
     "id": 267,
@@ -2742,7 +4870,14 @@
     "web_name": "Atsu",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 55
+    "total_points": 55,
+    "bps": 175,
+    "form": 0,
+    "influence": 218.8,
+    "creativity": 273,
+    "threat": 331,
+    "ict_index": 82.3,
+    "selected_by_percent": 0.2
   },
   {
     "id": 268,
@@ -2751,7 +4886,14 @@
     "web_name": "Ki Sung-yueng",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 38
+    "total_points": 38,
+    "bps": 197,
+    "form": 0,
+    "influence": 163.2,
+    "creativity": 258.4,
+    "threat": 45,
+    "ict_index": 46.7,
+    "selected_by_percent": 0.1
   },
   {
     "id": 269,
@@ -2760,7 +4902,14 @@
     "web_name": "Shelvey",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 39
+    "total_points": 39,
+    "bps": 170,
+    "form": 0,
+    "influence": 226.2,
+    "creativity": 351.7,
+    "threat": 154,
+    "ict_index": 73.2,
+    "selected_by_percent": 0.3
   },
   {
     "id": 270,
@@ -2769,7 +4918,14 @@
     "web_name": "Longstaff",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 26
+    "total_points": 26,
+    "bps": 117,
+    "form": 0,
+    "influence": 130.4,
+    "creativity": 71.8,
+    "threat": 106,
+    "ict_index": 30.9,
+    "selected_by_percent": 0.7
   },
   {
     "id": 271,
@@ -2778,7 +4934,14 @@
     "web_name": "Hayden",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 69
+    "total_points": 69,
+    "bps": 306,
+    "form": 0,
+    "influence": 412,
+    "creativity": 298.8,
+    "threat": 232,
+    "ict_index": 94.4,
+    "selected_by_percent": 7.9
   },
   {
     "id": 466,
@@ -2787,7 +4950,14 @@
     "web_name": "Joelinton",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 2.1
   },
   {
     "id": 482,
@@ -2796,7 +4966,14 @@
     "web_name": "Colback",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 483,
@@ -2805,7 +4982,14 @@
     "web_name": "Murphy",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 16
+    "total_points": 16,
+    "bps": 50,
+    "form": 0,
+    "influence": 53.6,
+    "creativity": 31.1,
+    "threat": 22,
+    "ict_index": 10.7,
+    "selected_by_percent": 0
   },
   {
     "id": 272,
@@ -2814,7 +4998,14 @@
     "web_name": "Klose",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.5
   },
   {
     "id": 273,
@@ -2823,7 +5014,14 @@
     "web_name": "Godfrey",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 274,
@@ -2832,7 +5030,14 @@
     "web_name": "Aarons",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 4.1
   },
   {
     "id": 275,
@@ -2841,7 +5046,14 @@
     "web_name": "Zimmermann",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 276,
@@ -2850,7 +5062,14 @@
     "web_name": "Lewis",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 277,
@@ -2859,7 +5078,14 @@
     "web_name": "Hanley",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 2.8
   },
   {
     "id": 278,
@@ -2868,7 +5094,14 @@
     "web_name": "Pukki",
     "element_type": 4,
     "now_cost": 65,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 4
   },
   {
     "id": 279,
@@ -2877,7 +5110,14 @@
     "web_name": "Srbeny",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 280,
@@ -2886,7 +5126,14 @@
     "web_name": "Krul",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.8
   },
   {
     "id": 281,
@@ -2895,7 +5142,14 @@
     "web_name": "McGovern",
     "element_type": 1,
     "now_cost": 40,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3.8
   },
   {
     "id": 282,
@@ -2904,7 +5158,14 @@
     "web_name": "Vrancic",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 283,
@@ -2913,7 +5174,14 @@
     "web_name": "Buendía",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.7
   },
   {
     "id": 284,
@@ -2922,7 +5190,14 @@
     "web_name": "Hernández",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 285,
@@ -2931,7 +5206,14 @@
     "web_name": "Stiepermann",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 286,
@@ -2940,7 +5222,14 @@
     "web_name": "McLean",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 287,
@@ -2949,7 +5238,14 @@
     "web_name": "Cantwell",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 288,
@@ -2958,7 +5254,14 @@
     "web_name": "Leitner",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 289,
@@ -2967,7 +5270,14 @@
     "web_name": "Tettey",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.6
   },
   {
     "id": 290,
@@ -2976,7 +5286,14 @@
     "web_name": "Trybull",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.8
   },
   {
     "id": 434,
@@ -2985,7 +5302,14 @@
     "web_name": "Drmic",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 435,
@@ -2994,7 +5318,14 @@
     "web_name": "Roberts",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 449,
@@ -3003,7 +5334,14 @@
     "web_name": "Fahrmann",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.8
   },
   {
     "id": 454,
@@ -3012,7 +5350,14 @@
     "web_name": "Byram",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 484,
@@ -3021,7 +5366,14 @@
     "web_name": "Heise",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 70,
@@ -3030,7 +5382,14 @@
     "web_name": "Mousset",
     "element_type": 4,
     "now_cost": 50,
-    "total_points": 28
+    "total_points": 28,
+    "bps": 74,
+    "form": 0,
+    "influence": 74.6,
+    "creativity": 65.1,
+    "threat": 201,
+    "ict_index": 33.8,
+    "selected_by_percent": 0.6
   },
   {
     "id": 291,
@@ -3039,7 +5398,14 @@
     "web_name": "Stevens",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.6
   },
   {
     "id": 292,
@@ -3048,7 +5414,14 @@
     "web_name": "Freeman",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 293,
@@ -3057,7 +5430,14 @@
     "web_name": "O'Connell",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.5
   },
   {
     "id": 294,
@@ -3066,7 +5446,14 @@
     "web_name": "Baldock",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 295,
@@ -3075,7 +5462,14 @@
     "web_name": "Egan",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 296,
@@ -3084,7 +5478,14 @@
     "web_name": "Stearman",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3.3
   },
   {
     "id": 297,
@@ -3093,7 +5494,14 @@
     "web_name": "Lundstram",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 4.6
   },
   {
     "id": 298,
@@ -3102,7 +5510,14 @@
     "web_name": "Sharp",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.5
   },
   {
     "id": 299,
@@ -3111,7 +5526,14 @@
     "web_name": "Eastwood",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.6
   },
   {
     "id": 300,
@@ -3120,7 +5542,14 @@
     "web_name": "Duffy",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 301,
@@ -3129,7 +5558,14 @@
     "web_name": "Fleck",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 302,
@@ -3138,7 +5574,14 @@
     "web_name": "Norwood",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.6
   },
   {
     "id": 303,
@@ -3147,7 +5590,14 @@
     "web_name": "McGoldrick",
     "element_type": 4,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 423,
@@ -3156,7 +5606,14 @@
     "web_name": "Basham",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 436,
@@ -3165,7 +5622,14 @@
     "web_name": "Moore",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 441,
@@ -3174,7 +5638,14 @@
     "web_name": "Freeman",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 444,
@@ -3183,7 +5654,14 @@
     "web_name": "Jagielka",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 22
+    "total_points": 22,
+    "bps": 80,
+    "form": 0,
+    "influence": 82.2,
+    "creativity": 21.4,
+    "threat": 43,
+    "ict_index": 14.6,
+    "selected_by_percent": 1
   },
   {
     "id": 453,
@@ -3192,7 +5670,14 @@
     "web_name": "Robinson",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 456,
@@ -3201,7 +5686,14 @@
     "web_name": "Morrison",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 471,
@@ -3210,7 +5702,14 @@
     "web_name": "Henderson",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.1
   },
   {
     "id": 472,
@@ -3219,7 +5718,14 @@
     "web_name": "Osborn",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0
   },
   {
     "id": 304,
@@ -3228,7 +5734,14 @@
     "web_name": "Vestergaard",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 50
+    "total_points": 50,
+    "bps": 396,
+    "form": 0,
+    "influence": 576.6,
+    "creativity": 76.6,
+    "threat": 104,
+    "ict_index": 75.9,
+    "selected_by_percent": 0.2
   },
   {
     "id": 305,
@@ -3237,7 +5750,14 @@
     "web_name": "Bertrand",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 56
+    "total_points": 56,
+    "bps": 291,
+    "form": 0,
+    "influence": 326.8,
+    "creativity": 379.4,
+    "threat": 123,
+    "ict_index": 82.6,
+    "selected_by_percent": 1.1
   },
   {
     "id": 306,
@@ -3246,7 +5766,14 @@
     "web_name": "Valery",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 54
+    "total_points": 54,
+    "bps": 251,
+    "form": 0,
+    "influence": 329.4,
+    "creativity": 124.7,
+    "threat": 157,
+    "ict_index": 60.7,
+    "selected_by_percent": 0.6
   },
   {
     "id": 307,
@@ -3255,7 +5782,14 @@
     "web_name": "Bednarek",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 49
+    "total_points": 49,
+    "bps": 365,
+    "form": 0,
+    "influence": 616,
+    "creativity": 108.8,
+    "threat": 91,
+    "ict_index": 81.9,
+    "selected_by_percent": 1.1
   },
   {
     "id": 308,
@@ -3264,7 +5798,14 @@
     "web_name": "Stephens",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 47
+    "total_points": 47,
+    "bps": 282,
+    "form": 0,
+    "influence": 394.4,
+    "creativity": 65.5,
+    "threat": 143,
+    "ict_index": 60.4,
+    "selected_by_percent": 0.2
   },
   {
     "id": 310,
@@ -3273,7 +5814,14 @@
     "web_name": "Yoshida",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 44
+    "total_points": 44,
+    "bps": 278,
+    "form": 0,
+    "influence": 387,
+    "creativity": 57.4,
+    "threat": 189,
+    "ict_index": 63.4,
+    "selected_by_percent": 0.4
   },
   {
     "id": 311,
@@ -3282,7 +5830,14 @@
     "web_name": "Ramsay",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 9,
+    "form": 0,
+    "influence": 11.2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 1.1,
+    "selected_by_percent": 1.3
   },
   {
     "id": 312,
@@ -3291,7 +5846,14 @@
     "web_name": "Austin",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 46
+    "total_points": 46,
+    "bps": 117,
+    "form": 0,
+    "influence": 158.4,
+    "creativity": 115.3,
+    "threat": 405,
+    "ict_index": 67.4,
+    "selected_by_percent": 0.4
   },
   {
     "id": 313,
@@ -3300,7 +5862,14 @@
     "web_name": "Ings",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 90
+    "total_points": 90,
+    "bps": 310,
+    "form": 0,
+    "influence": 433.8,
+    "creativity": 346.9,
+    "threat": 808,
+    "ict_index": 158.4,
+    "selected_by_percent": 2.4
   },
   {
     "id": 314,
@@ -3309,7 +5878,14 @@
     "web_name": "Obafemi",
     "element_type": 4,
     "now_cost": 50,
-    "total_points": 13
+    "total_points": 13,
+    "bps": 46,
+    "form": 0,
+    "influence": 62.6,
+    "creativity": 27.4,
+    "threat": 127,
+    "ict_index": 21.6,
+    "selected_by_percent": 0.3
   },
   {
     "id": 315,
@@ -3318,7 +5894,14 @@
     "web_name": "Long",
     "element_type": 4,
     "now_cost": 50,
-    "total_points": 66
+    "total_points": 66,
+    "bps": 191,
+    "form": 0,
+    "influence": 248.6,
+    "creativity": 179.2,
+    "threat": 417,
+    "ict_index": 84.2,
+    "selected_by_percent": 6.2
   },
   {
     "id": 316,
@@ -3327,7 +5910,14 @@
     "web_name": "Gallagher",
     "element_type": 4,
     "now_cost": 45,
-    "total_points": 4
+    "total_points": 4,
+    "bps": 6,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0.3,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 317,
@@ -3336,7 +5926,14 @@
     "web_name": "Forster",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 2
+    "total_points": 2,
+    "bps": 13,
+    "form": 0,
+    "influence": 22.2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 2.2,
+    "selected_by_percent": 1
   },
   {
     "id": 318,
@@ -3345,7 +5942,14 @@
     "web_name": "McCarthy",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 73
+    "total_points": 73,
+    "bps": 414,
+    "form": 0,
+    "influence": 585.2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 58.6,
+    "selected_by_percent": 1.2
   },
   {
     "id": 319,
@@ -3354,7 +5958,14 @@
     "web_name": "Gunn",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 47
+    "total_points": 47,
+    "bps": 206,
+    "form": 0,
+    "influence": 239.2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 23.8,
+    "selected_by_percent": 1.4
   },
   {
     "id": 320,
@@ -3363,7 +5974,14 @@
     "web_name": "Redmond",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 137
+    "total_points": 137,
+    "bps": 433,
+    "form": 0,
+    "influence": 665.4,
+    "creativity": 802.3,
+    "threat": 950,
+    "ict_index": 241.4,
+    "selected_by_percent": 2.5
   },
   {
     "id": 321,
@@ -3372,7 +5990,14 @@
     "web_name": "Ward-Prowse",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 94
+    "total_points": 94,
+    "bps": 390,
+    "form": 0,
+    "influence": 592,
+    "creativity": 695.8,
+    "threat": 387,
+    "ict_index": 167.4,
+    "selected_by_percent": 1.3
   },
   {
     "id": 322,
@@ -3381,7 +6006,14 @@
     "web_name": "Elyounoussi",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 28
+    "total_points": 28,
+    "bps": 91,
+    "form": 0,
+    "influence": 94.2,
+    "creativity": 228.3,
+    "threat": 220,
+    "ict_index": 54.2,
+    "selected_by_percent": 0.1
   },
   {
     "id": 323,
@@ -3390,7 +6022,14 @@
     "web_name": "Armstrong",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 75
+    "total_points": 75,
+    "bps": 269,
+    "form": 0,
+    "influence": 305.6,
+    "creativity": 392.4,
+    "threat": 379,
+    "ict_index": 107.5,
+    "selected_by_percent": 0.2
   },
   {
     "id": 324,
@@ -3399,7 +6038,14 @@
     "web_name": "Lemina",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 50
+    "total_points": 50,
+    "bps": 270,
+    "form": 0,
+    "influence": 313,
+    "creativity": 214.7,
+    "threat": 188,
+    "ict_index": 71.6,
+    "selected_by_percent": 0.2
   },
   {
     "id": 325,
@@ -3408,7 +6054,14 @@
     "web_name": "Højbjerg",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 90
+    "total_points": 90,
+    "bps": 477,
+    "form": 0,
+    "influence": 616,
+    "creativity": 445.6,
+    "threat": 421,
+    "ict_index": 148.8,
+    "selected_by_percent": 1.1
   },
   {
     "id": 326,
@@ -3417,7 +6070,14 @@
     "web_name": "Johnson",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 327,
@@ -3426,7 +6086,14 @@
     "web_name": "Slattery",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 4
+    "total_points": 4,
+    "bps": 12,
+    "form": 0,
+    "influence": 15.8,
+    "creativity": 2.6,
+    "threat": 24,
+    "ict_index": 4.2,
+    "selected_by_percent": 0.1
   },
   {
     "id": 328,
@@ -3435,7 +6102,14 @@
     "web_name": "Oriol Romeu",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 55
+    "total_points": 55,
+    "bps": 282,
+    "form": 0,
+    "influence": 455.2,
+    "creativity": 158.4,
+    "threat": 124,
+    "ict_index": 74,
+    "selected_by_percent": 1.2
   },
   {
     "id": 437,
@@ -3444,7 +6118,14 @@
     "web_name": "Adams",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.5
   },
   {
     "id": 438,
@@ -3453,7 +6134,14 @@
     "web_name": "Djenepo",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 485,
@@ -3462,7 +6150,14 @@
     "web_name": "Hoedt",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 29
+    "total_points": 29,
+    "bps": 206,
+    "form": 0,
+    "influence": 283.6,
+    "creativity": 20,
+    "threat": 41,
+    "ict_index": 34.7,
+    "selected_by_percent": 0
   },
   {
     "id": 486,
@@ -3471,7 +6166,14 @@
     "web_name": "Cédric",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 52
+    "total_points": 52,
+    "bps": 273,
+    "form": 0,
+    "influence": 309,
+    "creativity": 226.5,
+    "threat": 103,
+    "ict_index": 63.9,
+    "selected_by_percent": 0.1
   },
   {
     "id": 329,
@@ -3480,7 +6182,14 @@
     "web_name": "Davies",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 66
+    "total_points": 66,
+    "bps": 361,
+    "form": 0,
+    "influence": 388.2,
+    "creativity": 256.6,
+    "threat": 176,
+    "ict_index": 82.3,
+    "selected_by_percent": 0.7
   },
   {
     "id": 330,
@@ -3489,7 +6198,14 @@
     "web_name": "Vertonghen",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 67
+    "total_points": 67,
+    "bps": 390,
+    "form": 0,
+    "influence": 445.4,
+    "creativity": 116.7,
+    "threat": 165,
+    "ict_index": 72.7,
+    "selected_by_percent": 3
   },
   {
     "id": 331,
@@ -3498,7 +6214,14 @@
     "web_name": "Alderweireld",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 107
+    "total_points": 107,
+    "bps": 651,
+    "form": 0,
+    "influence": 690.2,
+    "creativity": 139.1,
+    "threat": 229,
+    "ict_index": 105.7,
+    "selected_by_percent": 6.4
   },
   {
     "id": 332,
@@ -3507,7 +6230,14 @@
     "web_name": "Rose",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 86
+    "total_points": 86,
+    "bps": 352,
+    "form": 0,
+    "influence": 343.6,
+    "creativity": 416.6,
+    "threat": 216,
+    "ict_index": 97.6,
+    "selected_by_percent": 1.9
   },
   {
     "id": 333,
@@ -3516,7 +6246,14 @@
     "web_name": "Sánchez",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 78
+    "total_points": 78,
+    "bps": 412,
+    "form": 0,
+    "influence": 454.2,
+    "creativity": 60.3,
+    "threat": 183,
+    "ict_index": 70,
+    "selected_by_percent": 1.1
   },
   {
     "id": 334,
@@ -3525,7 +6262,14 @@
     "web_name": "Trippier",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 118
+    "total_points": 118,
+    "bps": 573,
+    "form": 0,
+    "influence": 601.6,
+    "creativity": 827,
+    "threat": 121,
+    "ict_index": 155,
+    "selected_by_percent": 1.4
   },
   {
     "id": 335,
@@ -3534,7 +6278,14 @@
     "web_name": "Foyth",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 35
+    "total_points": 35,
+    "bps": 172,
+    "form": 0,
+    "influence": 248.6,
+    "creativity": 59.8,
+    "threat": 53,
+    "ict_index": 36.3,
+    "selected_by_percent": 0.1
   },
   {
     "id": 336,
@@ -3543,7 +6294,14 @@
     "web_name": "Aurier",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 24
+    "total_points": 24,
+    "bps": 116,
+    "form": 0,
+    "influence": 151.6,
+    "creativity": 108.4,
+    "threat": 45,
+    "ict_index": 30.5,
+    "selected_by_percent": 1.1
   },
   {
     "id": 337,
@@ -3552,7 +6310,14 @@
     "web_name": "Walker-Peters",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 28
+    "total_points": 28,
+    "bps": 112,
+    "form": 0,
+    "influence": 107.4,
+    "creativity": 104.9,
+    "threat": 20,
+    "ict_index": 23.1,
+    "selected_by_percent": 1.6
   },
   {
     "id": 338,
@@ -3561,7 +6326,14 @@
     "web_name": "Kane",
     "element_type": 4,
     "now_cost": 110,
-    "total_points": 160
+    "total_points": 160,
+    "bps": 561,
+    "form": 0,
+    "influence": 824.6,
+    "creativity": 430,
+    "threat": 1359,
+    "ict_index": 261.3,
+    "selected_by_percent": 27.3
   },
   {
     "id": 339,
@@ -3570,7 +6342,14 @@
     "web_name": "Janssen",
     "element_type": 4,
     "now_cost": 45,
-    "total_points": 3
+    "total_points": 3,
+    "bps": 4,
+    "form": 0,
+    "influence": 6.2,
+    "creativity": 1.6,
+    "threat": 57,
+    "ict_index": 6.5,
+    "selected_by_percent": 0.7
   },
   {
     "id": 340,
@@ -3579,7 +6358,14 @@
     "web_name": "Lloris",
     "element_type": 1,
     "now_cost": 55,
-    "total_points": 145
+    "total_points": 145,
+    "bps": 691,
+    "form": 0,
+    "influence": 858.2,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 86,
+    "selected_by_percent": 9.1
   },
   {
     "id": 341,
@@ -3588,7 +6374,14 @@
     "web_name": "Gazzaniga",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 13
+    "total_points": 13,
+    "bps": 64,
+    "form": 0,
+    "influence": 82.8,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 8.2,
+    "selected_by_percent": 0.3
   },
   {
     "id": 342,
@@ -3597,7 +6390,14 @@
     "web_name": "Son",
     "element_type": 3,
     "now_cost": 95,
-    "total_points": 159
+    "total_points": 159,
+    "bps": 489,
+    "form": 0,
+    "influence": 690.6,
+    "creativity": 508,
+    "threat": 1002,
+    "ict_index": 219.9,
+    "selected_by_percent": 1.5
   },
   {
     "id": 343,
@@ -3606,7 +6406,14 @@
     "web_name": "Eriksen",
     "element_type": 3,
     "now_cost": 90,
-    "total_points": 161
+    "total_points": 161,
+    "bps": 675,
+    "form": 0,
+    "influence": 876,
+    "creativity": 1148.7,
+    "threat": 801,
+    "ict_index": 283,
+    "selected_by_percent": 6
   },
   {
     "id": 344,
@@ -3615,7 +6422,14 @@
     "web_name": "Alli",
     "element_type": 3,
     "now_cost": 85,
-    "total_points": 94
+    "total_points": 94,
+    "bps": 356,
+    "form": 0,
+    "influence": 467.2,
+    "creativity": 436.6,
+    "threat": 681,
+    "ict_index": 158.5,
+    "selected_by_percent": 2.4
   },
   {
     "id": 345,
@@ -3624,7 +6438,14 @@
     "web_name": "Lucas Moura",
     "element_type": 3,
     "now_cost": 75,
-    "total_points": 131
+    "total_points": 131,
+    "bps": 340,
+    "form": 0,
+    "influence": 556.4,
+    "creativity": 415.6,
+    "threat": 650,
+    "ict_index": 161.9,
+    "selected_by_percent": 8.3
   },
   {
     "id": 346,
@@ -3633,7 +6454,14 @@
     "web_name": "Lamela",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 67
+    "total_points": 67,
+    "bps": 231,
+    "form": 0,
+    "influence": 263.8,
+    "creativity": 339.9,
+    "threat": 441,
+    "ict_index": 104.1,
+    "selected_by_percent": 0.4
   },
   {
     "id": 347,
@@ -3642,7 +6470,14 @@
     "web_name": "Winks",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 53
+    "total_points": 53,
+    "bps": 275,
+    "form": 0,
+    "influence": 268.2,
+    "creativity": 168.6,
+    "threat": 71,
+    "ict_index": 50.7,
+    "selected_by_percent": 0.4
   },
   {
     "id": 348,
@@ -3651,7 +6486,14 @@
     "web_name": "Wanyama",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 24
+    "total_points": 24,
+    "bps": 105,
+    "form": 0,
+    "influence": 113.2,
+    "creativity": 45,
+    "threat": 80,
+    "ict_index": 23.9,
+    "selected_by_percent": 0.2
   },
   {
     "id": 349,
@@ -3660,7 +6502,14 @@
     "web_name": "Sissoko",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 76
+    "total_points": 76,
+    "bps": 395,
+    "form": 0,
+    "influence": 329,
+    "creativity": 380.7,
+    "threat": 193,
+    "ict_index": 90.2,
+    "selected_by_percent": 1.3
   },
   {
     "id": 350,
@@ -3669,7 +6518,14 @@
     "web_name": "Dier",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 56
+    "total_points": 56,
+    "bps": 269,
+    "form": 0,
+    "influence": 363.4,
+    "creativity": 150.1,
+    "threat": 121,
+    "ict_index": 63.6,
+    "selected_by_percent": 0.4
   },
   {
     "id": 351,
@@ -3678,7 +6534,14 @@
     "web_name": "Amos",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 2.2,
+    "creativity": 0.1,
+    "threat": 0,
+    "ict_index": 0.2,
+    "selected_by_percent": 0
   },
   {
     "id": 352,
@@ -3687,7 +6550,14 @@
     "web_name": "Skipp",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 12
+    "total_points": 12,
+    "bps": 40,
+    "form": 0,
+    "influence": 35.2,
+    "creativity": 20.5,
+    "threat": 12,
+    "ict_index": 7,
+    "selected_by_percent": 0.3
   },
   {
     "id": 442,
@@ -3696,7 +6566,14 @@
     "web_name": "Ndombele",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 4.1
   },
   {
     "id": 353,
@@ -3705,7 +6582,14 @@
     "web_name": "Holebas",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 93
+    "total_points": 93,
+    "bps": 437,
+    "form": 0,
+    "influence": 642.4,
+    "creativity": 598.2,
+    "threat": 164,
+    "ict_index": 140.6,
+    "selected_by_percent": 5
   },
   {
     "id": 354,
@@ -3714,7 +6598,14 @@
     "web_name": "Kabasele",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 36
+    "total_points": 36,
+    "bps": 212,
+    "form": 0,
+    "influence": 355.2,
+    "creativity": 24,
+    "threat": 189,
+    "ict_index": 56.7,
+    "selected_by_percent": 0.3
   },
   {
     "id": 355,
@@ -3723,7 +6614,14 @@
     "web_name": "Masina",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 26
+    "total_points": 26,
+    "bps": 165,
+    "form": 0,
+    "influence": 201,
+    "creativity": 70.8,
+    "threat": 27,
+    "ict_index": 30.1,
+    "selected_by_percent": 0.1
   },
   {
     "id": 356,
@@ -3732,7 +6630,14 @@
     "web_name": "Mariappa",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 57
+    "total_points": 57,
+    "bps": 334,
+    "form": 0,
+    "influence": 404.6,
+    "creativity": 61.9,
+    "threat": 79,
+    "ict_index": 54.5,
+    "selected_by_percent": 0.3
   },
   {
     "id": 357,
@@ -3741,7 +6646,14 @@
     "web_name": "Kiko Femenía",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 66
+    "total_points": 66,
+    "bps": 412,
+    "form": 0,
+    "influence": 420.2,
+    "creativity": 252.9,
+    "threat": 87,
+    "ict_index": 76,
+    "selected_by_percent": 1
   },
   {
     "id": 358,
@@ -3750,7 +6662,14 @@
     "web_name": "Cathcart",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 93
+    "total_points": 93,
+    "bps": 552,
+    "form": 0,
+    "influence": 719.6,
+    "creativity": 25.5,
+    "threat": 262,
+    "ict_index": 100.8,
+    "selected_by_percent": 5.1
   },
   {
     "id": 359,
@@ -3759,7 +6678,14 @@
     "web_name": "Janmaat",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 50
+    "total_points": 50,
+    "bps": 274,
+    "form": 0,
+    "influence": 346.2,
+    "creativity": 212.2,
+    "threat": 118,
+    "ict_index": 67.8,
+    "selected_by_percent": 0.7
   },
   {
     "id": 360,
@@ -3768,7 +6694,14 @@
     "web_name": "Navarro",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 2
+    "total_points": 2,
+    "bps": 12,
+    "form": 0,
+    "influence": 16,
+    "creativity": 5.3,
+    "threat": 2,
+    "ict_index": 2.3,
+    "selected_by_percent": 0.6
   },
   {
     "id": 361,
@@ -3777,7 +6710,14 @@
     "web_name": "Prödl",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 2,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.8
   },
   {
     "id": 362,
@@ -3786,7 +6726,14 @@
     "web_name": "Deeney",
     "element_type": 4,
     "now_cost": 65,
-    "total_points": 116
+    "total_points": 116,
+    "bps": 411,
+    "form": 0,
+    "influence": 607.4,
+    "creativity": 549.5,
+    "threat": 1019,
+    "ict_index": 216.9,
+    "selected_by_percent": 2.7
   },
   {
     "id": 363,
@@ -3795,7 +6742,14 @@
     "web_name": "Deulofeu",
     "element_type": 4,
     "now_cost": 65,
-    "total_points": 133
+    "total_points": 133,
+    "bps": 344,
+    "form": 0,
+    "influence": 549.2,
+    "creativity": 455.6,
+    "threat": 856,
+    "ict_index": 185.6,
+    "selected_by_percent": 11.5
   },
   {
     "id": 364,
@@ -3804,7 +6758,14 @@
     "web_name": "Gray",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 83
+    "total_points": 83,
+    "bps": 254,
+    "form": 0,
+    "influence": 331.8,
+    "creativity": 183.9,
+    "threat": 620,
+    "ict_index": 112.8,
+    "selected_by_percent": 0.7
   },
   {
     "id": 365,
@@ -3813,7 +6774,14 @@
     "web_name": "Success",
     "element_type": 4,
     "now_cost": 50,
-    "total_points": 42
+    "total_points": 42,
+    "bps": 125,
+    "form": 0,
+    "influence": 148.6,
+    "creativity": 274.5,
+    "threat": 394,
+    "ict_index": 81.4,
+    "selected_by_percent": 1
   },
   {
     "id": 366,
@@ -3822,7 +6790,14 @@
     "web_name": "Foster",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 129
+    "total_points": 129,
+    "bps": 703,
+    "form": 0,
+    "influence": 988,
+    "creativity": 50,
+    "threat": 1,
+    "ict_index": 104.1,
+    "selected_by_percent": 3.1
   },
   {
     "id": 367,
@@ -3831,7 +6806,14 @@
     "web_name": "Dahlberg",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.2
   },
   {
     "id": 368,
@@ -3840,7 +6822,14 @@
     "web_name": "Doucouré",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 124
+    "total_points": 124,
+    "bps": 550,
+    "form": 0,
+    "influence": 735.6,
+    "creativity": 544.1,
+    "threat": 709,
+    "ict_index": 198.9,
+    "selected_by_percent": 3.4
   },
   {
     "id": 369,
@@ -3849,7 +6838,14 @@
     "web_name": "Pereyra",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 122
+    "total_points": 122,
+    "bps": 432,
+    "form": 0,
+    "influence": 458.4,
+    "creativity": 512.7,
+    "threat": 744,
+    "ict_index": 171.8,
+    "selected_by_percent": 4.7
   },
   {
     "id": 370,
@@ -3858,7 +6854,14 @@
     "web_name": "Hughes",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 87
+    "total_points": 87,
+    "bps": 320,
+    "form": 0,
+    "influence": 429.2,
+    "creativity": 416,
+    "threat": 451,
+    "ict_index": 129.6,
+    "selected_by_percent": 0.3
   },
   {
     "id": 371,
@@ -3867,7 +6870,14 @@
     "web_name": "Cleverley",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 25
+    "total_points": 25,
+    "bps": 87,
+    "form": 0,
+    "influence": 97.4,
+    "creativity": 33.4,
+    "threat": 40,
+    "ict_index": 17.2,
+    "selected_by_percent": 0.1
   },
   {
     "id": 372,
@@ -3876,7 +6886,14 @@
     "web_name": "Sema",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 37
+    "total_points": 37,
+    "bps": 91,
+    "form": 0,
+    "influence": 128.6,
+    "creativity": 112.7,
+    "threat": 169,
+    "ict_index": 40.8,
+    "selected_by_percent": 0.1
   },
   {
     "id": 373,
@@ -3885,7 +6902,14 @@
     "web_name": "Capoue",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 79
+    "total_points": 79,
+    "bps": 496,
+    "form": 0,
+    "influence": 656.6,
+    "creativity": 219.2,
+    "threat": 152,
+    "ict_index": 102.8,
+    "selected_by_percent": 1
   },
   {
     "id": 374,
@@ -3894,7 +6918,14 @@
     "web_name": "Chalobah",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 10
+    "total_points": 10,
+    "bps": 42,
+    "form": 0,
+    "influence": 35.6,
+    "creativity": 20.2,
+    "threat": 31,
+    "ict_index": 8.8,
+    "selected_by_percent": 0.5
   },
   {
     "id": 375,
@@ -3903,7 +6934,14 @@
     "web_name": "Quina",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 17
+    "total_points": 17,
+    "bps": 68,
+    "form": 0,
+    "influence": 69,
+    "creativity": 40.2,
+    "threat": 22,
+    "ict_index": 13.1,
+    "selected_by_percent": 0.1
   },
   {
     "id": 439,
@@ -3912,7 +6950,14 @@
     "web_name": "Dawson",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.4
   },
   {
     "id": 376,
@@ -3921,7 +6966,14 @@
     "web_name": "Cresswell",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 34
+    "total_points": 34,
+    "bps": 257,
+    "form": 0,
+    "influence": 318.2,
+    "creativity": 290.9,
+    "threat": 113,
+    "ict_index": 72.3,
+    "selected_by_percent": 0.4
   },
   {
     "id": 377,
@@ -3930,7 +6982,14 @@
     "web_name": "Ogbonna",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 48
+    "total_points": 48,
+    "bps": 314,
+    "form": 0,
+    "influence": 462.4,
+    "creativity": 54.2,
+    "threat": 168,
+    "ict_index": 68.5,
+    "selected_by_percent": 0.4
   },
   {
     "id": 378,
@@ -3939,7 +6998,14 @@
     "web_name": "Masuaku",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 49
+    "total_points": 49,
+    "bps": 311,
+    "form": 0,
+    "influence": 434.4,
+    "creativity": 212,
+    "threat": 55,
+    "ict_index": 70.3,
+    "selected_by_percent": 0.5
   },
   {
     "id": 379,
@@ -3948,7 +7014,14 @@
     "web_name": "Zabaleta",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 56
+    "total_points": 56,
+    "bps": 350,
+    "form": 0,
+    "influence": 447.4,
+    "creativity": 163.2,
+    "threat": 106,
+    "ict_index": 71.8,
+    "selected_by_percent": 0.7
   },
   {
     "id": 380,
@@ -3957,7 +7030,14 @@
     "web_name": "Fredericks",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 38
+    "total_points": 38,
+    "bps": 169,
+    "form": 0,
+    "influence": 254.8,
+    "creativity": 77.2,
+    "threat": 85,
+    "ict_index": 42,
+    "selected_by_percent": 0.5
   },
   {
     "id": 381,
@@ -3966,7 +7046,14 @@
     "web_name": "Diop",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 87
+    "total_points": 87,
+    "bps": 561,
+    "form": 0,
+    "influence": 733,
+    "creativity": 52.3,
+    "threat": 162,
+    "ict_index": 94.8,
+    "selected_by_percent": 5.4
   },
   {
     "id": 382,
@@ -3975,7 +7062,14 @@
     "web_name": "Balbuena",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 61
+    "total_points": 61,
+    "bps": 375,
+    "form": 0,
+    "influence": 534.6,
+    "creativity": 40.9,
+    "threat": 201,
+    "ict_index": 77.8,
+    "selected_by_percent": 0.7
   },
   {
     "id": 383,
@@ -3984,7 +7078,14 @@
     "web_name": "Reid",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 5.4
   },
   {
     "id": 384,
@@ -3993,7 +7094,14 @@
     "web_name": "Johnson",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 2
+    "total_points": 2,
+    "bps": 6,
+    "form": 0,
+    "influence": 7.8,
+    "creativity": 0.4,
+    "threat": 0,
+    "ict_index": 0.8,
+    "selected_by_percent": 1.4
   },
   {
     "id": 385,
@@ -4002,7 +7110,14 @@
     "web_name": "Arnautovic",
     "element_type": 4,
     "now_cost": 70,
-    "total_points": 117
+    "total_points": 117,
+    "bps": 405,
+    "form": 0,
+    "influence": 551.6,
+    "creativity": 500.6,
+    "threat": 946,
+    "ict_index": 199.2,
+    "selected_by_percent": 0.7
   },
   {
     "id": 386,
@@ -4011,7 +7126,14 @@
     "web_name": "Chicharito",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 86
+    "total_points": 86,
+    "bps": 276,
+    "form": 0,
+    "influence": 301,
+    "creativity": 112,
+    "threat": 528,
+    "ict_index": 93.4,
+    "selected_by_percent": 1
   },
   {
     "id": 387,
@@ -4020,7 +7142,14 @@
     "web_name": "Xande Silva",
     "element_type": 4,
     "now_cost": 45,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 2,
+    "creativity": 10.3,
+    "threat": 36,
+    "ict_index": 4.8,
+    "selected_by_percent": 1.9
   },
   {
     "id": 388,
@@ -4029,7 +7158,14 @@
     "web_name": "Fabianski",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 143
+    "total_points": 143,
+    "bps": 742,
+    "form": 0,
+    "influence": 1136,
+    "creativity": 20,
+    "threat": 0,
+    "ict_index": 115.5,
+    "selected_by_percent": 8.8
   },
   {
     "id": 389,
@@ -4038,7 +7174,14 @@
     "web_name": "Antonio",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 118
+    "total_points": 118,
+    "bps": 305,
+    "form": 0,
+    "influence": 482,
+    "creativity": 346.2,
+    "threat": 852,
+    "ict_index": 167,
+    "selected_by_percent": 3.1
   },
   {
     "id": 390,
@@ -4047,7 +7190,14 @@
     "web_name": "Felipe Anderson",
     "element_type": 3,
     "now_cost": 70,
-    "total_points": 155
+    "total_points": 155,
+    "bps": 619,
+    "form": 0,
+    "influence": 882.2,
+    "creativity": 1042.4,
+    "threat": 799,
+    "ict_index": 272.2,
+    "selected_by_percent": 12.1
   },
   {
     "id": 391,
@@ -4056,7 +7206,14 @@
     "web_name": "Lanzini",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 31
+    "total_points": 31,
+    "bps": 148,
+    "form": 0,
+    "influence": 141,
+    "creativity": 118.2,
+    "threat": 165,
+    "ict_index": 42.4,
+    "selected_by_percent": 0.9
   },
   {
     "id": 392,
@@ -4065,7 +7222,14 @@
     "web_name": "Yarmolenko",
     "element_type": 3,
     "now_cost": 60,
-    "total_points": 27
+    "total_points": 27,
+    "bps": 88,
+    "form": 0,
+    "influence": 86,
+    "creativity": 84.6,
+    "threat": 122,
+    "ict_index": 29.1,
+    "selected_by_percent": 0.3
   },
   {
     "id": 393,
@@ -4074,7 +7238,14 @@
     "web_name": "Snodgrass",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 85
+    "total_points": 85,
+    "bps": 364,
+    "form": 0,
+    "influence": 460.8,
+    "creativity": 976,
+    "threat": 380,
+    "ict_index": 181.5,
+    "selected_by_percent": 0.4
   },
   {
     "id": 394,
@@ -4083,7 +7254,14 @@
     "web_name": "Wilshere",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 17
+    "total_points": 17,
+    "bps": 90,
+    "form": 0,
+    "influence": 72,
+    "creativity": 74,
+    "threat": 17,
+    "ict_index": 16.3,
+    "selected_by_percent": 0.5
   },
   {
     "id": 395,
@@ -4092,7 +7270,14 @@
     "web_name": "Rice",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 92
+    "total_points": 92,
+    "bps": 586,
+    "form": 0,
+    "influence": 584.4,
+    "creativity": 174.2,
+    "threat": 213,
+    "ict_index": 97.1,
+    "selected_by_percent": 2.9
   },
   {
     "id": 396,
@@ -4101,7 +7286,14 @@
     "web_name": "Noble",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 99
+    "total_points": 99,
+    "bps": 454,
+    "form": 0,
+    "influence": 521.4,
+    "creativity": 359.8,
+    "threat": 196,
+    "ict_index": 107.6,
+    "selected_by_percent": 2
   },
   {
     "id": 397,
@@ -4110,7 +7302,14 @@
     "web_name": "Carlos Sánchez",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 9
+    "total_points": 9,
+    "bps": 44,
+    "form": 0,
+    "influence": 24.6,
+    "creativity": 28.8,
+    "threat": 24,
+    "ict_index": 7.8,
+    "selected_by_percent": 0.3
   },
   {
     "id": 398,
@@ -4119,7 +7318,14 @@
     "web_name": "Diangana",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 25
+    "total_points": 25,
+    "bps": 86,
+    "form": 0,
+    "influence": 115,
+    "creativity": 174.5,
+    "threat": 175,
+    "ict_index": 46.2,
+    "selected_by_percent": 0.2
   },
   {
     "id": 399,
@@ -4128,7 +7334,14 @@
     "web_name": "Fornals",
     "element_type": 3,
     "now_cost": 65,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.4
   },
   {
     "id": 400,
@@ -4137,7 +7350,14 @@
     "web_name": "Obiang",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 43
+    "total_points": 43,
+    "bps": 188,
+    "form": 0,
+    "influence": 219.2,
+    "creativity": 105.9,
+    "threat": 112,
+    "ict_index": 43.6,
+    "selected_by_percent": 0.3
   },
   {
     "id": 450,
@@ -4146,7 +7366,14 @@
     "web_name": "Roberto",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 457,
@@ -4155,7 +7382,14 @@
     "web_name": "Haller",
     "element_type": 4,
     "now_cost": 75,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 4.7
   },
   {
     "id": 401,
@@ -4164,7 +7398,14 @@
     "web_name": "Doherty",
     "element_type": 2,
     "now_cost": 60,
-    "total_points": 144
+    "total_points": 144,
+    "bps": 596,
+    "form": 0,
+    "influence": 758.8,
+    "creativity": 547.4,
+    "threat": 711,
+    "ict_index": 201.6,
+    "selected_by_percent": 4.6
   },
   {
     "id": 402,
@@ -4173,7 +7414,14 @@
     "web_name": "Jonny",
     "element_type": 2,
     "now_cost": 55,
-    "total_points": 103
+    "total_points": 103,
+    "bps": 488,
+    "form": 0,
+    "influence": 523.4,
+    "creativity": 447.3,
+    "threat": 361,
+    "ict_index": 133.3,
+    "selected_by_percent": 1.5
   },
   {
     "id": 403,
@@ -4182,7 +7430,14 @@
     "web_name": "Coady",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 94
+    "total_points": 94,
+    "bps": 585,
+    "form": 0,
+    "influence": 593.2,
+    "creativity": 26.2,
+    "threat": 0,
+    "ict_index": 61.8,
+    "selected_by_percent": 1.7
   },
   {
     "id": 404,
@@ -4191,7 +7446,14 @@
     "web_name": "Bennett",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 89
+    "total_points": 89,
+    "bps": 467,
+    "form": 0,
+    "influence": 566.4,
+    "creativity": 129.7,
+    "threat": 172,
+    "ict_index": 86.9,
+    "selected_by_percent": 0.8
   },
   {
     "id": 405,
@@ -4200,7 +7462,14 @@
     "web_name": "Boly",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 120
+    "total_points": 120,
+    "bps": 635,
+    "form": 0,
+    "influence": 954.2,
+    "creativity": 146.9,
+    "threat": 279,
+    "ict_index": 137.7,
+    "selected_by_percent": 7.5
   },
   {
     "id": 406,
@@ -4209,7 +7478,14 @@
     "web_name": "Vinagre",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 24
+    "total_points": 24,
+    "bps": 118,
+    "form": 0,
+    "influence": 117,
+    "creativity": 113.7,
+    "threat": 69,
+    "ict_index": 30,
+    "selected_by_percent": 0.4
   },
   {
     "id": 407,
@@ -4218,7 +7494,14 @@
     "web_name": "Saïss",
     "element_type": 2,
     "now_cost": 45,
-    "total_points": 47
+    "total_points": 47,
+    "bps": 248,
+    "form": 0,
+    "influence": 363.6,
+    "creativity": 70.9,
+    "threat": 129,
+    "ict_index": 56.2,
+    "selected_by_percent": 0.4
   },
   {
     "id": 408,
@@ -4227,7 +7510,14 @@
     "web_name": "Kilman",
     "element_type": 2,
     "now_cost": 40,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 1.5
   },
   {
     "id": 409,
@@ -4236,7 +7526,14 @@
     "web_name": "Jiménez",
     "element_type": 4,
     "now_cost": 75,
-    "total_points": 181
+    "total_points": 181,
+    "bps": 602,
+    "form": 0,
+    "influence": 788.8,
+    "creativity": 648.5,
+    "threat": 1428,
+    "ict_index": 285.4,
+    "selected_by_percent": 34.1
   },
   {
     "id": 410,
@@ -4245,7 +7542,14 @@
     "web_name": "Jota",
     "element_type": 4,
     "now_cost": 65,
-    "total_points": 139
+    "total_points": 139,
+    "bps": 386,
+    "form": 0,
+    "influence": 559.6,
+    "creativity": 402.5,
+    "threat": 888,
+    "ict_index": 185,
+    "selected_by_percent": 13.3
   },
   {
     "id": 411,
@@ -4254,7 +7558,14 @@
     "web_name": "Patrício",
     "element_type": 1,
     "now_cost": 50,
-    "total_points": 118
+    "total_points": 118,
+    "bps": 581,
+    "form": 0,
+    "influence": 695,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 69.1,
+    "selected_by_percent": 5.2
   },
   {
     "id": 412,
@@ -4263,7 +7574,14 @@
     "web_name": "Ruddy",
     "element_type": 1,
     "now_cost": 45,
-    "total_points": 7
+    "total_points": 7,
+    "bps": 25,
+    "form": 0,
+    "influence": 26.6,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 2.7,
+    "selected_by_percent": 0.5
   },
   {
     "id": 413,
@@ -4272,7 +7590,14 @@
     "web_name": "Norris",
     "element_type": 1,
     "now_cost": 40,
-    "total_points": 1
+    "total_points": 1,
+    "bps": 3,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 2.2
   },
   {
     "id": 414,
@@ -4281,7 +7606,14 @@
     "web_name": "Neves",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 104
+    "total_points": 104,
+    "bps": 483,
+    "form": 0,
+    "influence": 698.2,
+    "creativity": 365.9,
+    "threat": 402,
+    "ict_index": 146.8,
+    "selected_by_percent": 7.7
   },
   {
     "id": 415,
@@ -4290,7 +7622,14 @@
     "web_name": "Moutinho",
     "element_type": 3,
     "now_cost": 55,
-    "total_points": 119
+    "total_points": 119,
+    "bps": 628,
+    "form": 0,
+    "influence": 812.6,
+    "creativity": 1245.8,
+    "threat": 102,
+    "ict_index": 216.4,
+    "selected_by_percent": 6.9
   },
   {
     "id": 416,
@@ -4299,7 +7638,14 @@
     "web_name": "Gibbs-White",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 37
+    "total_points": 37,
+    "bps": 113,
+    "form": 0,
+    "influence": 73.2,
+    "creativity": 181.1,
+    "threat": 72,
+    "ict_index": 32.5,
+    "selected_by_percent": 0.2
   },
   {
     "id": 417,
@@ -4308,7 +7654,14 @@
     "web_name": "Traoré",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 44
+    "total_points": 44,
+    "bps": 182,
+    "form": 0,
+    "influence": 223.4,
+    "creativity": 271.3,
+    "threat": 265,
+    "ict_index": 75.8,
+    "selected_by_percent": 0.3
   },
   {
     "id": 418,
@@ -4317,7 +7670,14 @@
     "web_name": "Costa",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 52
+    "total_points": 52,
+    "bps": 136,
+    "form": 0,
+    "influence": 162.8,
+    "creativity": 264,
+    "threat": 280,
+    "ict_index": 70.9,
+    "selected_by_percent": 0
   },
   {
     "id": 419,
@@ -4326,7 +7686,14 @@
     "web_name": "Cavaleiro",
     "element_type": 3,
     "now_cost": 50,
-    "total_points": 48
+    "total_points": 48,
+    "bps": 156,
+    "form": 0,
+    "influence": 198,
+    "creativity": 313.6,
+    "threat": 156,
+    "ict_index": 66,
+    "selected_by_percent": 0
   },
   {
     "id": 420,
@@ -4335,7 +7702,14 @@
     "web_name": "Dendoncker",
     "element_type": 3,
     "now_cost": 45,
-    "total_points": 48
+    "total_points": 48,
+    "bps": 209,
+    "form": 0,
+    "influence": 334.8,
+    "creativity": 126.6,
+    "threat": 288,
+    "ict_index": 75.1,
+    "selected_by_percent": 13.1
   },
   {
     "id": 473,
@@ -4344,7 +7718,14 @@
     "web_name": "Vallejo",
     "element_type": 2,
     "now_cost": 50,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.3
   },
   {
     "id": 487,
@@ -4353,6 +7734,13 @@
     "web_name": "Cutrone",
     "element_type": 4,
     "now_cost": 60,
-    "total_points": 0
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.7
   }
 ]

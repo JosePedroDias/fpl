@@ -26,7 +26,14 @@ const { get, readJson, writeJson } = require('./aux');
     web_name: p.web_name,
     element_type: p.element_type,
     now_cost: p.now_cost,
-    total_points: p.total_points
+    total_points: p.total_points,
+    bps: p.bps,
+    form: parseFloat(p.form),
+    influence: parseFloat(p.influence),
+    creativity: parseFloat(p.creativity),
+    threat: parseFloat(p.threat),
+    ict_index: parseFloat(p.ict_index),
+    selected_by_percent: parseFloat(p.selected_by_percent)
   }));
   //console.log(players);
   writeJson('data/players.json', players);

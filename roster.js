@@ -121,7 +121,6 @@ function generateTeam(players, criteria, debug) {
   //sortNum(team, 'total_points');
   //team.reverse();
   //sortNum(team, 'element_type');
-  //printPlayers(team);
 
   return team;
 }

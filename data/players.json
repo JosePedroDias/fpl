@@ -61,7 +61,7 @@
     "creativity": 98.9,
     "threat": 126,
     "ict_index": 44.8,
-    "selected_by_percent": 1
+    "selected_by_percent": 0.9
   },
   {
     "id": 5,
@@ -189,7 +189,7 @@
     "creativity": 482.4,
     "threat": 1319,
     "ict_index": 260.6,
-    "selected_by_percent": 8.7
+    "selected_by_percent": 8.8
   },
   {
     "id": 13,
@@ -205,7 +205,7 @@
     "creativity": 14.7,
     "threat": 59,
     "ict_index": 11.4,
-    "selected_by_percent": 4.9
+    "selected_by_percent": 4.8
   },
   {
     "id": 14,
@@ -333,7 +333,7 @@
     "creativity": 312.4,
     "threat": 130,
     "ict_index": 76.6,
-    "selected_by_percent": 4.3
+    "selected_by_percent": 4.4
   },
   {
     "id": 427,
@@ -397,7 +397,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 3
+    "selected_by_percent": 3.3
   },
   {
     "id": 489,
@@ -685,7 +685,7 @@
     "creativity": 20.1,
     "threat": 4,
     "ict_index": 46.6,
-    "selected_by_percent": 5.3
+    "selected_by_percent": 5.4
   },
   {
     "id": 309,
@@ -1149,7 +1149,7 @@
     "creativity": 466.7,
     "threat": 609,
     "ict_index": 167.5,
-    "selected_by_percent": 2.7
+    "selected_by_percent": 2.6
   },
   {
     "id": 77,
@@ -1805,7 +1805,7 @@
     "creativity": 310.3,
     "threat": 911,
     "ict_index": 167.9,
-    "selected_by_percent": 1.4
+    "selected_by_percent": 1.5
   },
   {
     "id": 92,
@@ -2061,7 +2061,7 @@
     "creativity": 525.1,
     "threat": 286,
     "ict_index": 163.2,
-    "selected_by_percent": 10.1
+    "selected_by_percent": 10
   },
   {
     "id": 106,
@@ -2253,7 +2253,7 @@
     "creativity": 349,
     "threat": 429,
     "ict_index": 110,
-    "selected_by_percent": 5.5
+    "selected_by_percent": 5.6
   },
   {
     "id": 118,
@@ -2269,7 +2269,7 @@
     "creativity": 628.4,
     "threat": 122,
     "ict_index": 144.2,
-    "selected_by_percent": 3.5
+    "selected_by_percent": 3.6
   },
   {
     "id": 119,
@@ -2333,7 +2333,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 9.5
+    "selected_by_percent": 9.6
   },
   {
     "id": 432,
@@ -2749,7 +2749,7 @@
     "creativity": 1142,
     "threat": 300,
     "ict_index": 232.7,
-    "selected_by_percent": 26.7
+    "selected_by_percent": 26.6
   },
   {
     "id": 142,
@@ -2861,7 +2861,7 @@
     "creativity": 10,
     "threat": 0,
     "ict_index": 78.5,
-    "selected_by_percent": 10.2
+    "selected_by_percent": 10.1
   },
   {
     "id": 149,
@@ -3133,7 +3133,7 @@
     "creativity": 165.3,
     "threat": 462,
     "ict_index": 134.3,
-    "selected_by_percent": 12.9
+    "selected_by_percent": 13
   },
   {
     "id": 161,
@@ -3229,7 +3229,7 @@
     "creativity": 419.9,
     "threat": 1206,
     "ict_index": 244.6,
-    "selected_by_percent": 10.3
+    "selected_by_percent": 10.4
   },
   {
     "id": 167,
@@ -3437,7 +3437,7 @@
     "creativity": 135.5,
     "threat": 23,
     "ict_index": 39.5,
-    "selected_by_percent": 2
+    "selected_by_percent": 1.9
   },
   {
     "id": 180,
@@ -3469,7 +3469,7 @@
     "creativity": 585.6,
     "threat": 954,
     "ict_index": 232.1,
-    "selected_by_percent": 12.3
+    "selected_by_percent": 12.4
   },
   {
     "id": 433,
@@ -3533,7 +3533,7 @@
     "creativity": 767.2,
     "threat": 318,
     "ict_index": 183.6,
-    "selected_by_percent": 35.4
+    "selected_by_percent": 35.3
   },
   {
     "id": 182,
@@ -3629,7 +3629,7 @@
     "creativity": 670.1,
     "threat": 1240,
     "ict_index": 267.8,
-    "selected_by_percent": 9.2
+    "selected_by_percent": 9.3
   },
   {
     "id": 188,
@@ -3917,7 +3917,7 @@
     "creativity": 222.7,
     "threat": 70,
     "ict_index": 54.2,
-    "selected_by_percent": 1.9
+    "selected_by_percent": 1.8
   },
   {
     "id": 206,
@@ -4077,7 +4077,7 @@
     "creativity": 562.3,
     "threat": 317,
     "ict_index": 117.9,
-    "selected_by_percent": 15.3
+    "selected_by_percent": 15.4
   },
   {
     "id": 216,
@@ -4237,7 +4237,7 @@
     "creativity": 266.8,
     "threat": 139,
     "ict_index": 127.1,
-    "selected_by_percent": 35.5
+    "selected_by_percent": 35.6
   },
   {
     "id": 223,
@@ -4429,7 +4429,7 @@
     "creativity": 43.3,
     "threat": 90,
     "ict_index": 15.7,
-    "selected_by_percent": 14.1
+    "selected_by_percent": 14.2
   },
   {
     "id": 235,
@@ -4493,7 +4493,7 @@
     "creativity": 822.3,
     "threat": 1246,
     "ict_index": 316.9,
-    "selected_by_percent": 9.8
+    "selected_by_percent": 9.7
   },
   {
     "id": 239,
@@ -4525,7 +4525,7 @@
     "creativity": 297.2,
     "threat": 307,
     "ict_index": 81.1,
-    "selected_by_percent": 3
+    "selected_by_percent": 2.9
   },
   {
     "id": 241,
@@ -4653,7 +4653,7 @@
     "creativity": 33.1,
     "threat": 180,
     "ict_index": 38.8,
-    "selected_by_percent": 0.6
+    "selected_by_percent": 0.7
   },
   {
     "id": 249,
@@ -5181,7 +5181,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 3.9
+    "selected_by_percent": 3.8
   },
   {
     "id": 279,
@@ -5613,7 +5613,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.6
+    "selected_by_percent": 0.5
   },
   {
     "id": 300,
@@ -6301,7 +6301,7 @@
     "creativity": 139.1,
     "threat": 229,
     "ict_index": 105.7,
-    "selected_by_percent": 6.5
+    "selected_by_percent": 6.6
   },
   {
     "id": 332,
@@ -6317,7 +6317,7 @@
     "creativity": 416.6,
     "threat": 216,
     "ict_index": 97.6,
-    "selected_by_percent": 1.9
+    "selected_by_percent": 2
   },
   {
     "id": 333,
@@ -6413,7 +6413,7 @@
     "creativity": 430,
     "threat": 1359,
     "ict_index": 261.3,
-    "selected_by_percent": 27.7
+    "selected_by_percent": 27.8
   },
   {
     "id": 339,
@@ -6877,7 +6877,7 @@
     "creativity": 50,
     "threat": 1,
     "ict_index": 104.1,
-    "selected_by_percent": 3.1
+    "selected_by_percent": 3
   },
   {
     "id": 367,
@@ -7613,7 +7613,7 @@
     "creativity": 648.5,
     "threat": 1428,
     "ict_index": 285.4,
-    "selected_by_percent": 30.6
+    "selected_by_percent": 30.2
   },
   {
     "id": 410,
@@ -7629,7 +7629,7 @@
     "creativity": 402.5,
     "threat": 888,
     "ict_index": 185,
-    "selected_by_percent": 13.9
+    "selected_by_percent": 14
   },
   {
     "id": 411,
@@ -7821,6 +7821,6 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 1
+    "selected_by_percent": 1.1
   }
 ]

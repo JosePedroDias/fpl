@@ -2,6 +2,9 @@ const fs = require('fs');
 const csv = require('csv-parser');
 const http = require('http');
 const https = require('https');
+const util = require('util');
+const child_process = require('child_process');
+const readline = require('readline');
 
 function get(url) {
   const prot = url.indexOf('https:') === 0 ? https : http;
@@ -37,12 +40,24 @@ function readCsv(fn) {
   });
 }
 
+function jsonToStringIndented(o) {
+  return JSON.stringify(o, null, 2);
+}
+
+function writeText(fn, txt) {
+  fs.writeFileSync(fn, txt);
+}
+
 function writeJson(fn, o) {
-  fs.writeFileSync(fn, JSON.stringify(o, null, 2));
+  writeText(fn, jsonToStringIndented(o));
+}
+
+function readText(fn) {
+  return fs.readFileSync(fn).toString();
 }
 
 function readJson(fn) {
-  return JSON.parse(fs.readFileSync(fn).toString());
+  return JSON.parse(readText(fn));
 }
 
 // times(3) returns [0, 1, 2]
@@ -99,6 +114,15 @@ function toValues(o) {
   return Object.values(o);
 }
 
+function zeroPad(s, n) {
+  s = '' + s;
+  const l = s.length;
+  if (l < n) {
+    return new Array(n - l + 1).join('0') + s;
+  }
+  return s.substring(l - n);
+}
+
 // 'stuff', 8 -> 'stuff   '; 'hugething', 8 -> 'hugethin'
 function toPad(s, n) {
   s = '' + s;
@@ -127,11 +151,61 @@ function sortAlpha(arr, criteria) {
   return arr;
 }
 
+function listFilesByCreationTime(dir) {
+  return new Promise((resolve, reject) => {
+    fs.readdir(dir, (err, files) => {
+      if (err) {
+        return reject(err);
+      }
+      const sortedFiles = files
+        .map((fn) => ({
+          name: fn,
+          time: fs.statSync(dir + '/' + fn).mtime.getTime()
+        }))
+        .sort((a, b) => a.time - b.time)
+        .map((v) => v.name);
+      resolve(sortedFiles);
+    });
+  });
+}
+
+function ask(question) {
+  return new Promise((resolve, reject) => {
+    const r = readline.createInterface({
+      input: process.stdin,
+      output: process.stdout
+    });
+    r.question(question + '\n', (answer) => {
+      r.close();
+      resolve(answer);
+    });
+    r.on('error', reject);
+  });
+}
+
+const exec = util.promisify(child_process.exec);
+
+function resolveAnyPromise(pr) {
+  return new Promise((resolve) => {
+    pr.then(resolve, resolve);
+  });
+}
+
+function execRobust(cmd) {
+  return resolveAnyPromise(exec(cmd));
+}
+
 module.exports = {
   get,
+  exec,
+  execRobust,
+  ask,
   readCsv,
+  jsonToStringIndented,
   writeJson,
   readJson,
+  writeText,
+  readText,
   times,
   sleep,
   randomInArr,
@@ -139,7 +213,9 @@ module.exports = {
   histogram,
   valuesToFloats,
   toValues,
+  zeroPad,
   toPad,
   sortNum,
-  sortAlpha
+  sortAlpha,
+  listFilesByCreationTime
 };

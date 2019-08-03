@@ -173,7 +173,7 @@
     "creativity": 484.6,
     "threat": 1429,
     "ict_index": 289.6,
-    "selected_by_percent": 19.7
+    "selected_by_percent": 20.1
   },
   {
     "id": 12,
@@ -189,7 +189,7 @@
     "creativity": 482.4,
     "threat": 1319,
     "ict_index": 260.6,
-    "selected_by_percent": 8.5
+    "selected_by_percent": 8.7
   },
   {
     "id": 13,
@@ -253,7 +253,7 @@
     "creativity": 454.9,
     "threat": 600,
     "ict_index": 150.2,
-    "selected_by_percent": 3.5
+    "selected_by_percent": 3.4
   },
   {
     "id": 17,
@@ -333,7 +333,7 @@
     "creativity": 312.4,
     "threat": 130,
     "ict_index": 76.6,
-    "selected_by_percent": 4.4
+    "selected_by_percent": 4.3
   },
   {
     "id": 427,
@@ -381,7 +381,55 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 3.5
+    "selected_by_percent": 3.6
+  },
+  {
+    "id": 488,
+    "code": 195735,
+    "team": 1,
+    "web_name": "Pépé",
+    "element_type": 3,
+    "now_cost": 95,
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 3
+  },
+  {
+    "id": 489,
+    "code": 200641,
+    "team": 1,
+    "web_name": "Nelson",
+    "element_type": 3,
+    "now_cost": 55,
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0
+  },
+  {
+    "id": 490,
+    "code": 200089,
+    "team": 1,
+    "web_name": "Willock",
+    "element_type": 3,
+    "now_cost": 50,
+    "total_points": 4,
+    "bps": 4,
+    "form": 0,
+    "influence": 1,
+    "creativity": 2.5,
+    "threat": 23,
+    "ict_index": 2.7,
+    "selected_by_percent": 0
   },
   {
     "id": 22,
@@ -397,7 +445,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 3.4
+    "selected_by_percent": 3.3
   },
   {
     "id": 23,
@@ -413,7 +461,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.5
+    "selected_by_percent": 0.4
   },
   {
     "id": 24,
@@ -445,7 +493,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.1
   },
   {
     "id": 26,
@@ -477,7 +525,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.6
+    "selected_by_percent": 0.5
   },
   {
     "id": 28,
@@ -509,7 +557,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 7.9
+    "selected_by_percent": 7.7
   },
   {
     "id": 30,
@@ -525,7 +573,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.8
+    "selected_by_percent": 0.7
   },
   {
     "id": 31,
@@ -541,7 +589,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 2.4
+    "selected_by_percent": 2.3
   },
   {
     "id": 32,
@@ -637,7 +685,7 @@
     "creativity": 20.1,
     "threat": 4,
     "ict_index": 46.6,
-    "selected_by_percent": 4.9
+    "selected_by_percent": 5.3
   },
   {
     "id": 309,
@@ -797,7 +845,23 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0
+    "selected_by_percent": 0.1
+  },
+  {
+    "id": 491,
+    "code": 184704,
+    "team": 2,
+    "web_name": "Nakamba",
+    "element_type": 3,
+    "now_cost": 45,
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0.1
   },
   {
     "id": 58,
@@ -941,7 +1005,7 @@
     "creativity": 2,
     "threat": 21,
     "ict_index": 11,
-    "selected_by_percent": 8
+    "selected_by_percent": 8.1
   },
   {
     "id": 67,
@@ -957,7 +1021,7 @@
     "creativity": 388.4,
     "threat": 1137,
     "ict_index": 225,
-    "selected_by_percent": 20.6
+    "selected_by_percent": 20.5
   },
   {
     "id": 68,
@@ -973,7 +1037,7 @@
     "creativity": 535.7,
     "threat": 1058,
     "ict_index": 223.8,
-    "selected_by_percent": 19.3
+    "selected_by_percent": 19.5
   },
   {
     "id": 69,
@@ -1069,7 +1133,7 @@
     "creativity": 1382.4,
     "threat": 696,
     "ict_index": 301.2,
-    "selected_by_percent": 20.8
+    "selected_by_percent": 20.6
   },
   {
     "id": 76,
@@ -1085,7 +1149,7 @@
     "creativity": 466.7,
     "threat": 609,
     "ict_index": 167.5,
-    "selected_by_percent": 3.4
+    "selected_by_percent": 2.7
   },
   {
     "id": 77,
@@ -1216,6 +1280,22 @@
     "selected_by_percent": 0.1
   },
   {
+    "id": 492,
+    "code": 220307,
+    "team": 3,
+    "web_name": "Danjuma",
+    "element_type": 3,
+    "now_cost": 60,
+    "total_points": 0,
+    "bps": 0,
+    "form": 0,
+    "influence": 0,
+    "creativity": 0,
+    "threat": 0,
+    "ict_index": 0,
+    "selected_by_percent": 0
+  },
+  {
     "id": 37,
     "code": 61933,
     "team": 4,
@@ -1309,7 +1389,7 @@
     "creativity": 132.9,
     "threat": 245,
     "ict_index": 118.7,
-    "selected_by_percent": 7.6
+    "selected_by_percent": 7.8
   },
   {
     "id": 43,
@@ -1325,7 +1405,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.1
   },
   {
     "id": 44,
@@ -1389,7 +1469,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 70.9,
-    "selected_by_percent": 14.9
+    "selected_by_percent": 14.6
   },
   {
     "id": 48,
@@ -1405,7 +1485,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 8.9,
-    "selected_by_percent": 24.3
+    "selected_by_percent": 24.6
   },
   {
     "id": 49,
@@ -1421,7 +1501,7 @@
     "creativity": 815.3,
     "threat": 344,
     "ict_index": 161.7,
-    "selected_by_percent": 0.8
+    "selected_by_percent": 0.7
   },
   {
     "id": 50,
@@ -1437,7 +1517,7 @@
     "creativity": 104,
     "threat": 162,
     "ict_index": 35.5,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.1
   },
   {
     "id": 51,
@@ -1693,7 +1773,7 @@
     "creativity": 0.4,
     "threat": 33,
     "ict_index": 7.6,
-    "selected_by_percent": 2.8
+    "selected_by_percent": 2.5
   },
   {
     "id": 90,
@@ -1709,7 +1789,7 @@
     "creativity": 309.9,
     "threat": 1042,
     "ict_index": 192.9,
-    "selected_by_percent": 0.8
+    "selected_by_percent": 0.9
   },
   {
     "id": 91,
@@ -1773,7 +1853,7 @@
     "creativity": 10.1,
     "threat": 0,
     "ict_index": 60.3,
-    "selected_by_percent": 2
+    "selected_by_percent": 2.1
   },
   {
     "id": 96,
@@ -1997,7 +2077,7 @@
     "creativity": 358.7,
     "threat": 363,
     "ict_index": 158,
-    "selected_by_percent": 9.6
+    "selected_by_percent": 9.5
   },
   {
     "id": 107,
@@ -2029,7 +2109,7 @@
     "creativity": 8.4,
     "threat": 6,
     "ict_index": 13.6,
-    "selected_by_percent": 0.7
+    "selected_by_percent": 0.6
   },
   {
     "id": 109,
@@ -2077,7 +2157,7 @@
     "creativity": 0.1,
     "threat": 0,
     "ict_index": 68,
-    "selected_by_percent": 6.7
+    "selected_by_percent": 6.6
   },
   {
     "id": 112,
@@ -2109,7 +2189,7 @@
     "creativity": 1165.5,
     "threat": 742,
     "ict_index": 246.7,
-    "selected_by_percent": 2.9
+    "selected_by_percent": 2.5
   },
   {
     "id": 114,
@@ -2125,7 +2205,7 @@
     "creativity": 503.5,
     "threat": 733,
     "ict_index": 176.5,
-    "selected_by_percent": 2.8
+    "selected_by_percent": 2.9
   },
   {
     "id": 115,
@@ -2157,7 +2237,7 @@
     "creativity": 143.2,
     "threat": 133,
     "ict_index": 36.2,
-    "selected_by_percent": 0.5
+    "selected_by_percent": 0.4
   },
   {
     "id": 117,
@@ -2173,7 +2253,7 @@
     "creativity": 349,
     "threat": 429,
     "ict_index": 110,
-    "selected_by_percent": 4.5
+    "selected_by_percent": 5.5
   },
   {
     "id": 118,
@@ -2189,7 +2269,7 @@
     "creativity": 628.4,
     "threat": 122,
     "ict_index": 144.2,
-    "selected_by_percent": 3.4
+    "selected_by_percent": 3.5
   },
   {
     "id": 119,
@@ -2205,7 +2285,7 @@
     "creativity": 766.3,
     "threat": 412,
     "ict_index": 186.4,
-    "selected_by_percent": 9.9
+    "selected_by_percent": 9.5
   },
   {
     "id": 120,
@@ -2253,7 +2333,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 8.9
+    "selected_by_percent": 9.5
   },
   {
     "id": 432,
@@ -2285,7 +2365,7 @@
     "creativity": 83.7,
     "threat": 235,
     "ict_index": 88.8,
-    "selected_by_percent": 1.2
+    "selected_by_percent": 1.4
   },
   {
     "id": 460,
@@ -2301,7 +2381,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 1.9
+    "selected_by_percent": 2
   },
   {
     "id": 461,
@@ -2317,7 +2397,7 @@
     "creativity": 41.4,
     "threat": 406,
     "ict_index": 64.2,
-    "selected_by_percent": 0.7
+    "selected_by_percent": 0.8
   },
   {
     "id": 462,
@@ -2349,7 +2429,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 1.2
+    "selected_by_percent": 1.1
   },
   {
     "id": 123,
@@ -2445,7 +2525,7 @@
     "creativity": 17.1,
     "threat": 34,
     "ict_index": 32.2,
-    "selected_by_percent": 24.8
+    "selected_by_percent": 24.9
   },
   {
     "id": 129,
@@ -2477,7 +2557,7 @@
     "creativity": 41.9,
     "threat": 55,
     "ict_index": 12,
-    "selected_by_percent": 3.2
+    "selected_by_percent": 3.3
   },
   {
     "id": 131,
@@ -2525,7 +2605,7 @@
     "creativity": 753.3,
     "threat": 1200,
     "ict_index": 270.6,
-    "selected_by_percent": 26.5
+    "selected_by_percent": 25.9
   },
   {
     "id": 134,
@@ -2541,7 +2621,7 @@
     "creativity": 910.1,
     "threat": 473,
     "ict_index": 246.3,
-    "selected_by_percent": 11.5
+    "selected_by_percent": 11.2
   },
   {
     "id": 135,
@@ -2653,7 +2733,7 @@
     "creativity": 207.3,
     "threat": 421,
     "ict_index": 76.7,
-    "selected_by_percent": 1.5
+    "selected_by_percent": 1.7
   },
   {
     "id": 141,
@@ -2669,7 +2749,7 @@
     "creativity": 1142,
     "threat": 300,
     "ict_index": 232.7,
-    "selected_by_percent": 27.1
+    "selected_by_percent": 26.7
   },
   {
     "id": 142,
@@ -2717,7 +2797,7 @@
     "creativity": 387.3,
     "threat": 274,
     "ict_index": 117.6,
-    "selected_by_percent": 3.9
+    "selected_by_percent": 3.8
   },
   {
     "id": 145,
@@ -2733,7 +2813,7 @@
     "creativity": 91.4,
     "threat": 15,
     "ict_index": 15.4,
-    "selected_by_percent": 0.4
+    "selected_by_percent": 0.3
   },
   {
     "id": 146,
@@ -2765,7 +2845,7 @@
     "creativity": 185.7,
     "threat": 618,
     "ict_index": 111.5,
-    "selected_by_percent": 3.3
+    "selected_by_percent": 3.2
   },
   {
     "id": 148,
@@ -2797,7 +2877,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 6.5
+    "selected_by_percent": 6.8
   },
   {
     "id": 150,
@@ -2813,7 +2893,7 @@
     "creativity": 350.7,
     "threat": 1209,
     "ict_index": 224.5,
-    "selected_by_percent": 10
+    "selected_by_percent": 9.9
   },
   {
     "id": 151,
@@ -2829,7 +2909,7 @@
     "creativity": 1098.5,
     "threat": 1084,
     "ict_index": 314.2,
-    "selected_by_percent": 15.2
+    "selected_by_percent": 15
   },
   {
     "id": 152,
@@ -2893,7 +2973,7 @@
     "creativity": 172.1,
     "threat": 211,
     "ict_index": 51.6,
-    "selected_by_percent": 0.1
+    "selected_by_percent": 0
   },
   {
     "id": 156,
@@ -3021,7 +3101,7 @@
     "creativity": 40.3,
     "threat": 4,
     "ict_index": 80.7,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.3
   },
   {
     "id": 159,
@@ -3037,7 +3117,7 @@
     "creativity": 517.6,
     "threat": 430,
     "ict_index": 183.7,
-    "selected_by_percent": 7.6
+    "selected_by_percent": 7.5
   },
   {
     "id": 160,
@@ -3053,7 +3133,7 @@
     "creativity": 165.3,
     "threat": 462,
     "ict_index": 134.3,
-    "selected_by_percent": 11.3
+    "selected_by_percent": 12.9
   },
   {
     "id": 161,
@@ -3069,7 +3149,7 @@
     "creativity": 674.6,
     "threat": 298,
     "ict_index": 170,
-    "selected_by_percent": 6
+    "selected_by_percent": 5.9
   },
   {
     "id": 162,
@@ -3117,7 +3197,7 @@
     "creativity": 6.8,
     "threat": 22,
     "ict_index": 10.6,
-    "selected_by_percent": 0.1
+    "selected_by_percent": 0.2
   },
   {
     "id": 165,
@@ -3133,7 +3213,7 @@
     "creativity": 40.1,
     "threat": 293,
     "ict_index": 80.5,
-    "selected_by_percent": 1.3
+    "selected_by_percent": 1.4
   },
   {
     "id": 166,
@@ -3229,7 +3309,7 @@
     "creativity": 1515,
     "threat": 769,
     "ict_index": 308.4,
-    "selected_by_percent": 13.3
+    "selected_by_percent": 12.9
   },
   {
     "id": 172,
@@ -3357,7 +3437,7 @@
     "creativity": 135.5,
     "threat": 23,
     "ict_index": 39.5,
-    "selected_by_percent": 2.2
+    "selected_by_percent": 2
   },
   {
     "id": 180,
@@ -3389,7 +3469,7 @@
     "creativity": 585.6,
     "threat": 954,
     "ict_index": 232.1,
-    "selected_by_percent": 12
+    "selected_by_percent": 12.3
   },
   {
     "id": 433,
@@ -3421,7 +3501,7 @@
     "creativity": 269.7,
     "threat": 249,
     "ict_index": 81.8,
-    "selected_by_percent": 6.9
+    "selected_by_percent": 6.8
   },
   {
     "id": 480,
@@ -3437,7 +3517,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.1
+    "selected_by_percent": 0.2
   },
   {
     "id": 181,
@@ -3453,7 +3533,7 @@
     "creativity": 767.2,
     "threat": 318,
     "ict_index": 183.6,
-    "selected_by_percent": 35.6
+    "selected_by_percent": 35.4
   },
   {
     "id": 182,
@@ -3469,7 +3549,7 @@
     "creativity": 837.4,
     "threat": 276,
     "ict_index": 184.7,
-    "selected_by_percent": 28
+    "selected_by_percent": 27.7
   },
   {
     "id": 183,
@@ -3485,7 +3565,7 @@
     "creativity": 111.1,
     "threat": 455,
     "ict_index": 156.1,
-    "selected_by_percent": 44.9
+    "selected_by_percent": 45.1
   },
   {
     "id": 184,
@@ -3549,7 +3629,7 @@
     "creativity": 670.1,
     "threat": 1240,
     "ict_index": 267.8,
-    "selected_by_percent": 9
+    "selected_by_percent": 9.2
   },
   {
     "id": 188,
@@ -3613,7 +3693,7 @@
     "creativity": 973.9,
     "threat": 2168,
     "ict_index": 432.7,
-    "selected_by_percent": 36.1
+    "selected_by_percent": 36
   },
   {
     "id": 192,
@@ -3629,7 +3709,7 @@
     "creativity": 692.8,
     "threat": 1332,
     "ict_index": 304,
-    "selected_by_percent": 20.6
+    "selected_by_percent": 20.2
   },
   {
     "id": 193,
@@ -3661,7 +3741,7 @@
     "creativity": 344.7,
     "threat": 282,
     "ict_index": 99.1,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.3
   },
   {
     "id": 195,
@@ -3805,7 +3885,7 @@
     "creativity": 239.3,
     "threat": 278,
     "ict_index": 131.2,
-    "selected_by_percent": 20.1
+    "selected_by_percent": 19.7
   },
   {
     "id": 203,
@@ -3837,7 +3917,7 @@
     "creativity": 222.7,
     "threat": 70,
     "ict_index": 54.2,
-    "selected_by_percent": 2.1
+    "selected_by_percent": 1.9
   },
   {
     "id": 206,
@@ -3853,7 +3933,7 @@
     "creativity": 278.6,
     "threat": 77,
     "ict_index": 63.5,
-    "selected_by_percent": 6
+    "selected_by_percent": 6.1
   },
   {
     "id": 207,
@@ -3869,7 +3949,7 @@
     "creativity": 115.5,
     "threat": 49,
     "ict_index": 54.1,
-    "selected_by_percent": 2.5
+    "selected_by_percent": 2.6
   },
   {
     "id": 208,
@@ -3981,7 +4061,7 @@
     "creativity": 937.4,
     "threat": 1572,
     "ict_index": 357.1,
-    "selected_by_percent": 28.4
+    "selected_by_percent": 28
   },
   {
     "id": 215,
@@ -4013,7 +4093,7 @@
     "creativity": 645,
     "threat": 1039,
     "ict_index": 240.3,
-    "selected_by_percent": 3.1
+    "selected_by_percent": 3
   },
   {
     "id": 217,
@@ -4157,7 +4237,7 @@
     "creativity": 266.8,
     "threat": 139,
     "ict_index": 127.1,
-    "selected_by_percent": 35.4
+    "selected_by_percent": 35.5
   },
   {
     "id": 223,
@@ -4253,7 +4333,7 @@
     "creativity": 3.4,
     "threat": 35,
     "ict_index": 16.5,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.1
   },
   {
     "id": 229,
@@ -4317,7 +4397,7 @@
     "creativity": 330.2,
     "threat": 1052,
     "ict_index": 193.5,
-    "selected_by_percent": 2.8
+    "selected_by_percent": 2.7
   },
   {
     "id": 233,
@@ -4349,7 +4429,7 @@
     "creativity": 43.3,
     "threat": 90,
     "ict_index": 15.7,
-    "selected_by_percent": 13.9
+    "selected_by_percent": 14.1
   },
   {
     "id": 235,
@@ -4365,7 +4445,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 84.5,
-    "selected_by_percent": 10.1
+    "selected_by_percent": 10.3
   },
   {
     "id": 236,
@@ -4413,7 +4493,7 @@
     "creativity": 822.3,
     "threat": 1246,
     "ict_index": 316.9,
-    "selected_by_percent": 10.2
+    "selected_by_percent": 9.8
   },
   {
     "id": 239,
@@ -4445,7 +4525,7 @@
     "creativity": 297.2,
     "threat": 307,
     "ict_index": 81.1,
-    "selected_by_percent": 3.1
+    "selected_by_percent": 3
   },
   {
     "id": 241,
@@ -4477,7 +4557,7 @@
     "creativity": 464,
     "threat": 262,
     "ict_index": 98.6,
-    "selected_by_percent": 0.4
+    "selected_by_percent": 0.5
   },
   {
     "id": 243,
@@ -4493,7 +4573,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 3.5
+    "selected_by_percent": 3.4
   },
   {
     "id": 244,
@@ -4637,7 +4717,7 @@
     "creativity": 973.8,
     "threat": 448,
     "ict_index": 213.6,
-    "selected_by_percent": 1.7
+    "selected_by_percent": 1.5
   },
   {
     "id": 252,
@@ -4749,7 +4829,7 @@
     "creativity": 46.8,
     "threat": 113,
     "ict_index": 79.6,
-    "selected_by_percent": 8.8
+    "selected_by_percent": 8.9
   },
   {
     "id": 259,
@@ -4797,7 +4877,7 @@
     "creativity": 35.9,
     "threat": 290,
     "ict_index": 44.6,
-    "selected_by_percent": 0.3
+    "selected_by_percent": 0.2
   },
   {
     "id": 262,
@@ -4845,7 +4925,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 3.4
+    "selected_by_percent": 2.9
   },
   {
     "id": 266,
@@ -4861,7 +4941,7 @@
     "creativity": 189.8,
     "threat": 235,
     "ict_index": 54.6,
-    "selected_by_percent": 1.1
+    "selected_by_percent": 1
   },
   {
     "id": 267,
@@ -4877,7 +4957,7 @@
     "creativity": 273,
     "threat": 331,
     "ict_index": 82.3,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.1
   },
   {
     "id": 268,
@@ -4957,7 +5037,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 2.1
+    "selected_by_percent": 2.3
   },
   {
     "id": 482,
@@ -5101,7 +5181,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 4
+    "selected_by_percent": 3.9
   },
   {
     "id": 279,
@@ -5149,7 +5229,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 3.8
+    "selected_by_percent": 4
   },
   {
     "id": 282,
@@ -5165,7 +5245,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.4
+    "selected_by_percent": 0.3
   },
   {
     "id": 283,
@@ -5277,7 +5357,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.6
+    "selected_by_percent": 0.5
   },
   {
     "id": 290,
@@ -5373,7 +5453,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.3
   },
   {
     "id": 70,
@@ -5437,7 +5517,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.5
+    "selected_by_percent": 0.6
   },
   {
     "id": 294,
@@ -5501,7 +5581,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 4.6
+    "selected_by_percent": 4.8
   },
   {
     "id": 298,
@@ -5709,7 +5789,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 1.1
+    "selected_by_percent": 1.2
   },
   {
     "id": 472,
@@ -5965,7 +6045,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 23.8,
-    "selected_by_percent": 1.4
+    "selected_by_percent": 1.3
   },
   {
     "id": 320,
@@ -6061,7 +6141,7 @@
     "creativity": 445.6,
     "threat": 421,
     "ict_index": 148.8,
-    "selected_by_percent": 1.1
+    "selected_by_percent": 1
   },
   {
     "id": 326,
@@ -6077,7 +6157,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.2
+    "selected_by_percent": 0.1
   },
   {
     "id": 327,
@@ -6093,7 +6173,7 @@
     "creativity": 2.6,
     "threat": 24,
     "ict_index": 4.2,
-    "selected_by_percent": 0.1
+    "selected_by_percent": 0.2
   },
   {
     "id": 328,
@@ -6125,7 +6205,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 1.5
+    "selected_by_percent": 1.6
   },
   {
     "id": 438,
@@ -6189,7 +6269,7 @@
     "creativity": 256.6,
     "threat": 176,
     "ict_index": 82.3,
-    "selected_by_percent": 0.7
+    "selected_by_percent": 0.6
   },
   {
     "id": 330,
@@ -6205,7 +6285,7 @@
     "creativity": 116.7,
     "threat": 165,
     "ict_index": 72.7,
-    "selected_by_percent": 3
+    "selected_by_percent": 3.1
   },
   {
     "id": 331,
@@ -6221,7 +6301,7 @@
     "creativity": 139.1,
     "threat": 229,
     "ict_index": 105.7,
-    "selected_by_percent": 6.4
+    "selected_by_percent": 6.5
   },
   {
     "id": 332,
@@ -6269,7 +6349,7 @@
     "creativity": 827,
     "threat": 121,
     "ict_index": 155,
-    "selected_by_percent": 1.4
+    "selected_by_percent": 1.2
   },
   {
     "id": 335,
@@ -6301,7 +6381,7 @@
     "creativity": 108.4,
     "threat": 45,
     "ict_index": 30.5,
-    "selected_by_percent": 1.1
+    "selected_by_percent": 0.9
   },
   {
     "id": 337,
@@ -6317,7 +6397,7 @@
     "creativity": 104.9,
     "threat": 20,
     "ict_index": 23.1,
-    "selected_by_percent": 1.6
+    "selected_by_percent": 1.7
   },
   {
     "id": 338,
@@ -6333,7 +6413,7 @@
     "creativity": 430,
     "threat": 1359,
     "ict_index": 261.3,
-    "selected_by_percent": 27.3
+    "selected_by_percent": 27.7
   },
   {
     "id": 339,
@@ -6349,7 +6429,7 @@
     "creativity": 1.6,
     "threat": 57,
     "ict_index": 6.5,
-    "selected_by_percent": 0.7
+    "selected_by_percent": 0.6
   },
   {
     "id": 340,
@@ -6413,7 +6493,7 @@
     "creativity": 1148.7,
     "threat": 801,
     "ict_index": 283,
-    "selected_by_percent": 6
+    "selected_by_percent": 6.1
   },
   {
     "id": 344,
@@ -6429,7 +6509,7 @@
     "creativity": 436.6,
     "threat": 681,
     "ict_index": 158.5,
-    "selected_by_percent": 2.4
+    "selected_by_percent": 2.5
   },
   {
     "id": 345,
@@ -6445,7 +6525,7 @@
     "creativity": 415.6,
     "threat": 650,
     "ict_index": 161.9,
-    "selected_by_percent": 8.3
+    "selected_by_percent": 8.2
   },
   {
     "id": 346,
@@ -6461,7 +6541,7 @@
     "creativity": 339.9,
     "threat": 441,
     "ict_index": 104.1,
-    "selected_by_percent": 0.4
+    "selected_by_percent": 0.5
   },
   {
     "id": 347,
@@ -6557,7 +6637,7 @@
     "creativity": 20.5,
     "threat": 12,
     "ict_index": 7,
-    "selected_by_percent": 0.3
+    "selected_by_percent": 0.4
   },
   {
     "id": 442,
@@ -6701,7 +6781,7 @@
     "creativity": 5.3,
     "threat": 2,
     "ict_index": 2.3,
-    "selected_by_percent": 0.6
+    "selected_by_percent": 0.5
   },
   {
     "id": 361,
@@ -6717,7 +6797,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 1.8
+    "selected_by_percent": 1.9
   },
   {
     "id": 362,
@@ -6749,7 +6829,7 @@
     "creativity": 455.6,
     "threat": 856,
     "ict_index": 185.6,
-    "selected_by_percent": 11.5
+    "selected_by_percent": 11.6
   },
   {
     "id": 364,
@@ -7053,7 +7133,7 @@
     "creativity": 52.3,
     "threat": 162,
     "ict_index": 94.8,
-    "selected_by_percent": 5.4
+    "selected_by_percent": 5.2
   },
   {
     "id": 382,
@@ -7085,7 +7165,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 5.4
+    "selected_by_percent": 5.5
   },
   {
     "id": 384,
@@ -7117,7 +7197,7 @@
     "creativity": 500.6,
     "threat": 946,
     "ict_index": 199.2,
-    "selected_by_percent": 0.7
+    "selected_by_percent": 0.6
   },
   {
     "id": 386,
@@ -7133,7 +7213,7 @@
     "creativity": 112,
     "threat": 528,
     "ict_index": 93.4,
-    "selected_by_percent": 1
+    "selected_by_percent": 1.1
   },
   {
     "id": 387,
@@ -7165,7 +7245,7 @@
     "creativity": 20,
     "threat": 0,
     "ict_index": 115.5,
-    "selected_by_percent": 8.8
+    "selected_by_percent": 8.6
   },
   {
     "id": 389,
@@ -7181,7 +7261,7 @@
     "creativity": 346.2,
     "threat": 852,
     "ict_index": 167,
-    "selected_by_percent": 3.1
+    "selected_by_percent": 3
   },
   {
     "id": 390,
@@ -7197,7 +7277,7 @@
     "creativity": 1042.4,
     "threat": 799,
     "ict_index": 272.2,
-    "selected_by_percent": 12.1
+    "selected_by_percent": 11.8
   },
   {
     "id": 391,
@@ -7245,7 +7325,7 @@
     "creativity": 976,
     "threat": 380,
     "ict_index": 181.5,
-    "selected_by_percent": 0.4
+    "selected_by_percent": 0.3
   },
   {
     "id": 394,
@@ -7389,7 +7469,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 4.7
+    "selected_by_percent": 5
   },
   {
     "id": 401,
@@ -7405,7 +7485,7 @@
     "creativity": 547.4,
     "threat": 711,
     "ict_index": 201.6,
-    "selected_by_percent": 4.6
+    "selected_by_percent": 4.2
   },
   {
     "id": 402,
@@ -7469,7 +7549,7 @@
     "creativity": 146.9,
     "threat": 279,
     "ict_index": 137.7,
-    "selected_by_percent": 7.5
+    "selected_by_percent": 7.6
   },
   {
     "id": 406,
@@ -7517,7 +7597,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 1.5
+    "selected_by_percent": 1.6
   },
   {
     "id": 409,
@@ -7533,7 +7613,7 @@
     "creativity": 648.5,
     "threat": 1428,
     "ict_index": 285.4,
-    "selected_by_percent": 34.1
+    "selected_by_percent": 30.6
   },
   {
     "id": 410,
@@ -7549,7 +7629,7 @@
     "creativity": 402.5,
     "threat": 888,
     "ict_index": 185,
-    "selected_by_percent": 13.3
+    "selected_by_percent": 13.9
   },
   {
     "id": 411,
@@ -7597,7 +7677,7 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 2.2
+    "selected_by_percent": 1.9
   },
   {
     "id": 414,
@@ -7613,7 +7693,7 @@
     "creativity": 365.9,
     "threat": 402,
     "ict_index": 146.8,
-    "selected_by_percent": 7.7
+    "selected_by_percent": 7.8
   },
   {
     "id": 415,
@@ -7629,7 +7709,7 @@
     "creativity": 1245.8,
     "threat": 102,
     "ict_index": 216.4,
-    "selected_by_percent": 6.9
+    "selected_by_percent": 7
   },
   {
     "id": 416,
@@ -7709,7 +7789,7 @@
     "creativity": 126.6,
     "threat": 288,
     "ict_index": 75.1,
-    "selected_by_percent": 13.1
+    "selected_by_percent": 13.2
   },
   {
     "id": 473,
@@ -7741,6 +7821,6 @@
     "creativity": 0,
     "threat": 0,
     "ict_index": 0,
-    "selected_by_percent": 0.7
+    "selected_by_percent": 1
   }
 ]

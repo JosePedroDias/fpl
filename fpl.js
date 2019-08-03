@@ -76,7 +76,7 @@ function maxTeamsCounts(players) {
     }
   }
   return {
-    team: teamFromCode[maxTeam],
+    team: teamFromId[maxTeam],
     number: maxFreq,
     players: teams
       .map((tId, i) => (tId === maxTeam ? players[i] : undefined))
@@ -99,18 +99,16 @@ function keepKeys(o, keys, aliases, transforms) {
   return O;
 }
 
-function printPlayers(players) {
-  console.log(
-    players
-      .map((p) => keepKeys(p, KEYS, ALIASES, TRANSFORMS))
-      .map((o) =>
-        toValues(o)
-          .map((arr) => toPad(arr, 12))
-          .join(' ')
-      )
-      .join('\n')
-  );
-  console.log('TEAM COST: ' + teamCost(players) + '\n');
+function teamToString(players) {
+  const lines = players
+    .map((p) => keepKeys(p, KEYS, ALIASES, TRANSFORMS))
+    .map((o) =>
+      toValues(o)
+        .map((arr) => toPad(arr, 12))
+        .join(' ')
+    );
+  lines.push('TEAM COST: ' + teamCost(players) + '\n');
+  return lines.join('\n');
 }
 
 function getTeamJerseyImageUrl(teamCode) {
@@ -159,6 +157,6 @@ module.exports = {
   getTeamJerseyImageUrl,
   getTeamLogoImageUrl,
   getPlayerImageUrl,
-  printPlayers,
+  teamToString,
   validateTeam
 };

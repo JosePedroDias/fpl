@@ -11,7 +11,7 @@ const {
   teamCost,
   mostCostlyPlayer,
   maxTeamsCounts,
-  printPlayers,
+  teamToString,
   getTeamJerseyImageUrl,
   getTeamLogoImageUrl,
   getPlayerImageUrl
@@ -42,12 +42,13 @@ const isDef = (p) => p.element_type === DEF;
 const isMid = (p) => p.element_type === MID;
 const isFwd = (p) => p.element_type === FWD;
 
-function generateTeam(players) {
-  // sorting by different criteria gets us different outcomes
-  sortNum(players, 'total_points');
-  // sortNum(players, 'ict_index');
-  // sortNum(players, 'bps');
-  // sortNum(players, 'selected_by_percent');
+function generateTeam(players, criteria, debug) {
+  let log = () => {};
+  if (debug) {
+    log = (...args) => console.log(...args);
+  }
+
+  sortNum(players, criteria);
   players.reverse();
 
   const pools = {
@@ -72,14 +73,14 @@ function generateTeam(players) {
   });
 
   while (true) {
-    printPlayers(team);
+    log(teamToString(team));
     const cost = teamCost(team);
     const mtc = maxTeamsCounts(team);
     if (cost > MAX_COST) {
-      console.log('too expensive!');
+      log('too expensive!');
       let { index, player } = mostCostlyPlayer(team);
       const et = player.element_type;
-      console.log(
+      log(
         `<- removing ${elementTypeToPosition[et]} player ${
           player.web_name
         } costing ${player.now_cost}...`
@@ -87,18 +88,18 @@ function generateTeam(players) {
       pools[et].push(player); // to the end...
       player = pools[et].shift();
       team[index] = player;
-      console.log(
+      log(
         `-> replacing him with ${elementTypeToPosition[et]} player ${
           player.web_name
         } costing ${player.now_cost}...
 `
       );
     } else if (mtc.number > MAX_PLAYERS_PER_TEAM) {
-      console.log(`too many players from ${mtc.team} (${mtc.number})!`);
+      log(`too many players from ${mtc.team} (${mtc.number})!`);
       let { index, player } = mostCostlyPlayer(mtc.players);
       index = team.indexOf(player);
       const et = player.element_type;
-      console.log(
+      log(
         `<- removing ${elementTypeToPosition[et]} player ${
           player.web_name
         } costing ${player.now_cost}...`
@@ -106,7 +107,7 @@ function generateTeam(players) {
       pools[et].push(player); // to the end...
       player = pools[et].shift();
       team[index] = player;
-      console.log(
+      log(
         `-> replacing him with ${elementTypeToPosition[et]} player ${
           player.web_name
         } costing ${player.now_cost}...
@@ -122,8 +123,6 @@ function generateTeam(players) {
   //sortNum(team, 'element_type');
   //printPlayers(team);
 
-  console.log('== DONE ==');
-
   return team;
 }
 
@@ -132,8 +131,14 @@ function generateTeam(players) {
 
   const players = await loadPlayers();
 
-  const team = generateTeam(players);
-  writeJson('team.json', team);
+  const criterias = ['total_points', 'ict_index', 'bps', 'selected_by_percent'];
+
+  for (const crit of criterias) {
+    const team = generateTeam(players, crit);
+    console.log(`\n\nCRITERIA: ${crit}\n`);
+    console.log(teamToString(team));
+    //writeJson(`team_${crit}.json`, team);
+  }
 
   /*
   const team = readJson('team.json');

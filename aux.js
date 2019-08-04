@@ -7,8 +7,8 @@ const child_process = require('child_process');
 const readline = require('readline');
 
 function get(url) {
-  const prot = url.indexOf('https:') === 0 ? https : http;
   return new Promise((resolve, reject) => {
+    const prot = url.indexOf('https:') === 0 ? https : http;
     prot.get(
       url,
       {
@@ -30,6 +30,21 @@ function get(url) {
         resp.on('error', reject);
       }
     );
+  });
+}
+
+function getFile(url, path) {
+  return new Promise((resolve, reject) => {
+    const prot = url.indexOf('https:') === 0 ? https : http;
+    prot.get(url, (resp) => {
+      resp.pipe(fs.createWriteStream(path));
+
+      resp.on('end', () => {
+        resolve();
+      });
+
+      resp.on('error', reject);
+    });
   });
 }
 
@@ -216,6 +231,7 @@ module.exports = {
   exec,
   execRobust,
   get,
+  getFile,
   has,
   histogram,
   jsonToStringIndented,

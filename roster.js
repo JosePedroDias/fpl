@@ -139,6 +139,7 @@ function applyNewsPenalty(p) {
   /*const teams = */ await loadTeams();
 
   const players = await loadPlayers();
+  // const prediction = readJson('prediction.json');
 
   players.forEach(applyNewsPenalty);
 

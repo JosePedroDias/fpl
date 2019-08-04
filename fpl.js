@@ -119,8 +119,8 @@ function getTeamLogoImageUrl(teamCode) {
   return `https://fantasy.premierleague.com/dist/img/badges/badge_${teamCode}_80.png`;
 }
 
-function getPlayerImageUrl(playerId) {
-  return `https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/110x140/p${playerId}.png`;
+function getPlayerImageUrl(playerCode) {
+  return `https://platform-static-files.s3.amazonaws.com/premierleague/photos/players/110x140/p${playerCode}.png`;
 }
 
 function validateTeam(players) {

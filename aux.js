@@ -9,19 +9,27 @@ const readline = require('readline');
 function get(url) {
   const prot = url.indexOf('https:') === 0 ? https : http;
   return new Promise((resolve, reject) => {
-    prot.get(url, (resp) => {
-      let data = '';
+    prot.get(
+      url,
+      {
+        headers: {
+          'User-Agent': 'X'
+        }
+      },
+      (resp) => {
+        let data = '';
 
-      resp.on('data', (chunk) => {
-        data += chunk;
-      });
+        resp.on('data', (chunk) => {
+          data += chunk;
+        });
 
-      resp.on('end', () => {
-        resolve(data);
-      });
+        resp.on('end', () => {
+          resolve(data);
+        });
 
-      resp.on('error', reject);
-    });
+        resp.on('error', reject);
+      }
+    );
   });
 }
 
@@ -195,27 +203,37 @@ function execRobust(cmd) {
   return resolveAnyPromise(exec(cmd));
 }
 
+function has(text, part) {
+  return text.indexOf(part) !== -1;
+}
+
+function pInt(n) {
+  return parseInt(n, 10);
+}
+
 module.exports = {
-  get,
+  ask,
   exec,
   execRobust,
-  ask,
-  readCsv,
-  jsonToStringIndented,
-  writeJson,
-  readJson,
-  writeText,
-  readText,
-  times,
-  sleep,
-  randomInArr,
-  max,
+  get,
+  has,
   histogram,
-  valuesToFloats,
-  toValues,
-  zeroPad,
-  toPad,
-  sortNum,
+  jsonToStringIndented,
+  listFilesByCreationTime,
+  max,
+  pInt,
+  randomInArr,
+  readCsv,
+  readJson,
+  readText,
+  sleep,
   sortAlpha,
-  listFilesByCreationTime
+  sortNum,
+  times,
+  toPad,
+  toValues,
+  valuesToFloats,
+  writeJson,
+  writeText,
+  zeroPad
 };

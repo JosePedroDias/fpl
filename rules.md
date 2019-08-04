@@ -27,7 +27,11 @@ From your 15 player squad, select 11 players by the Gameweek deadline to form yo
 
 All your points for the Gameweek will be scored by these 11 players, however if one or more doesn't play they may be automatically substituted.
 
-Your team can play in any formation providing that 1 goalkeeper, at least 3 defenders and at least 1 forward are selected at all times.
+Your team can play in any formation providing that:
+1 goalkeeper  
+3+ defender  
+1+ forward  
+are selected at all times.
 
 ## Selecting a Captain and a Vice-Captain
 
@@ -135,23 +139,24 @@ Gameweek 38 Sun 17 May 14:00
 
 During the season, your fantasy football players will be allocated points based on their performance in the Premier League.
 
-Action Points
-For playing up to 60 minutes 1
-For playing 60 minutes or more (excluding stoppage time) 2
-For each goal scored by a goalkeeper or defender 6
-For each goal scored by a midfielder 5
-For each goal scored by a forward 4
-For each goal assist 3
-For a clean sheet by a goalkeeper or defender 4
-For a clean sheet by a midfielder 1
-For every 3 shot saves by a goalkeeper 1
-For each penalty save 5
-For each penalty miss -2
-Bonus points for the best players in a match 1-3
-For every 2 goals conceded by a goalkeeper or defender -1
-For each yellow card -1
-For each red card -3
-For each own goal -2
+Action Points:
+
+      1 - For playing up to 60 minutes
+      2 - For playing 60 minutes or more (excluding stoppage time)
+      6 - For each goal scored by a goalkeeper or defender
+      5 - For each goal scored by a midfielder
+      4 - For each goal scored by a forward
+      3 - For each goal assist
+      4 - For a clean sheet by a goalkeeper or defender
+      1 - For a clean sheet by a midfielder
+      1 - For every 3 shot saves by a goalkeeper
+      5 - For each penalty save
+     -2 - For each penalty miss
+    1-3 - Bonus points for the best players in a match
+     -1 - For every 2 goals conceded by a goalkeeper or defender
+     -1 - For each yellow card
+     -3 - For each red card
+     -2 - For each own goal
 
 ## Clean sheets
 

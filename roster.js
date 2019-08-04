@@ -125,10 +125,22 @@ function generateTeam(players, criteria, debug) {
   return team;
 }
 
+const attrsAffectedByNews = ['total_points', 'ict_index', 'bps'];
+
+function applyNewsPenalty(p) {
+  if (p.news) {
+    for (const a of attrsAffectedByNews) {
+      p[a] = 0;
+    }
+  }
+}
+
 (async function() {
-  const teams = await loadTeams();
+  /*const teams = */ await loadTeams();
 
   const players = await loadPlayers();
+
+  players.forEach(applyNewsPenalty);
 
   const criterias = ['total_points', 'ict_index', 'bps', 'selected_by_percent'];
 

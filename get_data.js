@@ -1,14 +1,15 @@
 const {
-  get,
-  writeJson,
-  zeroPad,
-  listFilesByCreationTime,
-  jsonToStringIndented,
-  writeText,
-  readText,
+  ask,
   exec,
   execRobust,
-  ask
+  get,
+  jsonToStringIndented,
+  listFilesByCreationTime,
+  pInt,
+  readText,
+  writeJson,
+  writeText,
+  zeroPad
 } = require('./aux');
 
 function betweenGWs(teams) {
@@ -35,20 +36,43 @@ function updateTeamsAndPlayers(o) {
   writeJson('data/teams.json', teams);
 
   const players = o.elements.map((p) => ({
+    // ids
     id: p.id,
     code: p.code,
     team: p.team,
+    // name
     web_name: p.web_name,
+    // 1=GKP, 2=DEF, 3=MID, 4=FWD
     element_type: p.element_type,
     now_cost: p.now_cost,
     total_points: p.total_points,
+    // specs
     bps: p.bps,
     form: parseFloat(p.form),
+    //
     influence: parseFloat(p.influence),
     creativity: parseFloat(p.creativity),
     threat: parseFloat(p.threat),
+    // ict joined
     ict_index: parseFloat(p.ict_index),
-    selected_by_percent: parseFloat(p.selected_by_percent)
+    // popularity
+    selected_by_percent: parseFloat(p.selected_by_percent),
+    // other info, such as injuries
+    news: p.news,
+    news_added: p.news_added,
+    // stats
+    minutes: pInt(p.minutes),
+    goals_scored: pInt(p.goals_scored),
+    assists: pInt(p.assists),
+    clean_sheets: pInt(p.clean_sheets),
+    goals_conceded: pInt(p.goals_conceded),
+    own_goals: pInt(p.own_goals),
+    penalties_saved: pInt(p.penalties_saved),
+    penalties_missed: pInt(p.penalties_missed),
+    yellow_cards: pInt(p.yellow_cards),
+    red_cards: pInt(p.red_cards),
+    saves: pInt(p.saves),
+    bonus: pInt(p.bonus)
   }));
   writeJson('data/players.json', players);
 }

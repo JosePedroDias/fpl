@@ -11,11 +11,10 @@ const {
   teamCost,
   mostCostlyPlayer,
   maxTeamsCounts,
-  teamToString,
-  getTeamJerseyImageUrl,
-  getTeamLogoImageUrl,
-  getPlayerImageUrl
+  teamToString
 } = require('./fpl');
+
+const prediction = require('./prediction');
 
 ///
 
@@ -42,7 +41,7 @@ const isDef = (p) => p.element_type === DEF;
 const isMid = (p) => p.element_type === MID;
 const isFwd = (p) => p.element_type === FWD;
 
-function generateTeam(players, criteria, debug) {
+function generateTeam(players, criteria, pickUsingRatios, debug) {
   let log = () => {};
   if (debug) {
     log = (...args) => console.log(...args);
@@ -58,19 +57,46 @@ function generateTeam(players, criteria, debug) {
     [FWD]: players.filter(isFwd)
   };
 
+  function fetchFromPool(pool, r) {
+    const [p] = pool.splice(~~(r * pool.length), 1);
+    return p;
+  }
+
+  function fetchTopFromPool(pool) {
+    return pool.shift();
+  }
+
+  const replaceSlotFn = [];
   const team = [];
-  times(NUM_GKPS).forEach(() => {
-    team.push(pools[GKP].shift());
-  });
-  times(NUM_DEFS).forEach(() => {
-    team.push(pools[DEF].shift());
-  });
-  times(NUM_MIDS).forEach(() => {
-    team.push(pools[MID].shift());
-  });
-  times(NUM_FWDS).forEach(() => {
-    team.push(pools[FWD].shift());
-  });
+  let teamNr = 0;
+  const elTypes = [GKP, DEF, MID, FWD];
+  if (!pickUsingRatios) {
+    const elNums = [NUM_GKPS, NUM_DEFS, NUM_MIDS, NUM_FWDS];
+    elTypes.forEach((elt, i) => {
+      const pool = pools[elt];
+      const f = () => fetchTopFromPool(pool);
+      times(elNums[i]).forEach(() => {
+        replaceSlotFn[teamNr++] = f;
+        team.push(f());
+      });
+    });
+  } else {
+    const ratioOnPool = {
+      [GKP]: [0, 0.2], // 2
+      [DEF]: [0, 0.05, 0.05, 0.1, 0.1], // 5
+      [MID]: [0, 0.05, 0.05, 0.1, 0.1], // 5
+      [FWD]: [0, 0.05, 0.1] // 3
+    };
+    elTypes.forEach((elt) => {
+      const pool = pools[elt];
+      const rat = ratioOnPool[elt];
+      rat.forEach((r) => {
+        const f = () => fetchFromPool(pool, r);
+        replaceSlotFn[teamNr++] = f;
+        team.push(f());
+      });
+    });
+  }
 
   while (true) {
     log(teamToString(team));
@@ -86,7 +112,7 @@ function generateTeam(players, criteria, debug) {
         } costing ${player.now_cost}...`
       );
       pools[et].push(player); // to the end...
-      player = pools[et].shift();
+      player = replaceSlotFn[index]();
       team[index] = player;
       log(
         `-> replacing him with ${elementTypeToPosition[et]} player ${
@@ -105,7 +131,7 @@ function generateTeam(players, criteria, debug) {
         } costing ${player.now_cost}...`
       );
       pools[et].push(player); // to the end...
-      player = pools[et].shift();
+      player = replaceSlotFn[index]();
       team[index] = player;
       log(
         `-> replacing him with ${elementTypeToPosition[et]} player ${
@@ -125,45 +151,45 @@ function generateTeam(players, criteria, debug) {
   return team;
 }
 
-const attrsAffectedByNews = ['total_points', 'ict_index', 'bps'];
+function massageData(players, prediction) {
+  const attrsAffected = ['total_points', 'ict_index', 'bps'];
 
-function applyNewsPenalty(p) {
-  if (p.news) {
-    for (const a of attrsAffectedByNews) {
-      p[a] = 0;
+  function applyNewsPenalty(p) {
+    if (p.news) {
+      for (const a of attrsAffected) {
+        p[a] = 0;
+      }
     }
   }
+
+  const numPlaces = prediction.length;
+  function applyPredictionPenalty(p) {
+    //const r = (numPlaces - prediction.indexOf(p.team)) / numPlaces; // 1st->100% ... 20th->0%
+    //const r = (numPlaces - prediction.indexOf(p.team) * 2) / numPlaces; // 1st->100% ... 10th->0%
+    const r = (numPlaces - prediction.indexOf(p.team) * 1.5) / numPlaces; // 1st->100% ... 10th->0%
+    for (const a of attrsAffected) {
+      p[a] *= r;
+    }
+  }
+
+  // balance down stats according to prediction of team winning
+  players.forEach(applyPredictionPenalty);
+
+  // bad news about a player zeroes out his stats
+  players.forEach(applyNewsPenalty);
 }
 
 (async function() {
-  /*const teams = */ await loadTeams();
+  await loadTeams();
 
   const players = await loadPlayers();
-  // const prediction = readJson('prediction.json');
-
-  players.forEach(applyNewsPenalty);
+  massageData(players, prediction);
 
   const criterias = ['total_points', 'ict_index', 'bps', 'selected_by_percent'];
-
   for (const crit of criterias) {
-    const team = generateTeam(players, crit);
+    const team = generateTeam(players, crit, true);
     console.log(`\n\nCRITERIA: ${crit}\n`);
     console.log(teamToString(team));
     //writeJson(`team_${crit}.json`, team);
   }
-
-  /*
-  const team = readJson('team.json');
-  
-  for (const p of team) {
-    console.log(`${p.web_name} ![](${getPlayerImageUrl(p.code)})`);
-  }
-
-  for (const t of teams) {
-    console.log(
-      `${t.code} ${t.name} ${t.short_name} ![logo](${getTeamLogoImageUrl(
-        t.code
-      )}) ![jersey](${getTeamJerseyImageUrl(t.code)})`
-    );
-  }*/
 })();

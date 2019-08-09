@@ -36,13 +36,13 @@ const KEYS = ['web_name', 'now_cost', 'total_points', 'element_type', 'team'];
 
 ///
 
-async function loadPlayers() {
+function loadPlayers() {
   const players = readJson('data/players.json');
   players.forEach((p) => (p.now_cost /= 10));
   return players;
 }
 
-async function loadTeams() {
+function loadTeams() {
   const teams = readJson('data/teams.json');
   teams.forEach((t) => {
     teamFromCode[t.code] = t.name;
@@ -143,6 +143,10 @@ function validateTeam(players) {
   );
 }
 
+function getTeamMappings() {
+  return { teamFromCode, teamFromId, teamShortFromCode, teamShortFromId };
+}
+
 module.exports = {
   GKP,
   DEF,
@@ -158,5 +162,6 @@ module.exports = {
   getTeamLogoImageUrl,
   getPlayerImageUrl,
   teamToString,
-  validateTeam
+  validateTeam,
+  getTeamMappings
 };

@@ -147,11 +147,12 @@ function zeroPad(s, n) {
 }
 
 // 'stuff', 8 -> 'stuff   '; 'hugething', 8 -> 'hugethin'
-function toPad(s, n) {
+function toPad(s, n, right) {
   s = '' + s;
   const l = s.length;
   if (l < n) {
-    return s + new Array(n - l + 1).join(' ');
+    const spc = new Array(n - l + 1).join(' ');
+    return right ? spc + s : s + spc;
   }
   return s.substring(0, n);
 }

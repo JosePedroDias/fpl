@@ -12,18 +12,17 @@ const {
   zeroPad
 } = require('./aux');
 
-function betweenGWs(teams) {
-  let played;
-  let gamesPlayedByAllTeams = true;
-  teams.forEach((t, i) => {
-    const p = t.played;
-    if (i === 0) {
-      played = p;
-    } else if (played !== p) {
-      gamesPlayedByAllTeams = false;
-    }
-  });
-  return gamesPlayedByAllTeams;
+function betweenGWs(o) {
+  const thisEvIndex = o.events.findIndex((ev) => ev.is_current);
+  const nextEvIndex = o.events.findIndex((ev) => ev.is_next);
+  if (thisEvIndex === -1) {
+    return true;
+  }
+  if (nextEvIndex === -1) {
+    return true;
+  }
+  const thisEv = o.events[thisEvIndex];
+  return !!thisEv.finished;
 }
 
 function updateTeamsAndPlayers(o) {
@@ -101,7 +100,7 @@ function genBackupName(o) {
   const o = JSON.parse(bootstrap);
 
   // are we between GWs? if so, backup the data
-  if (betweenGWs(o.teams)) {
+  if (betweenGWs(o)) {
     const fn = genBackupName(o);
     const newS = jsonToStringIndented(o);
 

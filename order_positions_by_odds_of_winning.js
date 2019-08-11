@@ -1,6 +1,6 @@
 const { GKP, DEF, MID, FWD, getTeamMappings, loadTeams } = require('./fpl');
 
-const { readJson, toPad, sortNum } = require('./aux');
+const { readJson, toPad, sortNum, convertOdd } = require('./aux');
 
 const team = readJson('./team.json');
 const odds = readJson('./odds_gw01.json');
@@ -35,29 +35,34 @@ const tIds = {};
 const tOdds = {};
 
 for (const m of odds) {
-  const { t1, t2, odds } = m;
+  let { t1, t2, odds } = m;
+  odds = odds.map(convertOdd);
   const [left, tie, right] = odds;
-  const o = odds.map((n) => toPad(n.toFixed(2), 6)).join(' / ');
-  let dir = ' == ';
+  let dir = 1;
   let v1 = tie;
   v2 = tie;
   if (left > tie && left > right) {
-    dir = ' -> ';
-    v1 -= 10;
-    v2 *= 20;
+    dir = 0;
   } else if (right > tie && right > left) {
-    dir = ' <- ';
-    v1 *= 20;
-    v2 -= 10;
+    dir = 2;
   }
   tOdds[t1] = v1;
   tOdds[t2] = v2;
   tIds[mapTeams[t1]] = v1;
   tIds[mapTeams[t2]] = v2;
 
-  console.log(
-    `${toPad(t1, 20, true)} x ${toPad(t2, 20)} -       ${o}      ${dir}`
-  );
+  //const o = odds.map((n) => toPad(n.toFixed(0), 2, true)).join(' / ');
+  //console.log(`${toPad(t1, 20, true)} x ${toPad(t2, 20)} -     ${o}    ${dir}`);
+
+  const o = odds
+    .map((n, i) => {
+      const sel = i === dir;
+      const s0 = sel ? '[' : ' ';
+      const s1 = sel ? ']' : ' ';
+      return s0 + toPad(n.toFixed(0), 2, true) + s1;
+    })
+    .join('  ');
+  console.log(`${toPad(t1, 20, true)}  ${o}  ${toPad(t2, 20)}`);
 }
 
 for (const pos of [GKP, DEF, MID, FWD]) {

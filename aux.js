@@ -227,6 +227,16 @@ function pInt(n) {
   return parseInt(n, 10);
 }
 
+/*
+fraction to decimal:     a/b + 1
+decimal to percentage:   100/dec
+fraction to percentage:  100/((a/b)+1)
+*/
+function convertOdd(n) {
+  //return 100 / (n + 1);
+  return 100 / n;
+}
+
 module.exports = {
   ask,
   exec,
@@ -252,5 +262,6 @@ module.exports = {
   valuesToFloats,
   writeJson,
   writeText,
-  zeroPad
+  zeroPad,
+  convertOdd
 };

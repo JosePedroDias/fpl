@@ -14,6 +14,8 @@ const elementTypeToPosition = {
   [FWD]: 'FWD'
 };
 
+const positions = [GKP, DEF, MID, FWD];
+
 // used by keepKeys
 const ALIASES = {
   web_name: 'name',
@@ -152,6 +154,7 @@ module.exports = {
   DEF,
   MID,
   FWD,
+  positions,
   elementTypeToPosition,
   loadPlayers,
   loadTeams,

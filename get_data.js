@@ -140,5 +140,8 @@ function genBackupName(o) {
     }
   } else {
     console.log('GW happening, skipping backup.');
+
+    //console.log('updating teams and players to data folder...');
+    //updateTeamsAndPlayers(o);
   }
 })();

@@ -1,11 +1,9 @@
-const { getFile, readJson } = require('./aux');
+const { getFile, readJson, fileExists } = require('./aux');
 const {
   getTeamJerseyImageUrl,
   getTeamLogoImageUrl,
   getPlayerImageUrl
 } = require('./fpl');
-
-// TODO skip images we already have in file
 
 (async function() {
   const teams = readJson('data/teams.json');
@@ -33,8 +31,16 @@ const {
     i = -1;
     for (const p of players) {
       ++i;
-      console.log(`PLAYER ${i + 1} / ${players.length}: ${p.web_name}`);
-      await getFile(getPlayerImageUrl(p.code), `artwork/players/${p.code}.png`);
+      const path = `artwork/players/${p.code}.png`;
+      if (await fileExists(path)) {
+        console.log(
+          `PLAYER ${i + 1} / ${players.length}: ${p.web_name} (skipping)`
+        );
+      } else {
+        console.log(`PLAYER ${i + 1} / ${players.length}: ${p.web_name}`);
+        await getFile(getPlayerImageUrl(p.code), path);
+      }
+
       //break;
     }
   }

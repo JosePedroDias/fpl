@@ -1,0 +1,509 @@
+[
+  {
+    "_": "ARSENAL",
+    "jerseys": [
+      {
+        "leftarm": "#FFFFFF",
+        "body": "#FF0000",
+        "rightarm": "#FFFFFF",
+        "shorts": "#FFFFFF",
+        "socks": "#FFFFFF"
+      },
+      {
+        "leftarm": "#FFDF00",
+        "body": "#FFDF00",
+        "rightarm": "#FFDF00",
+        "shorts": "#000040",
+        "socks": "#FFDF00"
+      },
+      {
+        "leftarm": "#000040",
+        "body": "#000040",
+        "rightarm": "#000040",
+        "shorts": "#000000",
+        "socks": "#000040"
+      }
+    ],
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Arsenal_F.C."
+  },
+  {
+    "_": "ASTON VILLA",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Aston_Villa_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#ADD8E6",
+        "body": "#850322",
+        "rightarm": "#ADD8E6",
+        "shorts": "#FFFFFF",
+        "socks": "#ADD8E6"
+      },
+      {
+        "leftarm": "#88BBFF",
+        "body": "#88BBFF",
+        "rightarm": "#88BBFF",
+        "shorts": "#850322",
+        "socks": "#850322"
+      }
+    ]
+  },
+  {
+    "_": "Bournemouth",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/A.F.C._Bournemouth",
+    "jerseys": [
+      {
+        "leftarm": "#FF0000",
+        "xbody": "#FF0000",
+        "rightarm": "#FF0000",
+        "shorts": "#000000",
+        "socks": "#000000",
+        "body": "#000000",
+        "stripe2": "#FF0000"
+      },
+      {
+        "leftarm": "#000055",
+        "body": "#000055",
+        "rightarm": "#000055",
+        "shorts": "#000055",
+        "socks": "#000055"
+      },
+      {
+        "leftarm": "#BFFF00",
+        "body": "#BFFF00",
+        "rightarm": "#BFFF00",
+        "shorts": "#020031",
+        "socks": "#BFFF00"
+      }
+    ]
+  },
+  {
+    "_": "Brighton",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Brighton_%26_Hove_Albion_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#0000FF",
+        "body": "#FFFFFF",
+        "rightarm": "#0000FF",
+        "shorts": "#0000DD",
+        "socks": "#FFFFFF",
+        "stripe2": "#0000FF"
+      },
+      {
+        "leftarm": "#000000",
+        "body": "#000000",
+        "rightarm": "#000000",
+        "shorts": "#000000",
+        "socks": "#000000"
+      },
+      {
+        "leftarm": "#008800",
+        "body": "#008800",
+        "rightarm": "#008800",
+        "shorts": "#FFFFFF",
+        "socks": "#008800"
+      }
+    ]
+  },
+  {
+    "_": "Burnley",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Burnley_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#80BFFF",
+        "body": "#800000",
+        "rightarm": "#80BFFF",
+        "shorts": "#FFFFFF",
+        "socks": "#FFFFFF",
+        "collar": "#80BFFF"
+      },
+      {
+        "leftarm": "#77BBFF",
+        "body": "#77BBFF",
+        "rightarm": "#77BBFF",
+        "shorts": "#77BBFF",
+        "socks": "#77BBFF"
+      }
+    ]
+  },
+  {
+    "_": "Chelsea",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Chelsea_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#0000FF",
+        "body": "#0000FF",
+        "rightarm": "#0000FF",
+        "shorts": "#0000FF",
+        "socks": "#FFFFFF"
+      },
+      {
+        "leftarm": "#FFFFFF",
+        "body": "#FFFFFF",
+        "rightarm": "#FFFFFF",
+        "shorts": "#FFFFFF",
+        "socks": "#0000FF"
+      }
+    ]
+  },
+  {
+    "_": "crystal palace",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Crystal_Palace_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#FF0000",
+        "body": "#0A4AF5",
+        "rightarm": "#FF0000",
+        "shorts": "#0000FF",
+        "socks": "#0000FF",
+        "stripe2": "#FF0000"
+      },
+      {
+        "leftarm": "#000000",
+        "body": "#000000",
+        "rightarm": "#000000",
+        "shorts": "#000000",
+        "socks": "#000000"
+      },
+      {
+        "leftarm": "#FFFFFF",
+        "body": "#FFFFFF",
+        "rightarm": "#FFFFFF",
+        "shorts": "#FFFFFF",
+        "socks": "#FFFFFF"
+      }
+    ]
+  },
+  {
+    "_": "everton",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Everton_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#0D00E9",
+        "body": "#0D00E9",
+        "rightarm": "#0D00E9",
+        "shorts": "#FFFFFF",
+        "socks": "#FFFFFF"
+      },
+      {
+        "leftarm": "#ff6464",
+        "body": "#ff6464",
+        "rightarm": "#ff6464",
+        "shorts": "#090040",
+        "socks": "#ff6464"
+      }
+    ]
+  },
+  {
+    "_": "leicester",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Leicester_City_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#0101E8",
+        "body": "#0101E8",
+        "rightarm": "#0101E8",
+        "shorts": "#FFFFFF",
+        "socks": "#0101E8"
+      },
+      {
+        "leftarm": "#FEAFCF",
+        "body": "#FEAFCF",
+        "rightarm": "#FEAFCF",
+        "shorts": "#000000",
+        "socks": "#FEAFCF"
+      },
+      {
+        "leftarm": "#1F1F1F",
+        "body": "#1F1F1F",
+        "rightarm": "#1F1F1F",
+        "shorts": "#1F1F1F",
+        "socks": "#000000"
+      }
+    ]
+  },
+  {
+    "_": "liverpool",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#DD0000",
+        "body": "#DD0000",
+        "rightarm": "#DD0000",
+        "shorts": "#DD0000",
+        "socks": "#DD0000"
+      },
+      {
+        "leftarm": "#FFFFFF",
+        "body": "#FFFFFF",
+        "rightarm": "#FFFFFF",
+        "shorts": "#110050",
+        "socks": "#FFFFFF"
+      },
+      {
+        "leftarm": "#000000",
+        "body": "#000000",
+        "rightarm": "#000000",
+        "shorts": "#000000",
+        "socks": "#000000"
+      }
+    ]
+  },
+  {
+    "_": "manchester city",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#84BBFF",
+        "body": "#84BBFF",
+        "rightarm": "#84BBFF",
+        "shorts": "#FFFFFF",
+        "socks": "#FFFFFF"
+      },
+      {
+        "leftarm": "#0A0A0A",
+        "body": "#0A0A0A",
+        "rightarm": "#0A0A0A",
+        "shorts": "#0A0A0A",
+        "socks": "#0A0A0A"
+      },
+      {
+        "leftarm": "#C8FE2E",
+        "body": "#C8FE2E",
+        "rightarm": "#C8FE2E",
+        "shorts": "#FF465E",
+        "socks": "#C8FE2E"
+      }
+    ]
+  },
+  {
+    "_": "manchester united",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Manchester_United_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#E80909",
+        "body": "#E80909",
+        "rightarm": "#E80909",
+        "shorts": "#FFFFFF",
+        "socks": "#000000"
+      },
+      {
+        "leftarm": "#FBEEC4",
+        "body": "#FBEEC4",
+        "rightarm": "#FBEEC4",
+        "shorts": "#000000",
+        "socks": "#FBEEC4"
+      },
+      {
+        "leftarm": "#0A0A0A",
+        "body": "#0A0A0A",
+        "rightarm": "#0A0A0A",
+        "shorts": "#0A0A0A",
+        "socks": "#0A0A0A"
+      }
+    ]
+  },
+  {
+    "_": "newcastle united",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Newcastle_United_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#000000",
+        "body": "#FFFFFF",
+        "rightarm": "#000000",
+        "shorts": "#000000",
+        "socks": "#000000",
+        "stripe1": "#000000"
+      },
+      {
+        "leftarm": "#18453B",
+        "body": "#18453B",
+        "rightarm": "#18453B",
+        "shorts": "#18453B",
+        "socks": "#18453B"
+      },
+      {
+        "leftarm": "#FF6000",
+        "body": "#FF6000",
+        "rightarm": "#FF6000",
+        "shorts": "#FF6000",
+        "socks": "#FF6000"
+      }
+    ]
+  },
+  {
+    "_": "norwich city",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Norwich_City_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#FFEE00",
+        "body": "#FFEE00",
+        "rightarm": "#FFEE00",
+        "shorts": "#007020",
+        "socks": "#FFEE00",
+        "collar": "#007020"
+      },
+      {
+        "leftarm": "#EE0500",
+        "body": "#EE0500",
+        "rightarm": "#EE0500",
+        "shorts": "#EE0500",
+        "socks": "#EE0500"
+      },
+      {
+        "leftarm": "#4A4A4A",
+        "body": "#4A4A4A",
+        "rightarm": "#4A4A4A",
+        "shorts": "#4A4A4A",
+        "socks": "#4A4A4A"
+      }
+    ]
+  },
+  {
+    "_": "sheffield united",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Sheffield_United_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#FF0000",
+        "body": "#FFFFFF",
+        "rightarm": "#FF0000",
+        "shorts": "#000000",
+        "socks": "#FF0000",
+        "stripe2": "#FF0000",
+        "collar": "#FFFFFF"
+      },
+      {
+        "leftarm": "#FFFFFF",
+        "body": "#FFFFFF",
+        "rightarm": "#FFFFFF",
+        "shorts": "#FFFFFF",
+        "socks": "#FFFFFF"
+      },
+      {
+        "leftarm": "#CCFF00",
+        "body": "#CCFF00",
+        "rightarm": "#CCFF00",
+        "shorts": "#050505",
+        "socks": "#CCFF00"
+      }
+    ]
+  },
+  {
+    "_": "southampton",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Southampton_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#FF0000",
+        "body": "#FFFFFF",
+        "rightarm": "#FF0000",
+        "shorts": "#000000",
+        "socks": "#FFFFFF",
+        "stripe2": "#FF0000",
+        "top": "#222222",
+        "collar": "#FF0000"
+      },
+      {
+        "leftarm": "#000000",
+        "body": "#000000",
+        "rightarm": "#000000",
+        "shorts": "#DFFF00",
+        "socks": "#DFFF00"
+      },
+      {
+        "leftarm": "#FFFFFF",
+        "body": "#FFFFFF",
+        "rightarm": "#FFFFFF",
+        "shorts": "#FFFFFF",
+        "socks": "#000030"
+      }
+    ]
+  },
+  {
+    "_": "tottenham hotspur",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#FFFFFF",
+        "body": "#FFFFFF",
+        "rightarm": "#FFFFFF",
+        "shorts": "#000040",
+        "socks": "#FFFFFF",
+        "collar": "#000040"
+      },
+      {
+        "leftarm": "#000040",
+        "body": "#000040",
+        "rightarm": "#000040",
+        "shorts": "#000040",
+        "socks": "#000040"
+      }
+    ]
+  },
+  {
+    "_": "watford",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Watford_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#FAD300",
+        "body": "#FAD300",
+        "rightarm": "#FAD300",
+        "shorts": "#000000",
+        "socks": "#FAD300",
+        "left": "#000000",
+        "collar": "#000000"
+      },
+      {
+        "leftarm": "#084B8A",
+        "body": "#084B8A",
+        "rightarm": "#084B8A",
+        "shorts": "#084B8A",
+        "socks": "#084B8A"
+      }
+    ]
+  },
+  {
+    "_": "west ham united",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/West_Ham_United_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#7acbe5",
+        "body": "#7f0000",
+        "rightarm": "#7acbe5",
+        "shorts": "#7f0000",
+        "socks": "#7f0000",
+        "top": "#7acbe5"
+      },
+      {
+        "leftarm": "#FFFFFF",
+        "body": "#FFFFFF",
+        "rightarm": "#FFFFFF",
+        "shorts": "#FFFFFF",
+        "socks": "#FFFFFF"
+      },
+      {
+        "leftarm": "#250050",
+        "body": "#250050",
+        "rightarm": "#250050",
+        "shorts": "#250050",
+        "socks": "#250050"
+      }
+    ]
+  },
+  {
+    "_": "wolverampton wanderers",
+    "wikipediaUrl": "https://en.wikipedia.org/wiki/Wolverhampton_Wanderers_F.C.",
+    "jerseys": [
+      {
+        "leftarm": "#FF9900",
+        "body": "#FF9900",
+        "rightarm": "#FF9900",
+        "shorts": "#000000",
+        "socks": "#000000"
+      },
+      {
+        "leftarm": "#000000",
+        "body": "#000000",
+        "rightarm": "#000000",
+        "shorts": "#000000",
+        "socks": "#FFAA00"
+      }
+    ]
+  }
+]

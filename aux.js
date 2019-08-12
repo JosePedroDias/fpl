@@ -193,6 +193,17 @@ function listFilesByCreationTime(dir) {
   });
 }
 
+function fileExists(path) {
+  return new Promise((resolve, reject) => {
+    fs.stat(path, (err, stat) => {
+      if (err) {
+        return reject(err);
+      }
+      resolve(stat.isFile());
+    });
+  });
+}
+
 function ask(question) {
   return new Promise((resolve, reject) => {
     const r = readline.createInterface({
@@ -241,6 +252,7 @@ module.exports = {
   ask,
   exec,
   execRobust,
+  fileExists,
   get,
   getFile,
   has,

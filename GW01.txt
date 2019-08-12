@@ -1,0 +1,42 @@
+GKP
+Fabianski          West Ham            10
+Heaton             Aston Villa         10
+
+DEF
+Taylor             Burnley             10
+Maguire            Man Utd             11
+Wan-Bissaka        Man Utd             11
+Alexander-Arnold   Liverpool           09
+Diop               West Ham            10
+
+MID
+Salah              Liverpool           09
+Pedro              Chelsea             11
+Barkley            Chelsea             11
+Bernardo Silva     Man City            10
+Martial            Man Utd             11
+
+FWD
+Wood               Burnley             10
+Firmino            Liverpool           09
+Deeney             Watford             10
+
+-------------------------
+
+GW1
+
+09/08
+LIV 4-1 NOR
+
+10/08
+WHU 0-5 MCU
+BOU 1-1 SHU
+BUR 3-0 SOU
+CRY 0-0 EVE
+WAT 0-3 BHA
+TOT 3-1 AVL
+
+11/08
+LEI 0-0 WOL
+NEW 0-1 ARS
+MUN 4-0 CHE

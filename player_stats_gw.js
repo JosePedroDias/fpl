@@ -2,8 +2,8 @@ const { elementTypeToPosition, getTeamMappings, loadTeams } = require('./fpl');
 
 const { readJson, toPad, sortNum } = require('./aux');
 
-const gwBefore = '/home/jsad/Work/fpl/backup/pre_GW01_2019-08-08_22:11.json';
-const gwAfter = '/home/jsad/Work/fpl/backup/pre_GW02_2019-08-11_09:08.json';
+const gwBefore = 'backup/pre_GW01_2019-08-08_22:11.json';
+const gwAfter = 'backup/pre_GW02_2019-08-13_08:14.json';
 
 loadTeams();
 const { teamFromId, teamFromCode } = getTeamMappings();
@@ -15,9 +15,7 @@ const o1 = readJson(gwBefore);
 const o2 = readJson(gwAfter);
 
 o2.elements.forEach((e2) => {
-  if (myTeamCodes.indexOf(e2.code) === -1) {
-    return;
-  }
+  //if (myTeamCodes.indexOf(e2.code) === -1) { return; }
 
   const e1 = o1.elements.find((e) => e.id === e2.id);
   if (!e1) {
